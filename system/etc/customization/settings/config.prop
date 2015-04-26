@@ -1,0 +1,12 @@
+######################## Customized property values #########################
+ro.semc.enable.fast_dormancy=true
+ro.nfc.icon.enable=true
+ro.semc.ecclist.num=1
+ro.semc.ecclist.number.0=112
+persist.ro.ril.sms_sync_sending=1
+ro.product.locale.language=fr
+ro.product.locale.region=FR
+ro.telephony.default_network=9
+ro.cst.prm=1279-7243:R1D
+#############################################################################
+
