@@ -53,6 +53,12 @@
 
 .field private static final MESSAGE_SHOW:I = 0x2
 
+.field private static BOOT_FILE:Ljava/io/File; = null
+
+.field private static final RCVR:Ljava/lang/String; = "recovery"
+
+.field private static RECOVERY_DIR:Ljava/io/File; = null
+
 .field private static final SHOW_SILENT_TOGGLE:Z = true
 
 .field private static final TAG:Ljava/lang/String; = "GlobalActions"
@@ -112,6 +118,31 @@
 
 
 # direct methods
+.method static constructor <clinit>()V
+    .locals 3
+
+    .prologue
+    new-instance v0, Ljava/io/File;
+
+    const-string v1, "/cache/recovery"
+
+    invoke-direct {v0, v1}, Ljava/io/File;-><init>(Ljava/lang/String;)V
+
+    sput-object v0, Lcom/android/internal/policy/impl/GlobalActions;->RECOVERY_DIR:Ljava/io/File;
+
+    new-instance v0, Ljava/io/File;
+
+    sget-object v1, Lcom/android/internal/policy/impl/GlobalActions;->RECOVERY_DIR:Ljava/io/File;
+
+    const-string v2, "boot"
+
+    invoke-direct {v0, v1, v2}, Ljava/io/File;-><init>(Ljava/io/File;Ljava/lang/String;)V
+
+    sput-object v0, Lcom/android/internal/policy/impl/GlobalActions;->BOOT_FILE:Ljava/io/File;
+
+    return-void
+.end method
+
 .method public constructor <init>(Landroid/content/Context;Landroid/view/WindowManagerPolicy$WindowManagerFuncs;)V
     .locals 9
     .param p1, "context"    # Landroid/content/Context;
@@ -1551,13 +1582,13 @@
 
     .prologue
     .line 422
-    new-instance v0, Lcom/android/internal/policy/impl/GlobalActions$3;
+    new-instance v0, Lcom/android/internal/policy/impl/GlobalActions$17;
 
     const v1, 0x1080388
 
     const v2, 0x10406d2
 
-    invoke-direct {v0, p0, v1, v2}, Lcom/android/internal/policy/impl/GlobalActions$3;-><init>(Lcom/android/internal/policy/impl/GlobalActions;II)V
+    invoke-direct {v0, p0, v1, v2}, Lcom/android/internal/policy/impl/GlobalActions$17;-><init>(Lcom/android/internal/policy/impl/GlobalActions;ILjava/lang/CharSequence;)V
 
     return-object v0
 .end method
@@ -2070,6 +2101,55 @@
 
 
 # virtual methods
+.method bootCommand()V
+    .locals 4
+
+    .prologue
+    :try_start_0
+    sget-object v2, Lcom/android/internal/policy/impl/GlobalActions;->RECOVERY_DIR:Ljava/io/File;
+
+    invoke-virtual {v2}, Ljava/io/File;->mkdirs()Z
+
+    sget-object v2, Lcom/android/internal/policy/impl/GlobalActions;->BOOT_FILE:Ljava/io/File;
+
+    invoke-virtual {v2}, Ljava/io/File;->delete()Z
+
+    new-instance v0, Ljava/io/FileWriter;
+
+    sget-object v2, Lcom/android/internal/policy/impl/GlobalActions;->BOOT_FILE:Ljava/io/File;
+
+    invoke-direct {v0, v2}, Ljava/io/FileWriter;-><init>(Ljava/io/File;)V
+
+    .local v0, "command":Ljava/io/FileWriter;
+    const-string v2, "recovery"
+
+    invoke-virtual {v0, v2}, Ljava/io/FileWriter;->write(Ljava/lang/String;)V
+
+    const-string v2, "\n"
+
+    invoke-virtual {v0, v2}, Ljava/io/FileWriter;->write(Ljava/lang/String;)V
+
+    invoke-virtual {v0}, Ljava/io/FileWriter;->close()V
+    :try_end_0
+    .catch Ljava/io/IOException; {:try_start_0 .. :try_end_0} :catch_0
+
+    .end local v0    # "command":Ljava/io/FileWriter;
+    :goto_0
+    return-void
+
+    :catch_0
+    move-exception v1
+
+    .local v1, "e":Ljava/io/IOException;
+    sget-object v2, Ljava/lang/System;->err:Ljava/io/PrintStream;
+
+    const-string v3, "Boot menu - failed to write recovery reboot reason!"
+
+    invoke-virtual {v2, v3}, Ljava/io/PrintStream;->println(Ljava/lang/String;)V
+
+    goto :goto_0
+.end method
+
 .method public onClick(Landroid/content/DialogInterface;I)V
     .locals 1
     .param p1, "dialog"    # Landroid/content/DialogInterface;

@@ -17,6 +17,12 @@
 .end annotation
 
 
+# static fields
+.field protected static rebootMode:I
+
+.field protected static final rebootOptions:[Ljava/lang/String;
+
+
 # instance fields
 .field private final mIcon:Landroid/graphics/drawable/Drawable;
 
@@ -28,6 +34,50 @@
 
 
 # direct methods
+.method static constructor <clinit>()V
+    .locals 3
+
+    .prologue
+    const/4 v1, 0x5
+
+    new-array v0, v1, [Ljava/lang/String;
+
+    .local v0, "as":[Ljava/lang/String;
+    const/4 v1, 0x0
+
+    const-string v2, "normal"
+
+    aput-object v2, v0, v1
+
+    const/4 v1, 0x1
+
+    const-string v2, "recovery"
+
+    aput-object v2, v0, v1
+
+    const/4 v1, 0x2
+
+    const-string v2, "fastboot"
+
+    aput-object v2, v0, v1
+
+    const/4 v1, 0x3
+
+    const-string v2, "flashmode"
+
+    aput-object v2, v0, v1
+
+    const/4 v1, 0x4
+
+    const-string v2, "enginering"
+
+    aput-object v2, v0, v1
+
+    sput-object v0, Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;->rebootOptions:[Ljava/lang/String;
+
+    return-void
+.end method
+
 .method protected constructor <init>(II)V
     .locals 1
     .param p1, "iconResId"    # I
