@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (signatory)
+
+Name: res/drawable/ic_settings_stamina_mode.xml
+SHA1-Digest: VltT82CeTA3jxN/jLITHvfUoWSw=
+
+Name: res/layout/notification_list.xml
+SHA1-Digest: StanoQof8itOGmJtpWPWChz7PKU=
+
+Name: res/layout/notification_tab_host.xml
+SHA1-Digest: yOg25ujeAJAqf1DueVhm5MpmZ0U=
+
+Name: res/layout/notification_listitem.xml
+SHA1-Digest: ZWcrIKZsnUnpLQvysOSMHhLy2kI=
+
+Name: res/drawable-xhdpi-v4/ic_settings_time.png
+SHA1-Digest: ubXPZMJ9S0BGqinv+C1RkeQDOx4=
+
+Name: resources.arsc
+SHA1-Digest: /zWZqN/c0pag+L1dx1gz1mZ3R/k=
+
+Name: res/drawable-xhdpi-v4/ic_settings_wifi.png
+SHA1-Digest: jjrHiwdIgltVBxxmsfvQHH3/0bo=
+
+Name: res/drawable-xhdpi-v4/ic_settings_stamina_disabled.png
+SHA1-Digest: b48B3r7B9wlQFZCQLVKXajWOSBE=
+
+Name: classes.dex
+SHA1-Digest: oxGJAe4lonLwlnpEccU1bcniHFA=
+
+Name: res/drawable/ic_settings_battery_percent.xml
+SHA1-Digest: TS111bfGQdhbZbkC4KlpoNbwYXk=
+
+Name: res/layout/main.xml
+SHA1-Digest: 0j9BoK5YAJnpASe/yHy6jFONOhc=
+
+Name: res/drawable-xhdpi-v4/ic_settings_silentmode.png
+SHA1-Digest: wCLEJBt/KdqrlSwtvZGXDCYird4=
+
+Name: res/drawable-xhdpi-v4/ic_settings_bluetooth.png
+SHA1-Digest: 1TG9ahfDRdyi/HRsvbYtGWjlo74=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 0EfGowqVyVovyde15Z/p55HBrdg=
+
+Name: res/drawable-xhdpi-v4/ic_settings_battery_perc_disabled.png
+SHA1-Digest: bP4BCjYAvaMCESYey6M7xe4nRdc=
+
+Name: res/drawable-xhdpi-v4/ic_settings_stamina.png
+SHA1-Digest: SIovxxWCF4S9BFqOjW0AhNlv8Uk=
+
+Name: res/drawable-xhdpi-v4/ic_settings_batterystatus.png
+SHA1-Digest: CCYuK5hZ6mFqHmRRi9ytoTklOmU=
+
+Name: res/drawable-xhdpi-v4/ic_settings_alarm.png
+SHA1-Digest: k33/2FwEdx1eGR1ZvdFUAp0Bnu8=
+
+Name: res/drawable-xhdpi-v4/ic_settings_location.png
+SHA1-Digest: 5y2uV3I2EcAp0lgYxM862q8vdeQ=
+
+Name: res/layout/system_icon_listitem.xml
+SHA1-Digest: bEy91TC3ZD7L7Ovm40fkPuXbEx0=
+
+Name: res/drawable-xhdpi-v4/ic_settings_battery_perc.png
+SHA1-Digest: qfY82RlUMHbv9LuaF1j/r+BWaRA=
+
+Name: res/layout/system_icon_list.xml
+SHA1-Digest: 2wgnMusQDYH9u/4aP9m1EQnrNNM=
+
