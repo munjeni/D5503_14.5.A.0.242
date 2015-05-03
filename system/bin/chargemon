@@ -205,9 +205,10 @@ if [ -s /dev/keycheck ] || [ -f /cache/recovery/boot ] || [ -e /cache/recovery/c
 
   if /things/busybox cat /dev/keycheck | /things/busybox tail -2 | /things/busybox hexdump | /things/busybox grep "0001 0072"; then
     /things/busybox cp -fr /system/bin/recovery.munjeni.gz /recovery/recovery.munjeni.gz
-  fi
-  if /things/busybox cat /dev/keycheck | /things/busybox tail -2 | /things/busybox hexdump | /things/busybox grep "0001 0073"; then
+  elif /things/busybox cat /dev/keycheck | /things/busybox tail -2 | /things/busybox hexdump | /things/busybox grep "0001 0073"; then
     /things/busybox cp -fr /system/bin/recovery.twrp.gz /recovery/recovery.munjeni.gz
+  else
+    /things/busybox cp -fr /system/bin/recovery.munjeni.gz /recovery/recovery.munjeni.gz
   fi
   /things/busybox chcon u:object_r:system_file:s0 /recovery/recovery.munjeni.gz
   cd /recovery
