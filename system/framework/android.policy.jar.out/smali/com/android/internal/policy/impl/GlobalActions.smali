@@ -1582,13 +1582,13 @@
 
     .prologue
     .line 422
-    new-instance v0, Lcom/android/internal/policy/impl/GlobalActions$3;
+    new-instance v0, Lcom/android/internal/policy/impl/GlobalActions$17;
 
     const v1, 0x1080388
 
-    const v2, 0x10406d2
+    const-string v2, "Reboot"
 
-    invoke-direct {v0, p0, v1, v2}, Lcom/android/internal/policy/impl/GlobalActions$3;-><init>(Lcom/android/internal/policy/impl/GlobalActions;II)V
+    invoke-direct {v0, p0, v1, v2}, Lcom/android/internal/policy/impl/GlobalActions$17;-><init>(Lcom/android/internal/policy/impl/GlobalActions;ILjava/lang/CharSequence;)V
 
     return-object v0
 .end method
