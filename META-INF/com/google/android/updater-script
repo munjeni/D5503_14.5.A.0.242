@@ -4621,6 +4621,8 @@ set_perm(0, 0, 0755, "/system/priv-app/CalendarProvider");
 set_perm(0, 0, 0755, "/system/priv-app/CameraCommon");
 set_perm(0, 0, 0755, "/system/priv-app/com.qualcomm.location");
 set_perm(0, 0, 0755, "/system/priv-app/Conversations");
+set_perm(0, 0, 0755, "/system/priv-app/CPUsettings");
+set_perm(0, 0, 0755, "/system/priv-app/CPUstats");
 set_perm(0, 0, 0755, "/system/priv-app/CredentialManagerService");
 set_perm(0, 0, 0755, "/system/priv-app/CustomizationSelector");
 set_perm(0, 0, 0755, "/system/priv-app/CustomizedSettings");
@@ -4727,6 +4729,8 @@ set_perm(0, 0, 0644, "/system/priv-app/BackupRestoreConfirmation/BackupRestoreCo
 set_perm(0, 0, 0644, "/system/priv-app/CalendarProvider/CalendarProvider.apk");
 set_perm(0, 0, 0644, "/system/priv-app/CameraCommon/CameraCommon.apk");
 set_perm(0, 0, 0644, "/system/priv-app/Conversations/Conversations.apk");
+set_perm(0, 0, 0644, "/system/priv-app/CPUsettings/CPUsettings.apk");
+set_perm(0, 0, 0644, "/system/priv-app/CPUstats/CPUstats.apk");
 set_perm(0, 0, 0644, "/system/priv-app/CredentialManagerService/CredentialManagerService.apk");
 set_perm(0, 0, 0755, "/system/priv-app/CredentialManagerService/lib");
 set_perm(0, 0, 0755, "/system/priv-app/CredentialManagerService/lib/arm");
@@ -11223,6 +11227,8 @@ run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CameraCommon");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/com.qualcomm.location");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/Conversations");
+run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CPUsettings");
+run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CPUstats");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CredentialManagerService");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CustomizationSelector");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CustomizedSettings");
@@ -11329,6 +11335,8 @@ run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CalendarProvider/CalendarProvider.apk");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CameraCommon/CameraCommon.apk");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/Conversations/Conversations.apk");
+run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CPUsettings/CPUsettings.apk");
+run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CPUstats/CPUstats.apk");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CredentialManagerService/CredentialManagerService.apk");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CredentialManagerService/lib");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/priv-app/CredentialManagerService/lib/arm");
