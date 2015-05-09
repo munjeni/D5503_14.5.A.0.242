@@ -4349,6 +4349,7 @@ set_perm(0, 0, 0644, "/system/lib/modules/s5h1420.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/s5h1432.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/s921.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/scsi_wait_scan.ko");
+set_perm(0, 0, 0644, "/system/lib/modules/sdcardfs.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/si21xx.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/sp8870.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/sp887x.ko");
@@ -10958,6 +10959,7 @@ run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/m
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/s5h1432.ko");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/s921.ko");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/scsi_wait_scan.ko");
+run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/sdcardfs.ko");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/si21xx.ko");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/sp8870.ko");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/sp887x.ko");
