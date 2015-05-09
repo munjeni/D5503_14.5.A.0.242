@@ -23,7 +23,7 @@ TIMING_TRICK_FOR_RIC() {
 insmod /system/lib/modules/byeselinux.ko
 
 # install custom kernel modules
-#insmod /system/lib/modules/cpufreq_lionheart.ko
+insmod /system/lib/modules/cpufreq_lionheart.ko
 #insmod /system/lib/modules/usbserial.ko
 #insmod /system/lib/modules/ftdi_sio.ko
 #insmod /system/lib/modules/sdcardfs.ko

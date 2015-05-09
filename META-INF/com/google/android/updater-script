@@ -4270,6 +4270,7 @@ set_perm(0, 0, 0644, "/system/lib/modules/ansi_cprng.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/atbm8830.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/au8522.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/bcm3510.ko");
+set_perm(0, 0, 0644, "/system/lib/modules/cpufreq_lionheart.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/cx22700.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/cx22702.ko");
 set_perm(0, 0, 0644, "/system/lib/modules/cx24110.ko");
@@ -10876,6 +10877,7 @@ run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/m
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/atbm8830.ko");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/au8522.ko");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/bcm3510.ko");
+run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/cpufreq_lionheart.ko");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/cx22700.ko");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/cx22702.ko");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/lib/modules/cx24110.ko");
