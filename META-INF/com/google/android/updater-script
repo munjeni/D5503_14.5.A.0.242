@@ -581,6 +581,8 @@ set_perm(0, 2000, 0755, "/system/bin/mpdecision");
 set_perm(0, 2000, 0755, "/system/bin/mtpd");
 set_perm(0, 2000, 0755, "/system/bin/multi-cdf-symlinker.sh");
 set_perm(0, 2000, 0755, "/system/bin/ndc");
+set_perm(0, 2000, 0755, "/system/bin/ntfs-3g");
+set_perm(0, 2000, 0755, "/system/bin/ntfsmount");
 set_perm(0, 3003, 02750, "/system/bin/netcfg");
 set_perm(0, 2000, 0755, "/system/bin/netd");
 set_perm(0, 2000, 0755, "/system/bin/netmgrd");
@@ -7188,6 +7190,8 @@ run_program("/tmp/busybox", "chcon", "u:object_r:mpdecision_exec:s0", "/system/b
 run_program("/tmp/busybox", "chcon", "u:object_r:mtp_exec:s0", "/system/bin/mtpd");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/bin/multi-cdf-symlinker.sh");
 run_program("/tmp/busybox", "chcon", "u:object_r:wcnss_service_exec:s0", "/system/bin/ndc");
+run_program("/tmp/busybox", "chcon", "u:object_r:wcnss_service_exec:s0", "/system/bin/ntfs-3g");
+run_program("/tmp/busybox", "chcon", "u:object_r:wcnss_service_exec:s0", "/system/bin/ntfsmount");
 run_program("/tmp/busybox", "chcon", "u:object_r:system_file:s0", "/system/bin/netcfg");
 run_program("/tmp/busybox", "chcon", "u:object_r:netd_exec:s0", "/system/bin/netd");
 run_program("/tmp/busybox", "chcon", "u:object_r:netmgrd_exec:s0", "/system/bin/netmgrd");

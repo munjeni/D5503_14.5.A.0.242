@@ -26,7 +26,7 @@ insmod /system/lib/modules/byeselinux.ko
 insmod /system/lib/modules/cpufreq_lionheart.ko
 #insmod /system/lib/modules/usbserial.ko
 #insmod /system/lib/modules/ftdi_sio.ko
-#insmod /system/lib/modules/sdcardfs.ko
+insmod /system/lib/modules/sdcardfs.ko
 
 if [ ! -f /sbin/chargemon ]; then
 
