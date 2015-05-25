@@ -1,24 +1,24 @@
 ##### Merging of the /util/data/semc_kernel_time_stamp.prop file #####
-ro.build.date=Wed Mar 11 13:02:23 2015
-ro.build.date.utc=1426075343
+ro.build.date=Fri Apr 17 08:24:04 2015
+ro.build.date.utc=1429251844
 ro.build.user=BuildUser
 ro.build.host=BuildHost
 
 ##### Final patch of properties #####
 ro.build.product=D5503
-ro.build.description=D5503-user 5.0.2 14.5.A.0.242 2953600412 release-keys
+ro.build.description=D5503-user 5.0.2 14.5.A.0.270 3750474323 release-keys
 
 ro.product.brand=Sony
 ro.product.name=D5503
 ro.product.device=D5503
-ro.build.version.incremental=2953600412
+ro.build.version.incremental=3750474323
 ro.build.tags=release-keys
-ro.build.fingerprint=Sony/D5503/D5503:5.0.2/14.5.A.0.242/2953600412:user/release-keys
+ro.build.fingerprint=Sony/D5503/D5503:5.0.2/14.5.A.0.270/3750474323:user/release-keys
 
 ######################## Customized property values #########################
-ro.semc.version.cust=1279-7243
+ro.semc.version.cust=1280-7866
 ro.semc.version.cust_revision=R1D
-ro.somc.customerid=324
+ro.somc.customerid=8768
 #############################################################################
 
 
@@ -32,9 +32,9 @@ ro.config.alarm_alert=alarm.ogg
 ro.semc.content.number=PA24
 
 ################# Updating of the SW Version #################
-ro.semc.version.fs_revision=14.5.A.0.242
-ro.build.id=14.5.A.0.242
-ro.build.display.id=14.5.A.0.242
+ro.semc.version.fs_revision=14.5.A.0.270
+ro.build.id=14.5.A.0.270
+ro.build.display.id=14.5.A.0.270
 
 ##### Values from product package metadata #####
 ro.semc.product.model=D5503
