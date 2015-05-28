@@ -1379,7 +1379,7 @@
 
     move-result-wide v0
 
-    iput-wide v0, p0, Lcom/android/server/am/ActivityManagerService;->mLastIdleTime:J
+    iput-wide v0, p0, Lcom/android/server/am/ActivityManagerService;->mLastMemUsageReportTime:J
 
     .line 627
     const/4 v0, 0x0
@@ -1570,7 +1570,7 @@
     .line 975
     const/4 v0, 0x0
 
-    iput v0, p0, Lcom/android/server/am/ActivityManagerService;->GL_ES_VERSION:I
+    iput-boolean v0, p0, Lcom/android/server/am/ActivityManagerService;->mWentToSleep:Z
 
     .line 980
     const/4 v0, 0x0
@@ -1632,17 +1632,17 @@
 
     move-result-wide v0
 
-    iput-wide v0, p0, Lcom/android/server/am/ActivityManagerService;->mLastMemUsageReportTime:J
+    iput-wide v0, p0, Lcom/android/server/am/ActivityManagerService;->mLastPowerCheckRealtime:J
 
     .line 1045
     const-wide/16 v0, 0x0
 
-    iput-wide v0, p0, Lcom/android/server/am/ActivityManagerService;->mPreviousProcessVisibleTime:J
+    iput-wide v0, p0, Lcom/android/server/am/ActivityManagerService;->mAppSwitchesAllowedTime:J
 
     .line 1050
     const-wide/16 v0, 0x0
 
-    iput-wide v0, p0, Lcom/android/server/am/ActivityManagerService;->mLowRamTimeSinceLastIdle:J
+    iput-wide v0, p0, Lcom/android/server/am/ActivityManagerService;->mPreviousProcessVisibleTime:J
 
     .line 1055
     const/4 v0, 0x0
@@ -1789,7 +1789,7 @@
     .line 1131
     const-wide/16 v0, 0x0
 
-    iput-wide v0, p0, Lcom/android/server/am/ActivityManagerService;->mLowRamStartTime:J
+    iput-wide v0, p0, Lcom/android/server/am/ActivityManagerService;->mLowRamTimeSinceLastIdle:J
 
     .line 1137
     new-instance v0, Landroid/os/UpdateLock;
@@ -1848,7 +1848,7 @@
     .line 1238
     const-wide/16 v0, 0x0
 
-    iput-wide v0, p0, Lcom/android/server/am/ActivityManagerService;->mLastPowerCheckRealtime:J
+    iput-wide v0, p0, Lcom/android/server/am/ActivityManagerService;->mLastPowerCheckUptime:J
 
     .line 1244
     const/4 v0, 0x0
@@ -2174,7 +2174,7 @@
 
     move-result v0
 
-    iput-boolean v0, p0, Lcom/android/server/am/ActivityManagerService;->mWentToSleep:Z
+    iput v0, p0, Lcom/android/server/am/ActivityManagerService;->GL_ES_VERSION:I
 
     .line 2347
     iget-object v0, p0, Lcom/android/server/am/ActivityManagerService;->mConfiguration:Landroid/content/res/Configuration;
