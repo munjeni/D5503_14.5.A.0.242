@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:key="audiosettings" settings:before="first" settings:targetParentKey="sound" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.soundenhancement" android:action="android.intent.action.MAIN" android:targetClass="com.sonyericsson.soundenhancement.AudioEffectMenuForAudioActivity">
+            <extra android:name="android.media.extra.PACKAGE_NAME" android:value="com.android.settings" />
+            <extra android:name="com.sonyericsson.soundenhancement.EXTRA_START_TYPE" android:value="START_FOR_AUDIO" />
+        </intent>
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="accessorysettings" settings:before="media_volume" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.soundenhancement" android:action="android.intent.action.MAIN" android:targetClass="com.sonyericsson.soundenhancement.AudioEffectMenuForAccessoryActivity">
+            <extra android:name="android.media.extra.PACKAGE_NAME" android:value="com.android.settings" />
+            <extra android:name="com.sonyericsson.soundenhancement.EXTRA_START_TYPE" android:value="START_FOR_ACCESSORY" />
+        </intent>
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.SwitchPreference android:title="@string/bootanimation_sound_title_txt" android:key="bootanimation_sound" android:defaultValue="@android:bool/config_bootAnimationSoundEnabled" settings:before="other_sounds" settings:valueOfSettingsSystem="bootanimation_sound_enabled" />
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetParentKey="notification" settings:targetKey="app_notifications">
+        <intent android:targetPackage="com.sonyericsson.settings" android:targetClass="com.sonymobile.settings.notifications.NotificationSettings" />
+    </com.sonymobile.settings.preference.RemovePreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="somc_app_notifications" settings:dependOnIsValidIntent="true" settings:after="lock_screen_notifications" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.settings" android:targetClass="com.sonymobile.settings.notifications.NotificationSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

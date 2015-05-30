@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>təxmini yerləşmə</item>
+        <item>yaxşı yer</item>
+        <item>GPS</item>
+        <item>vibrasiya</item>
+        <item>kontaktları oxuyun</item>
+        <item>kontaktları yaz</item>
+        <item>zəng jurnalı oxuyun</item>
+        <item>zəng jurnalını yaz</item>
+        <item>təqvimi oxuyun</item>
+        <item>təqvimə dəyişiklik edin</item>
+        <item>WLAN skan</item>
+        <item>bildiriş</item>
+        <item>mobil skan</item>
+        <item>Telefona zəng edin</item>
+        <item>SMS oxuyun</item>
+        <item>SMS yazın</item>
+        <item>SMS alın</item>
+        <item>təcili SMS alın</item>
+        <item>MMS alın</item>
+        <item>WAP push əldə edin</item>
+        <item>SMS göndərin</item>
+        <item>ICC SMS oxuyun</item>
+        <item>ICC SMS yazın</item>
+        <item>ayarları dəyişin</item>
+        <item>yuxarıda çəkin</item>
+        <item>giriş bildirişi</item>
+        <item>kamera</item>
+        <item>audio qeydəalın</item>
+        <item>audio oxudun</item>
+        <item>panonu oxuyun</item>
+        <item>panoda dəyişiklik edin</item>
+        <item>media düymələri</item>
+        <item>audio fokus</item>
+        <item>master həcmi</item>
+        <item>səs həcmi</item>
+        <item>zəng həcmi</item>
+        <item>media həcmi</item>
+        <item>siqnal səsi</item>
+        <item>bildiriş həcmi</item>
+        <item>bluetooth həcmi</item>
+        <item>oyaq saxla</item>
+        <item>məkanı monitor edin</item>
+        <item>yüksək enerji məkanına nəzarət</item>
+        <item>istifadə statistikası al</item>
+        <item>mikrofonu səssiz/səsli et</item>
+        <item>tost pəncərəsi</item>
+        <item>layihə mediası</item>
+        <item>VPN aktivləşdir</item>
+        <item>WLAN dəyişmə</item>
+        <item>Bluetooth dəyişmə</item>
+        <item>MMS göndər</item>
+        <item>MMS oxu</item>
+        <item>MMS yaz</item>
+        <item>avtom başla</item>
+        <item>NFC dəyişmə</item>
+        <item>SMS sil</item>
+        <item>MMS sil</item>
+        <item>kontaktları sil</item>
+        <item>zəng jurnalını sil</item>
+        <item>məlumat dəyişmə</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Məkan</item>
+        <item>Məkan</item>
+        <item>Məkan</item>
+        <item>Vibrasiya</item>
+        <item>Kontaktları oxuyun</item>
+        <item>Kontaktları yaz</item>
+        <item>Zəng jurnalı oxuyun</item>
+        <item>Zəng jurnalını yaz</item>
+        <item>Təqvim oxuyun</item>
+        <item>Təqvimə dəyişiklik edin</item>
+        <item>Yerləşmə</item>
+        <item>Bildiriş göndərin</item>
+        <item>Məkan</item>
+        <item>Telefon zəngi</item>
+        <item>SMS oxu</item>
+        <item>SMS yaz</item>
+        <item>SMS al</item>
+        <item>SMS al</item>
+        <item>MMS al</item>
+        <item>SMS al</item>
+        <item>SMS göndər</item>
+        <item>SMS oxu</item>
+        <item>SMS yaz</item>
+        <item>Parametrləri dəyişin</item>
+        <item>Yuxarıda çəkin</item>
+        <item>Bildirişlərə çıxış</item>
+        <item>Kamera</item>
+        <item>Audio yaz</item>
+        <item>Audio oxudun</item>
+        <item>Mübadilə buferini oxuyun</item>
+        <item>Mübadilə buferini dəyişin</item>
+        <item>Media düymələri</item>
+        <item>Audio fokus</item>
+        <item>Səs ucalığı ustası</item>
+        <item>Səs ucalığı</item>
+        <item>Zəng səsinin ucalığı</item>
+        <item>Media səsinin ucalığı</item>
+        <item>Siqnal səsinin ucalığı</item>
+        <item>Bildiriş səsinin ucalığı</item>
+        <item>Bluetooth səsinin ucalığı</item>
+        <item>Oyaq qal</item>
+        <item>Məkan</item>
+        <item>Məkan</item>
+        <item>İstifadə statistikası al</item>
+        <item>Mikrofonu səssiz/səsli et</item>
+        <item>Tost pəncərəsi</item>
+        <item>Layihə mediası</item>
+        <item>VPN aktivləşdir</item>
+        <item>WLAN dəyişmə</item>
+        <item>Bluetooth dəyişmə</item>
+        <item>MMS göndər</item>
+        <item>MMS oxu</item>
+        <item>MMS yaz</item>
+        <item>Avtom başla</item>
+        <item>NFC dəyişmə</item>
+        <item>SMS sil</item>
+        <item>MMS sil</item>
+        <item>Kontaktları sil</item>
+        <item>Zəng jurnalını sil</item>
+        <item>Məlumat dəyişmə</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN onaltılıq</item>
+    </string-array>
+</resources>

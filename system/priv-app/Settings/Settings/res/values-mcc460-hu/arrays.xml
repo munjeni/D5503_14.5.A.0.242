@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>hozzávetőleges helymeghatározás</item>
+        <item>pontos helymeghatározás</item>
+        <item>GPS</item>
+        <item>rezgés</item>
+        <item>névjegyek olvasása</item>
+        <item>névjegyek írása</item>
+        <item>hívásnapló olvasása</item>
+        <item>hívásnapló írása</item>
+        <item>naptár olvasása</item>
+        <item>naptár módosítása</item>
+        <item>WLAN hálózat keresése</item>
+        <item>értesítés</item>
+        <item>hálózatkeresés</item>
+        <item>telefonálás</item>
+        <item>SMS olvasása</item>
+        <item>SMS írása</item>
+        <item>SMS fogadása</item>
+        <item>sürgősségi SMS fogadása</item>
+        <item>MMS fogadása</item>
+        <item>WAP push fogadása</item>
+        <item>SMS küldése</item>
+        <item>ICC SMS olvasása</item>
+        <item>ICC SMS írása</item>
+        <item>beállítások módosítása</item>
+        <item>megjelenítés felül</item>
+        <item>Hozzáférési értesítések</item>
+        <item>kamera</item>
+        <item>hanganyag rögzítése</item>
+        <item>hanganyag lejátszása</item>
+        <item>vágólap olvasása</item>
+        <item>vágólap módosítása</item>
+        <item>médiagombok</item>
+        <item>audiofókusz</item>
+        <item>hangerő-szabályozó</item>
+        <item>beszéd hangereje</item>
+        <item>csengés hangereje</item>
+        <item>média hangereje</item>
+        <item>ébresztés hangereje</item>
+        <item>értesítés hangereje</item>
+        <item>bluetooth hangereje</item>
+        <item>ébren tartás</item>
+        <item>hely figyelése</item>
+        <item>magas energiaszintű helyek figyelése</item>
+        <item>használati statisztikák lekérése</item>
+        <item>mikrofon némítása és a némítás feloldása</item>
+        <item>tájékoztató ablak</item>
+        <item>médiatartalom kivetítése</item>
+        <item>VPN aktiválása</item>
+        <item>WLAN módosítása</item>
+        <item>Bluetooth módosítása</item>
+        <item>MMS küldése</item>
+        <item>MMS olvasása</item>
+        <item>MMS írása</item>
+        <item>automatikus indítás</item>
+        <item>NFC módosítása</item>
+        <item>SMS törlése</item>
+        <item>MMS törlése</item>
+        <item>névjegyek törlése</item>
+        <item>hívásnapló törlése</item>
+        <item>adatok módosítása</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Hely</item>
+        <item>Hely</item>
+        <item>Hely</item>
+        <item>Rezgés</item>
+        <item>Névjegyek olvasása</item>
+        <item>Névjegyek írása</item>
+        <item>Hívásnapló olvasása</item>
+        <item>Hívásnapló írása</item>
+        <item>Naptár olvasása</item>
+        <item>Naptár módosítása</item>
+        <item>Hely</item>
+        <item>Értesítés közzététele</item>
+        <item>Hely</item>
+        <item>Telefonálás</item>
+        <item>SMS olvasása</item>
+        <item>SMS írása</item>
+        <item>SMS fogadása</item>
+        <item>SMS fogadása</item>
+        <item>MMS fogadása</item>
+        <item>SMS fogadása</item>
+        <item>SMS küldése</item>
+        <item>SMS olvasása</item>
+        <item>SMS írása</item>
+        <item>Beállítások módosítása</item>
+        <item>Megjelenítés felül</item>
+        <item>Hozzáférési értesítések</item>
+        <item>Kamera</item>
+        <item>Hanganyag rögzítése</item>
+        <item>Hanganyag lejátszása</item>
+        <item>Vágólap olvasása</item>
+        <item>Vágólap módosítása</item>
+        <item>Médiagombok</item>
+        <item>Audiofókusz</item>
+        <item>Hangerő-szabályozó</item>
+        <item>Beszéd hangereje</item>
+        <item>Csengés hangereje</item>
+        <item>Média hangereje</item>
+        <item>Ébresztés hangereje</item>
+        <item>Értesítés hangereje</item>
+        <item>Bluetooth hangereje</item>
+        <item>Ébren tartás</item>
+        <item>Tartózkodási hely</item>
+        <item>Tartózkodási hely</item>
+        <item>Használati statisztikák lekérése</item>
+        <item>Mikrofon némítása és a némítás feloldása</item>
+        <item>Tájékoztató ablak</item>
+        <item>Médiatartalom kivetítése</item>
+        <item>VPN aktiválása</item>
+        <item>WLAN módosítása</item>
+        <item>Bluetooth módosítása</item>
+        <item>MMS küldése</item>
+        <item>MMS olvasása</item>
+        <item>MMS írása</item>
+        <item>Automatikus indítás</item>
+        <item>NFC módosítása</item>
+        <item>SMS törlése</item>
+        <item>MMS törlése</item>
+        <item>Névjegyek törlése</item>
+        <item>Hívásnapló törlése</item>
+        <item>Adatok módosítása</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

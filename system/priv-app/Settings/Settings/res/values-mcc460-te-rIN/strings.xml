@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radio_controls_summary">WLAN, బ్లూటూత్, విమాన మోడ్, సెల్యులార్ నెట్‌వర్క్‌లు, &amp; VPNలను నిర్వహించండి</string>
+    <string name="wifi_assistant_intro_setup">"WLAN సహాయకాన్ని
+ పరిచయం చేస్తున్నాము"</string>
+    <string name="wifi_assistant_card_message">WLAN సహాయకంతో అందుబాటులో ఉన్న నెట్‌వర్క్‌లకు స్వయంచాలకంగా కనెక్ట్ చేయండి.</string>
+    <string name="wifi_assistant_title">WLAN సహాయకం</string>
+    <string name="wifi_assistant_title_message">%1$s అందుబాటులో ఉన్న ఉత్తమ WLANకి మిమ్మల్ని స్వయంచాలకంగా కనెక్ట్ చేస్తుంది</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLANని ప్రారంభించండి</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN సెట్టింగ్‌లు</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLANను ఎంచుకోండి</string>
+    <string name="wifi_select_network">WLANను ఎంచుకోండి</string>
+    <string name="wifi_starting">WLANను ప్రారంభిస్తోంది…</string>
+    <string name="wifi_stopping">WLANని ఆపివేస్తోంది…</string>
+    <string name="wifi_poor_network_detection_summary">WLAN నెట్‌వర్క్ ఉత్తమ ఇంటర్నెట్ కనెక్షన్‌ను కలిగి ఉంటే మినహా ఉపయోగించవద్దు</string>
+    <string name="wifi_scan_always_available_summary">WLAN ఆఫ్‌లో ఉన్నప్పటికీ నెట్‌వర్క్‌ల కోసం స్కాన్ చేయడానికి Google స్థాన సేవ మరియు ఇతర అనువర్తనాలను అనుమతించు</string>
+    <string name="wifi_automatically_manage_title">WLANని స్వయంచాలకంగా నిర్వహించు</string>
+    <string name="wifi_automatically_manage_summary">మీ WLAN కనెక్షన్‌ను నిర్వహించడానికి %1$s అనుమతించండి</string>
+    <string name="wifi_scan_notify_text_location_on">స్థాన ఖచ్చితత్వాన్ని మెరుగుపరచడానికి మరియు ఇతర ప్రయోజనాల దృష్ట్యా, Google మరియు ఇతర అనువర్తనాలు WLAN ఆఫ్‌లో ఉన్నప్పటికీ, నెట్‌వర్క్‌ల కోసం అనువర్తనాలు స్కాన్ చేయవచ్చు. మీరు ఇలా జరగకూడదనుకుంటే, అధునాతనం > స్కానింగ్‌ ఎల్లప్పుడూ అందుబాటులో ఉంచుకు వెళ్లండి.</string>
+    <string name="wifi_scan_notify_text_location_off">WLAN ఆఫ్‌లో ఉన్నప్పటికీ సమీపంలోని నెట్‌వర్క్‌ల కోసం అనువర్తనాలు స్కాన్ చేయవచ్చు. మీరు ఇలా జరగకూడదనుకుంటే, అధునాతనం > స్కానింగ్‌ ఎల్లప్పుడూ అందుబాటులో ఉంచుకు వెళ్లండి.</string>
+    <string name="wifi_setting_sleep_policy_title">నిద్రావస్థలో ఉన్నప్పుడు WLANని ఆన్‌లో ఉంచు</string>
+    <string name="wifi_setting_on_during_sleep_title">నిద్రావస్థలో WLAN ఆన్‌లో ఉంచు</string>
+    <string name="wifi_suspend_optimizations">WLAN అనుకూలీకరణ</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN ఆన్‌లో ఉన్నప్పుడు బ్యాటరీ వినియోగాన్ని కనిష్టీకరించు</string>
+    <string name="wifi_limit_optimizations_summary">WLAN విని. బ్యాటరీ పరి. చేయి</string>
+    <string name="wifi_access_points">WLAN నెట్‌వర్క్‌లు</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">అందుబాటులో ఉన్న నెట్‌వర్క్‌లను చూడటానికి, WLAN ప్రారంభించండి.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN నెట్‌వర్క్‌ల కోసం శోధిస్తోంది…</string>
+    <string name="wifi_empty_list_user_restricted">మీకు WLAN నెట్‌వర్క్‌ను మార్చడానికి అనుమతి లేదు.</string>
+    <string name="wifi_required_info_text">సెటప్‌ను పూర్తి చేయడానికి, మీ టాబ్లెట్ WLANకి ప్రాప్యత చేయాలి. సెటప్ చేసిన తర్వాత, మీరు సెల్యులార్ డేటా మరియు WLANల మధ్య మార్చవచ్చు.</string>
+    <string name="wifi_wps_setup_title">WLAN సురక్షిత సెటప్</string>
+    <string name="wifi_wps_onstart_pbc">మీ రూటర్‌లో WLAN సురక్షిత సెటప్ బటన్‌ను నొక్కండి. దీన్ని \"WPS\" అని పిలవవచ్చు లేదా ఇది ఈ చిహ్నాన్ని కలిగి ఉండవచ్చు:</string>
+    <string name="wifi_wps_onstart_pin">మీ WLAN రూటర్‌లో పిన్ %1$sను నమోదు చేయండి. సెటప్ పూర్తి కావడానికి గరిష్టంగా రెండు నిమిషాలు పట్టవచ్చు.</string>
+    <string name="wifi_wps_connected">WLAN నెట్‌వర్క్ %sకు కనెక్ట్ చేయబడింది</string>
+    <string name="wifi_scan_always_turnon_message">"స్థాన ఖచ్చితత్వాన్ని మెరుగుపరచడానికి మరియు ఇతర ప్రయోజనాల దృష్ట్యా, %1$s WLAN ఆఫ్‌లో ఉన్నప్పటికీ, నెట్‌వర్క్‌ను స్కాన్ చేయడం ప్రారంభించాలనుకుంటుంది.
+
+స్కాన్ చేయాలనుకునే అన్ని అనువర్తనాల కోసం దీన్ని అనుమతించాలా?"</string>
+    <string name="wifi_skipped_message">హెచ్చరిక: మీరు WLANని దాటవేస్తే, మీ ఫోన్ ప్రాథమిక డౌన్‌లోడ్‌లు మరియు నవీకరణల కోసం సెల్యులార్ డేటాని మాత్రమే ఉపయోగిస్తుంది. సంభావ్య డేటా ఛార్జీలను నివారించడానికి, WLANకి కనెక్ట్ చేయండి.</string>
+    <string name="wifi_and_mobile_skipped_message">హెచ్చరిక: మీరు WLANని దాటవేస్తే, మీ ఫోన్ ఏవైనా ప్రాథమిక డౌన్‌లోడ్‌లు లేదా నవీకరణల కోసం ఉపయోగించడానికి ఇంటర్నెట్ కనెక్షన్‌ని కలిగి ఉండదు.</string>
+    <string name="wifi_connect_failed_message">ఫోన్‌ను ఈ WLAN నెట్‌వర్క్‌కు కనెక్ట్ చేయడం సాధ్యపడలేదు.</string>
+    <string name="wifi_advanced_titlebar">అధునాతన WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN తరచుదనం బ్యాండ్</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">పోర్టబుల్ WLAN హాట్‌స్పాట్</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN హాట్‌స్పాట్</string>
+    <string name="wifi_hotspot_checkbox_text_summary">WLAN నెట్‌వర్క్‌ను అందించడానికి సెల్యులార్ కనెక్షన్‌ను ఉపయోగించు</string>
+    <string name="wifi_tether_failed_subtext">పోర్టబుల్ WLAN హాట్‌స్పాట్ లోపం</string>
+    <string name="wifi_tether_configure_ap_text">WLAN హాట్‌స్పాట్‌ను సెటప్ చేయండి</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN హాట్‌స్పాట్ సెటప్</string>
+    <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK పోర్టబుల్ WLAN హాట్‌స్పాట్</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s పోర్టబుల్ WLAN హాట్‌స్పాట్</string>
+    <string name="status_wifi_mac_address">WLAN MAC చిరునామా</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN సహాయకాన్ని మార్చాలా?</string>
+    <string name="location_mode_high_accuracy_description">స్థానాన్ని గుర్తించడానికి GPS, WLAN, మరియు సెల్యులార్ నెట్‌వర్క్‌లను ఉపయోగించండి</string>
+    <string name="location_mode_battery_saving_description">స్థానాన్ని గుర్తించడానికి WLAN మరియు సెల్యులార్ నెట్‌వర్క్‌లను ఉపయోగించండి</string>
+    <string name="location_network_based">WLAN &amp; సెల్యులార్ నెట్‌వర్క్ స్థానం</string>
+    <string name="location_neighborhood_level">మీ స్థానాన్ని వేగవంతంగా అంచనా వేయడం కోసం Google స్థాన సేవను ఉపయోగించడానికి అనువర్తనాలను అనుమతించండి. అనామక స్థాన డేటా సేకరించబడుతుంది మరియు Googleకు పంపబడుతుంది.</string>
+    <string name="location_neighborhood_level_wifi">స్థానం WLAN ద్వారా గుర్తించబడింది</string>
+    <string name="wifi_verbose_logging">WLAN విశదీకృత లాగింగ్‌ను ప్రారంభించండి</string>
+    <string name="wifi_aggressive_handover">WLAN నుండి సెల్యులార్‌కి తీవ్ర ఒత్తిడితో మారడం</string>
+    <string name="wifi_allow_scan_with_traffic">WLAN సంచార స్కాన్‌లను ఎల్లప్పుడూ అనుమతించు</string>
+    <string name="wifi_verbose_logging_summary">WLAN ఎంపికలో SSID RSSI ప్రకారం చూపబడే WLAN లాగింగ్ స్థాయిని పెంచండి</string>
+    <string name="wifi_aggressive_handover_summary">ప్రారంభించబడినప్పుడు, WLAN సిగ్నల్ బలహీనంగా ఉంటే డేటా కనెక్షన్‌ను సెల్యులార్‌కి మార్చేలా WLANపై మరింత తీవ్ర ఒత్తిడి కలుగుతుంది</string>
+    <string name="wifi_allow_scan_with_traffic_summary">ఇంటర్‌ఫేస్‌లో ఉండే డేటా ట్రాఫిక్ పరిమాణం ఆధారంగా WLAN సంచార స్కాన్‌లను అనుమతించు/నిరాకరించు</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN ఆన్‌లో ఉండే సమయం</string>
+    <string name="bluetooth_on_time">WLAN ఆన్‌లో ఉండే సమయం</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN అమలవుతున్నది</string>
+    <string name="usage_type_data_wifi_send">పంపబడిన WLAN ప్యాకెట్‌లు</string>
+    <string name="usage_type_data_wifi_recv">స్వీకరించబడిన WLAN ప్యాకెట్‌లు</string>
+    <string name="battery_action_wifi">WLAN సెట్టింగ్‌లు</string>
+    <string name="battery_desc_wifi">WLAN ద్వారా వినియోగించబడిన బ్యాటరీ</string>
+    <string name="battery_sugg_wifi">WLAN ఉపయోగించనప్పుడు లేదా ఇది అందుబాటులో లేనప్పుడు దీన్ని ఆపివేయండి</string>
+    <string name="gadget_toggle_wifi">WLAN సెట్టింగ్‌ను నవీకరిస్తోంది</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">అనువర్తన డేటా, WLAN పాస్‌వర్డ్‌లు మరియు ఇతర సెట్టింగ్‌లను Google సర్వర్‌లకు బ్యాకప్ చేయండి</string>
+    <string name="backup_erase_dialog_message">Google సర్వర్‌ల్లో మీ WLAN పాస్‌వర్డ్‌లు, బుక్‌మార్క్‌లు, ఇతర సెట్టింగ్‌లు మరియు అనువర్తన డేటాను బ్యాకప్ చేయడాన్ని ఆపివేయడంతో పాటు అదనంగా అన్ని కాపీలను ఎరేజ్ చేయాలా?</string>
+    <string name="wifi_setup_title">WLAN సెటప్</string>
+    <string name="wifi_setup_title_editing_network">WLAN నెట్‌వర్క్ %sకు కనెక్ట్ చేయండి</string>
+    <string name="wifi_setup_title_connecting_network">WLAN నెట్‌వర్క్ %sకు కనెక్ట్ చేస్తోంది…</string>
+    <string name="wifi_setup_title_connected_network">WLAN నెట్‌వర్క్ %sకు కనెక్ట్ చేయబడింది</string>
+    <string name="wifi_setup_eap_not_supported">మీరు సెటప్ సమయంలో EAP WLAN కనెక్షన్‌ను కాన్ఫిగర్ చేయలేరు. సెటప్ చేసిన తర్వాత, మీరు దీన్ని సెట్టింగ్‌లు > వైర్‌లెస్ &amp; నెట్‌వర్క్‌ల్లో కాన్ఫిగర్ చేయవచ్చు.</string>
+    <string name="wifi_setup_description_connected">సెటప్‌తో కొనసాగడానికి <b>తదుపరి</b>" తాకండి.
+
+వేరే WLAN నెట్‌వర్క్‌కు కనెక్ట్ చేయడానికి "<b>వెనుకకు</b> తాకండి.</string>
+    <string name="data_usage_menu_show_wifi">WLANని చూపు</string>
+    <string name="data_usage_menu_hide_wifi">WLANని దాచు</string>
+    <string name="data_usage_disable_wifi_limit">WLAN డేటా పరిమితిని సెట్ చేయి</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">మీరు నేపథ్య సెల్యులార్ డేటాను నియంత్రిస్తే, మీరు WLANకి కనెక్ట్ చేసినప్పుడు మినహా కొన్ని అనువర్తనాలు మరియు సేవలు పని చేయవు.</string>
+    <string name="data_usage_restrict_background_multiuser">"మీరు నేపథ్య సెల్యులార్ డేటాను నియంత్రిస్తే, మీరు WLANకి కనెక్ట్ చేసినప్పుడు మినహా కొన్ని అనువర్తనాలు మరియు సేవలు పని చేయవు.
+
+ఈ సెట్టింగ్ ఈ ఫోన్‌లోని వినియోగదారులందరిపై ప్రభావం చూపుతుంది."</string>
+    <string name="data_usage_metered_body">నేపథ్య డేటా పరిమితం చేయబడినప్పుడు గణించబడే నెట్‌వర్క్‌లు సెల్యులార్ నెట్‌వర్క్‌ల వలె పరిగణించబడతాయి. అనువర్తనాలు ఎక్కువ పరిమాణ డౌన్‌లోడ్‌ల కోసం ఈ నెట్‌వర్క్‌లను ఉపయోగించడానికి ముందు హెచ్చరించవచ్చు.</string>
+    <string name="data_usage_metered_wifi">గణించబడే WLAN నెట్‌వర్క్‌లు</string>
+    <string name="data_usage_metered_wifi_disabled">గణించబడే నెట్‌వర్క్‌లను ఎంచుకోవడానికి, WLAN ఆన్ చేయండి.</string>
+    <string name="user_add_user_message_long">"మీరు అదనపు వినియోగదారులను సృష్టించడం ద్వారా ఈ పరికరాన్ని ఇతర వ్యక్తులతో భాగస్వామ్యం చేయగలరు. ప్రతి వినియోగదారుకు వారికంటూ స్వంత స్థలం ఉంటుంది, కనుక వారు వారి స్వంత అనువర్తనాలు, వాల్‌పేపర్ మొదలైనవాటిని అనుకూలీకరించగలరు. వినియోగదారులు ప్రతి ఒక్కరినీ ప్రభావితం చేసే WLAN వంటి పరికర సెట్టింగ్‌లను కూడా సర్దుబాటు చేయగలరు.
+
+మీరు కొత్త వినియోగదారుని జోడించినప్పుడు, ఆ వ్యక్తి తన స్థలాన్ని సెటప్ చేసుకోవాలి.
+
+ఏ వినియోగదారు అయినా మిగతా అందరు వినియోగదారుల కోసం అనువర్తనాలను నవీకరించగలరు."</string>
+    <string name="restriction_wifi_config_title">WLAN మరియు మొబైల్</string>
+    <string name="restriction_wifi_config_summary">WLAN మరియు మొబైల్ సెట్టింగ్‌ల సవరణను అనుమతించండి</string>
+    <string name="setup_wifi_nfc_tag">WLAN NFC ట్యాగ్‌ను సెటప్ చేయండి</string>
+</resources>

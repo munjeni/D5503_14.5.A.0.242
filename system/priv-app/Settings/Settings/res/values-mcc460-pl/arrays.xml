@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>przybliżona lokalizacja</item>
+        <item>dokładna lokalizacja</item>
+        <item>GPS</item>
+        <item>wibracje</item>
+        <item>odczytywanie kontaktów</item>
+        <item>zapisywanie kontaktów</item>
+        <item>odczytywanie rejestru połączeń</item>
+        <item>zapisywanie rejestru połączeń</item>
+        <item>odczytywanie kalendarza</item>
+        <item>modyfikowanie kalendarza</item>
+        <item>skanowanie WLAN</item>
+        <item>powiadomienie</item>
+        <item>skanowanie bts</item>
+        <item>połączenia telefoniczne</item>
+        <item>odczytywanie SMS-ów</item>
+        <item>zapisywanie SMS-ów</item>
+        <item>odbieranie SMS-ów</item>
+        <item>odbieranie SMS-ów alarmowych</item>
+        <item>odbieranie MMS-ów</item>
+        <item>odbieranie wiadomości WAP push</item>
+        <item>wysyłanie SMS-ów</item>
+        <item>odczytywanie SMS-ów ICC</item>
+        <item>zapisywanie SMS-ów ICC</item>
+        <item>modyfikowanie ustawień</item>
+        <item>rysuj na górze</item>
+        <item>dostęp do powiadomień</item>
+        <item>kamera</item>
+        <item>nagraj dźwięk</item>
+        <item>odtwórz dźwięk</item>
+        <item>czytaj schowek</item>
+        <item>modyfikuj schowek</item>
+        <item>przyciski multimediów</item>
+        <item>aktywność audio</item>
+        <item>głośność główna</item>
+        <item>głośność mowy</item>
+        <item>głośność dzwonka</item>
+        <item>głośność multimediów</item>
+        <item>głośność alarmu</item>
+        <item>głośność powiadomień</item>
+        <item>głośność Bluetooth</item>
+        <item>utrzymanie aktywności</item>
+        <item>monitorowanie lokalizacji</item>
+        <item>monitor wysoki zasilanie lokalizacja</item>
+        <item>pobierz statystyki użycia</item>
+        <item>wycisz mikrofon/wyłącz wyciszenie</item>
+        <item>okno powiadomień</item>
+        <item>projekcja multimediów</item>
+        <item>włączenie VPN</item>
+        <item>zmiana WLAN</item>
+        <item>zmiana Bluetooth</item>
+        <item>wysyłanie MMS-ów</item>
+        <item>odczytywanie MMS-ów</item>
+        <item>zapisywanie MMS-ów</item>
+        <item>autostart</item>
+        <item>zmiana NFC</item>
+        <item>usuwanie SMS-ów</item>
+        <item>usuwanie MMS-ów</item>
+        <item>usuwanie kontaktów</item>
+        <item>usuwanie rejestru połączeń</item>
+        <item>zmiana danych</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Wibracje</item>
+        <item>Odczytywanie kontaktów</item>
+        <item>Zapisywanie kontaktów</item>
+        <item>Odczytywanie rejestru połączeń</item>
+        <item>Zapisywanie rejestru połączeń</item>
+        <item>Odczytywanie kalendarza</item>
+        <item>Modyfikowanie kalendarza</item>
+        <item>Lokalizacja</item>
+        <item>Publikowanie powiadomień</item>
+        <item>Lokalizacja</item>
+        <item>Połączenia telefoniczne</item>
+        <item>Czytanie SMS-ów</item>
+        <item>Pisanie SMS-ów</item>
+        <item>Odbieranie SMS-ów</item>
+        <item>Odbieranie SMS-ów</item>
+        <item>Odbieranie MMS-ów</item>
+        <item>Odbieranie SMS-ów</item>
+        <item>Wysyłanie SMS-ów</item>
+        <item>Czytanie SMS-ów</item>
+        <item>Pisanie SMS-ów</item>
+        <item>Modyfikowanie ustawień</item>
+        <item>Rysuj na górze</item>
+        <item>Dostęp do powiadomień</item>
+        <item>Kamera</item>
+        <item>Nagraj dźwięk</item>
+        <item>Odtwórz dźwięk</item>
+        <item>Czytaj schowek</item>
+        <item>Modyfikuj schowek</item>
+        <item>Przyciski multimediów</item>
+        <item>Aktywność audio</item>
+        <item>Głośność główna</item>
+        <item>Głośność mowy</item>
+        <item>Głośność dzwonka</item>
+        <item>Głośność multimediów</item>
+        <item>Głośność alarmu</item>
+        <item>Głośność powiadomień</item>
+        <item>Głośność Bluetooth</item>
+        <item>Utrzymanie aktywności</item>
+        <item>Lokalizacja</item>
+        <item>Lokalizacja</item>
+        <item>Pobierz statystyki użycia</item>
+        <item>Wycisz mikrofon/wyłącz wyciszenie</item>
+        <item>Okno powiadomień</item>
+        <item>Projekcja multimediów</item>
+        <item>Włączenie VPN</item>
+        <item>Zmiana WLAN</item>
+        <item>Zmiana Bluetooth</item>
+        <item>Wysyłanie MMS-ów</item>
+        <item>Odczytywanie MMS-ów</item>
+        <item>Zapisywanie MMS-ów</item>
+        <item>Autostart</item>
+        <item>zmiana NFC</item>
+        <item>Usuwanie SMS-ów</item>
+        <item>Usuwanie MMS-ów</item>
+        <item>Usuwanie kontaktów</item>
+        <item>Usuwanie rejestru połączeń</item>
+        <item>Zmiana danych</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

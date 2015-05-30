@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%dкөн</item>
+        <item quantity="one">%dкөн</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d сәг.</item>
+        <item quantity="one">%d сәг.</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%dкушымталар семлектә хәзер</item>
+        <item quantity="one">%1$dкушымталар исемлектә хәзер</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Сез хәзер ясаучы булга кадәр %1$d адымда</item>
+        <item quantity="one">Сез хәзер ясаучы булуга кадәр %1$d адымда</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Серсүздә кимендә %d хәреф булырга тиеш</item>
+        <item quantity="one">Серсүздә кимендә бер хәреф булырга тиеш</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Серсүздә кимендә %d юл хәреф булырга тиеш</item>
+        <item quantity="one">Серсүздә кимендә бер юл хәреф булырга тиеш</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Серсүздә кимендә %d баш хәреф булырга тиеш</item>
+        <item quantity="one">Серсүздә кимендә бер баш хәреф булырга тиеш</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Серсүздә кимендә %d сан булырга тиеш</item>
+        <item quantity="one">Серсүздә кимендә бер сан булырга тиеш</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Серсүздә кимендә %d махсус билге булырга тиеш</item>
+        <item quantity="one">Серсүздә кимендә бер махсус билге булырга тиеш</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Серсүздә кимендә %d хәрефле булмаган символ булырга тиеш</item>
+        <item quantity="one">Серсүздә кимендә бер хәрефле булмаган символ булырга тиеш</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PIN коды ялгыш, сезнең %d омтылышыгыз калды.</item>
+        <item quantity="one">SIM-картаның PIN коды дөрес түгел, җайланманы ачу өчен хезмәт тәэмин итүчесенә мөрәҗәгать итәргә туры килгәнче %d омтылыш калды.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d кушымта искәрмәләрне укый ала</item>
+        <item quantity="one">%d кушымта искәрмәләрне укый ала</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d кушымталар шартларны тәэмин итәләр</item>
+        <item quantity="one">%d кушымта шартлар тәэмин итә</item>
+    </plurals>
+    <plurals name="xssm_settings_blacklist_summary_txt">
+        <item quantity="other">%d кушымталар сайланган</item>
+        <item quantity="one">%d кушымта сайланган</item>
+    </plurals>
+    <plurals name="lock_after_timeout_minutes">
+        <item quantity="other">"%1$d минут "</item>
+        <item quantity="one">"%1$d минут "</item>
+    </plurals>
+</resources>

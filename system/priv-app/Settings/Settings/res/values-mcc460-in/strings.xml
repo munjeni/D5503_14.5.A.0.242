@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="l_dialog_message_hint">"Modus STAMINA meliputi:
+
+• Siaga diperpanjang
+Menghemat daya saat layar mati dengan sementara menonaktifkan WLAN dan data seluler. Sebagian besar aplikasi akan nonaktif.
+Saat layar aktif, ponsel Anda akan berfungsi secara normal.
+Jika Anda ingin beberapa aplikasi tetap aktif ketiak siaga Diperpanjang diaktifkan, tambahkan aplikasi ke daftar Aplikasi aktif di siaga.
+
+• Pemakaian diperpanjang
+Menghemat daya saat perangkat Anda sedang digunakan dengan membatasi kinerja perangkat keras."</string>
+    <string name="powersaver_feature_wifi">WLAN nonaktif</string>
+    <string name="stamina_xssm_summary">Menonaktifkan data seluler dan WLAN ketika layar nonaktif</string>
+    <string name="usm_descr">"Modus Ultra STAMINA akan memperpanjang masa pakai baterai secara signifikan. Ini bisa digunakan saat Anda tidak bisa mengisi daya perangkat dalam waktu yang lama.
+
+Hanya beberapa fungsi dasar seperti Ponsel dan Olah Pesan dapat tersedia. Ketuk \"Info selengkapnya\" untuk rincian lebih lanjut.
+
+Catat bahwa sambungan Internet melalui WLAN dan data Seluler akan dinonaktifkan."</string>
+    <string name="wifi_tethering_warning_txt">Setiap operasi WLAN yang sedang berlangsung seperti transfer media, pembaruan perangkat lunak ponsel, merekam cadangan dan mengembalikan akan terganggu</string>
+    <string name="install_wapi_certs">Instal sertifikat WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Sambungkan otomatis ke jaringan Passpoint yang tersedia saat WLAN aktif</string>
+    <string name="radio_controls_summary">Kelola WLAN, Bluetooth, mode pesawat, jaringan seluler, &amp; VPN</string>
+    <string name="wifi_assistant_intro_setup">"Sambut
+Bantuan WLAN"</string>
+    <string name="wifi_assistant_card_message">Tersambung ke jaringan yang tersedia secara otomatis dengan WLAN Assistant.</string>
+    <string name="wifi_assistant_title">WLAN Assistant</string>
+    <string name="wifi_assistant_title_message">%1$s otomatis menyambungkan Anda ke WLANi terbaik yang tersedia</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Hidupkan WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Setelan WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Pilih WLAN</string>
+    <string name="wifi_select_network">Pilih WLAN</string>
+    <string name="wifi_starting">"Mengaktifkan WLAN "</string>
+    <string name="wifi_stopping">Mematikan WLAN</string>
+    <string name="wifi_poor_network_detection_summary">Jangan gunakan jaringan WLAN kecuali sambungan internetnya baik</string>
+    <string name="wifi_scan_always_available_summary">Izinkan layanan lokasi Google dan aplikasi lainnya memindai jaringan saat WLAN tidak aktif sekalipun</string>
+    <string name="wifi_automatically_manage_title">Kelola WLAN secara otomatis</string>
+    <string name="wifi_automatically_manage_summary">Izinkan %1$s mengelola sambungan WLAN Anda</string>
+    <string name="wifi_scan_notify_text_location_on">Untuk meningkatkan ketepatan lokasi dan untuk tujuan lainnya, Google dan aplikasi lainnya dapat memindai jaringan terdekat, bahkan saat WLAN mati. Jika Anda tidak ingin hal ini terjadi, buka Lanjutan > Pemindaian selalu tersedia.</string>
+    <string name="wifi_scan_notify_text_location_off">Aplikasi dapat memindai jaringan terdekat, bahkan saat WLAN mati. Jika Anda tidak ingin hal ini terjadi, buka Lanjutan > Pemindaian selalu tersedia.</string>
+    <string name="wifi_setting_sleep_policy_title">Terus hidup WLAN selama tidur</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN aktif saat mode tidur</string>
+    <string name="wifi_suspend_optimizations">Pengoptimalan WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Minimalkan penggunaan baterai saat WLAN aktif</string>
+    <string name="wifi_limit_optimizations_summary">Batasi penggunaan baterai oleh WLAN</string>
+    <string name="wifi_access_points">Jaringan WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Utk melihat jaringan yang tersedia, aktifkan WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Mencari jaringan WLAN...</string>
+    <string name="wifi_empty_list_user_restricted">Anda tidak memiliki izin untuk mengubah jaringan WLAN</string>
+    <string name="wifi_required_info_text">Untuk menyelesaikan persiapan, tablet Anda perlu mengakses WLAN. Seusai persiapan, Anda dapat beralih antara data seluler dan WLAN.</string>
+    <string name="wifi_wps_setup_title">Penyiapan WLAN yang Dilindungi</string>
+    <string name="wifi_wps_onstart_pbc">Tekan tombol Penyiapan WLAN yang Dilindungi di router Anda. Ini dapat disebut \"WPS\" atau berisi simbol ini:</string>
+    <string name="wifi_wps_onstart_pin">Masukkan PIN %1$s pada router WLAN Anda. Penyiapan perlu hingga dua menit sampai selesai.</string>
+    <string name="wifi_wps_connected">Tersambung ke jaringan WLAN %s</string>
+    <string name="wifi_scan_always_turnon_message">"Untuk meningkatkan ketepatan lokasi dan untuk tujuan lainnya, %1$s ingin mengaktifkan pemindaian jaringan, bahkan saat WLAN sedang tidak aktif.
+
+Izinkan hal ini untuk semua aplikasi yang ingin memindai?"</string>
+    <string name="wifi_skipped_message">"PERINGATAN: Anda mungkin akan dikenai tagihan data penyedia layanan tambahan.
+
+Ponsel mungkin memerlukan aktivitas jaringan yang signifikan."</string>
+    <string name="wifi_and_mobile_skipped_message">CATATAN: Jika Anda melompati WLAN, ponsel Anda tidak akan memiliki sambungan internet guna dipakai untuk unduhan atau pembaruan awal apa pun.</string>
+    <string name="wifi_connect_failed_message">Ponsel tidak dapat menyambung ke jaringan WLAN ini.</string>
+    <string name="wifi_advanced_titlebar">WLAN lanjut</string>
+    <string name="wifi_setting_frequency_band_title">Pita frekuensi WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Hotspot WLAN portabel</string>
+    <string name="wifi_hotspot_checkbox_text">Hotspot WLAN</string>
+    <string name="wifi_hotspot_checkbox_text_summary">Gunakan sambungan seluler untuk memberikan jaringan WLAN</string>
+    <string name="wifi_tether_failed_subtext">Galat hotspot WLAN portabel</string>
+    <string name="wifi_tether_configure_ap_text">Siapkan hotspot WLAN</string>
+    <string name="wifi_hotspot_configure_ap_text">Penyiapan hotspot WLAN</string>
+    <string name="wifi_hotspot_configure_ap_text_summary">Hotspot WLAN portabel AndroidAP WPA2 PSK</string>
+    <string name="wifi_tether_configure_subtext">"%1$s hotspot WLAN portabel
+Keamanan: %2$s"</string>
+    <string name="status_wifi_mac_address">alamat MAC WLAN</string>
+    <string name="network_scorer_change_active_dialog_title">Ubah WLAN Assistant?</string>
+    <string name="location_mode_high_accuracy_description">Gunakan GPS, WLAN, dan jaringan seluler untuk menentukan lokasi</string>
+    <string name="location_mode_battery_saving_description">Gunakan WLAN dan jaringan seluler untuk menentukan lokasi</string>
+    <string name="location_neighborhood_level">Membolehkan data lokasi anonim dikirim ke Google. Juga membolehkan aplikasi memakai data dari jaringan seluler &amp; WLAN untuk menentukan lokasi Anda.</string>
+    <string name="location_neighborhood_level_wifi">Lokasi ditentukan oleh WLAN</string>
+    <string name="wifi_verbose_logging">Aktifkan Pencatatan Log Panjang WLAN</string>
+    <string name="wifi_aggressive_handover">Pengalihan WLAN Agresif ke data Seluler</string>
+    <string name="wifi_allow_scan_with_traffic">Selalu izinkan Pemindaian Roaming WLAN</string>
+    <string name="wifi_verbose_logging_summary">Tingkatkan level pencatatan log WLAN, tampilkan per SSID RSSI di Pemilih WLAN</string>
+    <string name="wifi_aggressive_handover_summary">Jika diaktifkan, WLAN akan menjadi lebih agresif dalam mengalihkan sambungan data ke Seluler saat sinyal WLAN lemah</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Izinkan/Larang Pemindaian Roaming WLAN berdasarkan jumlah lalu lintas data yang ada di antarmuka</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Waktu WLAN hidup</string>
+    <string name="bluetooth_on_time">Waktu WLAN hidup</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN berjalan</string>
+    <string name="usage_type_data_wifi_send">Paket WLAN dikirim</string>
+    <string name="usage_type_data_wifi_recv">Paket WLAN diterima</string>
+    <string name="battery_action_wifi">Setelan WLAN</string>
+    <string name="battery_desc_wifi">Baterai digunakan oleh WLAN</string>
+    <string name="battery_sugg_wifi">Nonaktifkan WLAN ketika tidak digunakan atau tidak tersedia</string>
+    <string name="gadget_toggle_wifi">Memperbarui setelan WLAN</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Mencadangkan data apl, sandi WLAN, dan setelan lainnya ke server Google</string>
+    <string name="backup_erase_dialog_message">Berhenti mencadangkan sandi WLAN, bookmark, setelan lain, dan data aplikasi, serta menghapus semua salinan pada server Google?</string>
+    <string name="wifi_setup_title">Penyiapan WLAN</string>
+    <string name="wifi_setup_title_editing_network">Tersambung ke jaringan WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Menyambungkan ke jaringan WLAN %s...</string>
+    <string name="wifi_setup_title_connected_network">Tersambung ke jaringan WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Anda tidak dapat mengonfigurasi koneksi WLAN EAP selama penyiapan. Setelah penyiapan, Anda dapat melakukannya di bagian Setelan > Nirkabel &amp; jaringan.</string>
+    <string name="wifi_setup_description_connected">Sentuh <b>Berikutnya</b>" untuk melanjutkan penyiapan.
+
+Sentuh "<b>Kembali</b> untuk menyambung ke jaringan WLAN yang berbeda.</string>
+    <string name="data_usage_menu_show_wifi">Tampilkan WLAN</string>
+    <string name="data_usage_menu_hide_wifi">Sembunyikan WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Setel batas data WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Jika Anda membatasi data latar belakang seluler, beberapa aplikasi dan layanan tidak akan berfungsi kecuali jika Anda terhubung ke jaringan WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Jika Anda membatasi data seluler latar belakang, beberapa aplikasi dan layanan tidak akan bekerja kecuali Anda tersambung ke jaringan WLAN.
+
+
+
+Setelan ini mempengaruhi semua pengguna di ponsel ini."</string>
+    <string name="data_usage_metered_body">Pilih jaringan WLAN yang hotspot seluler. Aplikasi dapat dibatasi dari menggunakan jaringan ini ketika berada di latar belakang. Aplikasi juga dapat memperingatkan sebelum menggunakan jaringan ini untuk unduhan yang besar.</string>
+    <string name="data_usage_metered_wifi">Jaringan WLAN terukur</string>
+    <string name="data_usage_metered_wifi_disabled">Untuk memilih jaringan terukur, nyalakan WLAN.</string>
+    <string name="user_add_user_message_long">"Anda dapat membagikan perangkat ini dengan orang lain dengan membuat pengguna tambahan. Setiap pengguna memiliki ruang sendiri, yang dapat disesuaikan dengan aplikasi, wallpaper milik mereka, dan lain sebagainya. Pengguna juga dapat menyesuaikan setelan perangkat seperti WLAN yang memengaruhi semua orang.
+
+Saat Anda menambahkan pengguna baru, orang tersebut harus menyiapkan ruang mereka.
+
+Pengguna mana pun dapat memperbarui aplikasi untuk semua pengguna lain."</string>
+    <string name="restriction_wifi_config_title">WLAN dan Seluler</string>
+    <string name="restriction_wifi_config_summary">Memungkinkan modifikasi setelan WLAN dan Seluler</string>
+    <string name="setup_wifi_nfc_tag">Siapkan Tag NFC WLAN</string>
+    <string name="ct_wifi_connected_text">WLAN China Telecom tersambung</string>
+    <string name="cw_network_priority">Prioritas WLAN China Telecom</string>
+    <string name="cw_network_priority_summary">Jaringan WLAN China Telecom akan diprioritaskan dibanding jaringan WLAN lain dalam sambungan</string>
+    <string name="data_traffic_disabled_text">Tidak dapat menyambung ke jaringan WLAN China Telecom karena lalu lintas data dinonaktifkan. Aktifkan lalu lintas data sekarang?</string>
+    <string name="location_based_wifi">WLAN berbasis lokasi</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Sambungkan otomatis ke Hotspot WLAN AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Smbung oto. WLAN AT&amp;T</string>
+    <string name="wifi_calling_mode_title">Panggilan WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Ubah sertifikat WLAN</string>
+    <string name="wifi_p2p_settings">Setelan WLAN Direct™</string>
+    <string name="wifi_security_verbose_wapi_cert">Diamankan dengan WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Diamankan dengan WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Anda dapat menggunakan perangkat untuk Hotspot Seluler. Hal ini mengizinkan perangkat lain (maksimum 10) untuk menyambung ke perangkat Anda lewat jaringan WLAN. Perangkat yang tersambung akan mendapatkan akses ke Internet melalui sambungan jaringan seluler Anda. Hotspot Seluler menggunakan data seluler dan bisa menimbulkan biaya tambahan.
+
+Hotspot Seluler menghabiskan baterai lebih besar. Sambungkan perangkat ke steker untuk memperpanjang daya baterai."</string>
+    <string name="wifi_tether_settings_subtext">Konfigurasikan &amp; kelola hotspot WLAN portabel</string>
+    <string name="wifi_tether_settings_text">Setelan hotspot WLAN portabel</string>
+    <string name="wifi_wps_category_title">Siapkan jaringan WLAN</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"Modus STAMINA menghemat daya baterai dengan menyesuaikan pengaturan perangkat. Anda dapat memilih aplikasi untuk berjalan dengan fungsionalitas yang dikurangi selama modus tidur. (Ini akan membantu Anda menghemat daya karena sebagian besar aplikasi tetap menghabiskan daya bahkan selama modus tidur.)
+
+Fungsi dinonaktifkan untuk aplikasi yang dipilih:
+- WLAN
+- Data seluler
+- Timer
+
+Lampu pemberitahuan untuk semua aplikasi berkedip dalam warna yang sama dan frekuensi yang sama selama modus tidur.
+
+Modus STAMINA dinonaktifkan selama Anda mengontrol perangkat."</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Apa itu modus STAMINA?</u>"
+Modus STAMINA adalah fungsi hemat daya Sony. Fungsi ini memperpanjang masa pakai baterai saat layar mati.
+
+"<u>Penggunaan dasar</u>"
+Untuk mengaktifkan modus STAMINA, ketuk tombol di layar. 
+Saat layar mati, guna menghemat baterai, WLAN dan data seluler sementara dinonaktifkan, dan hampir semua aplikasi akan nonaktif.
+Saat layar menyala, perangkat Anda akan berfungsi secara normal.
+
+"<u>Penggunaan tingkat lanjut</u>"
+Jika Anda ingin mempertahankan agar beberapa aplikasi tetap aktif selama STAMINA, silakan tambahkan ke daftar APLIKASI AKTIF DI POSISI SIAGA.
+Aplikasi mungkin tidak berfungsi dengan benar tidak tidak ditambahkan ke daftar.
+
+"<u>Catatan</u>"
+Jika aplikasi tidak berfungsi dengan benar, tambahkan ke daftar APLIKASI AKTIF DI POSISI SIAGA, atau nonaktifkan modus STAMINA."</string>
+    <string name="airplane_mode_info">Modus pesawat menonaktifkan sambungan jaringan, termasuk panggilan, teks, akses Internet, WLAN dan Bluetooth.</string>
+    <string name="cw_network_notification">Aktifkan pemberitah. CT WLAN</string>
+    <string name="dialog_message_hint">"Modus STAMINA meliputi:
+
+• Siaga lebih lama
+Menghemat daya saat layar mati dengan menonaktifkan WLAN dan data seluler untuk sementara. Sebagian besar aplikasi akan nonaktif.
+Saat layar HIDUP, ponsel Anda akan berfungsi secara normal.
+Jika Anda ingin beberapa aplikasi tetap aktif saat Siaga Lebih Lama AKTIF, tambahkan aplikasi tersebut ke daftar APLIKASI AKTIF DI POSISI SIAGA.
+
+• Penggunaan lebih lama
+Menghemat daya saat perangkat digunakan dengan membatasi kinerja perangkat keras.
+"</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Untuk membagikan jaringan WLAN saat ini, pilih opsi \"Bagikan info WLAN\" di pengaturan.</string>
+    <string name="nfc_wifi_share_checkbox">Bagikan info WLAN</string>
+    <string name="nfc_wifi_share_title_txt">Bagi info WLAN</string>
+    <string name="powersaver_feature_data_message">Kecuali menggunakan WLAN, Anda tidak akan bisa lagi menggunakan Internet, Email, atau aplikasi lain yang membutuhkan sambungan data. Matikan sambungan data seluler?</string>
+    <string name="tethering_disabled_while_wifi_dialog_text_vzw">Peranggitan tidak bisa digunakan saat WLAN aktif. Peranggitan akan dinonaktifkan.</string>
+    <string name="tethering_no_sim_warning_txt">Harap pasang kartu SIM untuk membagikan sambungan data ponsel Anda dengan perangkat lain menggunakan Hotspot Seluler WLAN atau peranggitan USB untuk akses Internet.</string>
+    <string name="wifi_disabled_while_tethering_dialog_text_vzw">WLAN tidak bisa digunakan saat peranggitan aktif. WLAN akan dinonaktifkan.</string>
+    <string name="wifi_offload_checkbox_summary">Saat membuka aplikasi, beritahu ketika WLAN tersedia</string>
+    <string name="wifi_offload_checkbox_title">Tampilkan pop-up WLAN</string>
+    <string name="wifi_offload_notify_available_networks">Pemberitahuan WLAN</string>
+    <string name="wifi_offload_notify_available_networks_summary">Beritahu saya saat jaringan WLAN tersedia</string>
+    <string name="wifi_offload_option_title">Jaringan WLAN tersedia</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN terputus. Konfigurasi dibatalkan.</string>
+    <string name="vzw_wifi_setup_wizard_desc">Pilih jaringan jika Anda ingin tersambung ke WLAN sekarang.</string>
+    <string name="vzw_wifi_setup_wizard_title">Menyiapkan WLAN</string>
+</resources>

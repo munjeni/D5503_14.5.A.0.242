@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d روز</item>
+        <item quantity="one">%d روز</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">%d ساعت</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d برنامه در حال حاضر در لیست است</item>
+        <item quantity="one">%1$d برنامه در حال حاضر در لیست است</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">شما در حال حاضر، %1$d قدم تا برنامه‌نویس شدن فاصله دارید.</item>
+        <item quantity="one">شما در حال حاضر، %1$d قدم تا برنامه‌نویس شدن فاصله دارید.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">رمز عبور باید حداقل %d نویسه داشته باشد</item>
+        <item quantity="one">رمز عبور باید حداقل 1 نویسه داشته باشد</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">رمز عبور باید حداقل %d حرف کوچک داشته باشد</item>
+        <item quantity="one">رمز عبور باید حداقل 1 حرف کوچک داشته باشد</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">رمز عبور باید حداقل %d حرف بزرگ داشته باشد</item>
+        <item quantity="one">رمز عبور باید حداقل 1 حرف بزرگ داشته باشد</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">رمز عبور باید حداقل %d عدد داشته باشد</item>
+        <item quantity="one">رمز عبور باید حداقل 1 عدد داشته باشد</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">رمز عبور باید حداقل %d نماد خاص داشته باشد</item>
+        <item quantity="one">رمز عبور باید حداقل 1 نماد خاص داشته باشد</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">رمز عبور باید حداقل %d نویسه غیرحرفی داشته باشد</item>
+        <item quantity="one">رمز عبور باید حداقل 1 نویسه غیرحرفی داشته باشد</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">کد پین سیم کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید.</item>
+        <item quantity="one">کد پین سیم کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید و پس از آن برای گشودن قفل دستگاهتان باید با ارائه‌دهنده خدمات تماس بگیرید.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d برنامه‌‌ می‌توانند اعلان‌ها را بخوانند</item>
+        <item quantity="one">%d برنامه می‌تواند اعلان‌ها را بخواند</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">‏برنامه‌های %d ارائه‌دهنده شرایط هستند</item>
+        <item quantity="one">‏برنامه %d ارائه‌دهنده شرایط است</item>
+    </plurals>
+    <plurals name="not_time_left_format_hours">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">%d ساعت</item>
+    </plurals>
+    <plurals name="not_time_left_format_minutes">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">%d دقیقه</item>
+    </plurals>
+    <plurals name="xssm_settings_blacklist_summary_txt">
+        <item quantity="other">%d برنامه انتخاب شده است</item>
+        <item quantity="one">%d برنامه انتخاب شده است</item>
+    </plurals>
+    <plurals name="lock_after_timeout_minutes">
+        <item quantity="other">"%1$d دقیقه "</item>
+        <item quantity="one">"%1$d دقیقه "</item>
+    </plurals>
+</resources>

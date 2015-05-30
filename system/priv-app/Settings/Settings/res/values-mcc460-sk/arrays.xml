@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>približná poloha</item>
+        <item>presná poloha</item>
+        <item>GPS</item>
+        <item>vibrovanie</item>
+        <item>čítanie kontaktov</item>
+        <item>úprava kontaktov</item>
+        <item>čítanie denníka hovorov</item>
+        <item>úprava denníka hovorov</item>
+        <item>čítanie kalendára</item>
+        <item>úprava kalendára</item>
+        <item>hľadanie sietí WLAN</item>
+        <item>upozornenie</item>
+        <item>prehľadanie mobilných sietí</item>
+        <item>volanie na telefón</item>
+        <item>čítanie správ SMS</item>
+        <item>písanie správ SMS</item>
+        <item>príjem správ SMS</item>
+        <item>príjem núdzových správ SMS</item>
+        <item>príjem správ MMS</item>
+        <item>príjem správ WAP push</item>
+        <item>odosielanie správ SMS</item>
+        <item>čítanie správ ICC SMS</item>
+        <item>písanie správ ICC SMS</item>
+        <item>úprava nastavení</item>
+        <item>vykreslenie navrch</item>
+        <item>prístup k upozorneniam</item>
+        <item>fotoaparát:</item>
+        <item>záznam zvuku</item>
+        <item>prehrávanie zvuku</item>
+        <item>načítať schránku</item>
+        <item>upraviť schránku</item>
+        <item>mediálne tlačidlá</item>
+        <item>zvukové zameranie</item>
+        <item>hlavná hlasitosť</item>
+        <item>hlasitosť hlasu</item>
+        <item>hlasitosť zvonenia</item>
+        <item>hlasitosť médií</item>
+        <item>hlasitosť budíkov</item>
+        <item>hlasitosť upozornení</item>
+        <item>hlasitosť bluetooth</item>
+        <item>zakázať režim spánku</item>
+        <item>sledovať polohu</item>
+        <item>sledovanie polohy s vysokým výkonnom</item>
+        <item>získanie štatistiky používania</item>
+        <item>stlmenie alebo zrušenie stlmenia mikrofónu</item>
+        <item>okno s oznamom</item>
+        <item>projekcia médií</item>
+        <item>aktivácia virtuálnej súkromnej siete</item>
+        <item>zmena siete WLAN</item>
+        <item>zmena nastavení Bluetooth</item>
+        <item>odosielanie MMS</item>
+        <item>čítanie MMS</item>
+        <item>písanie MMS</item>
+        <item>automatické spúšťanie</item>
+        <item>zmena NFC</item>
+        <item>odstránenie SMS</item>
+        <item>odstránenie MMS</item>
+        <item>odstránenie kontaktov</item>
+        <item>odstránenie dát z denníka hovorov</item>
+        <item>zmena dát</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Vibrovanie</item>
+        <item>Čítanie kontaktov</item>
+        <item>Úprava kontaktov</item>
+        <item>Čítanie denníka hovorov</item>
+        <item>Úprava denníka hovorov</item>
+        <item>Čítanie kalendára</item>
+        <item>Úprava kalendára</item>
+        <item>Poloha</item>
+        <item>Upozornenie na príspevok</item>
+        <item>Poloha</item>
+        <item>Volanie na telefón</item>
+        <item>Čítanie SMS</item>
+        <item>Písanie SMS</item>
+        <item>Príjem SMS</item>
+        <item>Príjem SMS</item>
+        <item>Príjem MMS</item>
+        <item>Príjem SMS</item>
+        <item>Odosielanie SMS</item>
+        <item>Čítanie SMS</item>
+        <item>Písanie SMS</item>
+        <item>Úprava nastavení</item>
+        <item>Vykreslenie navrch</item>
+        <item>Prístup k upozorneniam</item>
+        <item>Fotoaparát</item>
+        <item>Zaznamenať zvuk</item>
+        <item>Prehrať zvuk</item>
+        <item>Načítať schránku</item>
+        <item>Upraviť schránku</item>
+        <item>Tlačidlá médií</item>
+        <item>Zameranie zvuku</item>
+        <item>Hlavná hlasitosť</item>
+        <item>Hlasitosť hlasu</item>
+        <item>Hlasitosť zvonenia</item>
+        <item>Hlasitosť médií</item>
+        <item>Hlasitosť budíkov</item>
+        <item>Hlasitosť upozornení</item>
+        <item>Hlasitosť zariadenia Bluetooth</item>
+        <item>Zakázať režim spánku</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Získanie štatistiky využívania</item>
+        <item>Stlmenie alebo zrušenie stlmenia mikrofónu</item>
+        <item>Okno s oznamom</item>
+        <item>Projekcia médií</item>
+        <item>Aktivácia virtuálnej súkromnej siete</item>
+        <item>Zmena siete WLAN</item>
+        <item>Zmena nastavení Bluetooth</item>
+        <item>Odosielanie MMS</item>
+        <item>Čítanie MMS</item>
+        <item>Písanie MMS</item>
+        <item>Automatické spúšťanie</item>
+        <item>Zmena NFC</item>
+        <item>Odstránenie SMS</item>
+        <item>Odstránenie MMS</item>
+        <item>Odstránenie kontaktov</item>
+        <item>Odstránenie dát z denníka hovorov</item>
+        <item>Zmena dát</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>karkea sijainti</item>
+        <item>tarkka sijainti</item>
+        <item>GPS</item>
+        <item>värinä</item>
+        <item>lue yhteystietoja</item>
+        <item>kirjoita yhteystietoja</item>
+        <item>lue puhelulokia</item>
+        <item>kirjoita puhelulokia</item>
+        <item>lue kalenteria</item>
+        <item>muokkaa kalenteria</item>
+        <item>WLAN-haku</item>
+        <item>ilmoitus</item>
+        <item>soluhaku</item>
+        <item>soita numeroon</item>
+        <item>lue tekstiviestejä</item>
+        <item>kirjoita tekstiviestejä</item>
+        <item>vastaanota tekstiviestejä</item>
+        <item>vastaanota hätätekstiviestejä</item>
+        <item>vastaanota multimediaviestejä</item>
+        <item>vastaanota WAP push -viestejä</item>
+        <item>lähetä tekstiviestejä</item>
+        <item>lue ICC-tekstiviestejä</item>
+        <item>kirjoita ICC-tekstiviestejä</item>
+        <item>muokkaa asetuksia</item>
+        <item>piirrä päälle</item>
+        <item>käytä ilmoituksia</item>
+        <item>kamera</item>
+        <item>tallenna ääntä</item>
+        <item>toista ääntä</item>
+        <item>lue leikepöytä</item>
+        <item>muokkaa leikepöytää</item>
+        <item>mediapainikkeet</item>
+        <item>äänen painopiste</item>
+        <item>pää-äänenvoimakkuus</item>
+        <item>puheäänen voimakkuus</item>
+        <item>soittoäänen voimakkuus</item>
+        <item>median äänenvoimakkuus</item>
+        <item>hälytyksen äänenvoimakkuus</item>
+        <item>ilmoituksen äänenvoimakkuus</item>
+        <item>bluetooth-äänenvoimakkuus</item>
+        <item>ei virransäästötilaa</item>
+        <item>sijainnin seuranta</item>
+        <item>seuraa suuritehoista sijaintia</item>
+        <item>hae käyttötilastot</item>
+        <item>mykistä mikrofoni / poista mykistys</item>
+        <item>ilmoitusikkuna</item>
+        <item>projektimedia</item>
+        <item>aktivoi VPN</item>
+        <item>WLAN-muutos</item>
+        <item>Bluetooth-muutos</item>
+        <item>lähetä multimediaviestejä</item>
+        <item>lue multimediaviestejä</item>
+        <item>kirjoita multimediaviestejä</item>
+        <item>automaattinen käynnistys</item>
+        <item>NFC-muutos</item>
+        <item>poista tekstiviestejä</item>
+        <item>poista multimediaviestejä</item>
+        <item>poista yhteystietoja</item>
+        <item>poista puheluloki</item>
+        <item>tietojen muutos</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Sijainti</item>
+        <item>Sijainti</item>
+        <item>Sijainti</item>
+        <item>Värinä</item>
+        <item>Lue yhteystietoja</item>
+        <item>Kirjoita yhteystietoja</item>
+        <item>Lue puhelulokia</item>
+        <item>Kirjoita puhelulokia</item>
+        <item>Lue kalenteria</item>
+        <item>Muokkaa kalenteria</item>
+        <item>Sijainti</item>
+        <item>Lisää ilmoitus</item>
+        <item>Sijainti</item>
+        <item>Soita numeroon</item>
+        <item>Lue tekstiviestejä</item>
+        <item>Kirjoita tekstiviestejä</item>
+        <item>Vastaanota tekstiviestejä</item>
+        <item>Vastaanota tekstiviestejä</item>
+        <item>Vastaanota multimediaviestejä</item>
+        <item>Vastaanota tekstiviestejä</item>
+        <item>Lähetä tekstiviestejä</item>
+        <item>Lue tekstiviestejä</item>
+        <item>Kirjoita tekstiviestejä</item>
+        <item>Muokkaa asetuksia</item>
+        <item>Piirrä päälle</item>
+        <item>Käytä ilmoituksia</item>
+        <item>Kamera</item>
+        <item>Tallenna ääntä</item>
+        <item>Toista ääntä</item>
+        <item>Lue leikepöytä</item>
+        <item>Muokkaa leikepöytää</item>
+        <item>Mediapainikkeet</item>
+        <item>Äänen painopiste</item>
+        <item>Pää-äänenvoimakkuus</item>
+        <item>Puheäänen voimakkuus</item>
+        <item>Soittoäänen voimakkuus</item>
+        <item>Median äänenvoimakkuus</item>
+        <item>Hälytyksen voimakkuus</item>
+        <item>Ilmoituksen äänenvoimakkuus</item>
+        <item>Bluetooth-äänenvoimakkuus</item>
+        <item>Ei virransäästötilaa</item>
+        <item>Sijainti</item>
+        <item>Sijainti</item>
+        <item>Hae käyttötilastot</item>
+        <item>Mykistä mikrofoni / poista mykistys</item>
+        <item>Ilmoitusikkuna</item>
+        <item>Projektimedia</item>
+        <item>Aktivoi VPN</item>
+        <item>WLAN-muutos</item>
+        <item>Bluetooth-muutos</item>
+        <item>Lähetä multimediaviestejä</item>
+        <item>Lue multimediaviestejä</item>
+        <item>Kirjoita multimediaviestejä</item>
+        <item>Automaattinen käynnistys</item>
+        <item>NFC-muutos</item>
+        <item>Poista tekstiviestejä</item>
+        <item>Poista multimediaviestejä</item>
+        <item>Poista yhteystietoja</item>
+        <item>Poista puheluloki</item>
+        <item>Tietojen muutos</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

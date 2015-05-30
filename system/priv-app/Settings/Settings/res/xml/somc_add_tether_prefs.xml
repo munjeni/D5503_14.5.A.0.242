@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/wifi_tether_settings_text" android:key="wifi_ap_settings" android:summary="@string/wifi_tether_settings_subtext" settings:dependOnIsValidIntent="true" settings:after="enable_wifi_ap">
+        <intent android:targetPackage="com.sonyericsson.settings.wifi" android:action="android.intent.action.MAIN" android:targetClass="com.sonyericsson.settings.wifi.WifiApSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="wifi_ap_ssid_and_security">
+        <intent android:targetPackage="com.sonyericsson.settings.wifi" android:action="android.intent.action.MAIN" android:targetClass="com.sonyericsson.settings.wifi.WifiApSettings" />
+    </com.sonymobile.settings.preference.RemovePreference>
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/usb_tether_settings_get_started_help" android:key="usb_tether_settings_get_started_help" settings:dependOnIsValidIntent="true" settings:after="usb_tether_settings">
+        <intent android:targetPackage="com.sonyericsson.entitlement" android:action="com.sonymobile.intent.action.TETHER_HELP_DIALOG" android:targetClass="com.sonyericsson.entitlement.TetherHelpDialog">
+            <extra android:name="TetheringType" android:value="1" />
+        </intent>
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/wifi_tether_settings_get_started_help" android:key="wifi_tether_settings_get_started_help" settings:dependOnIsValidIntent="true" settings:after="wifi_ap_settings">
+        <intent android:targetPackage="com.sonyericsson.entitlement" android:action="com.sonymobile.intent.action.TETHER_HELP_DIALOG" android:targetClass="com.sonyericsson.entitlement.TetherHelpDialog">
+            <extra android:name="TetheringType" android:value="0" />
+        </intent>
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="nfc_wifi_tethering" settings:dependOnIsValidIntent="true" settings:after="wifi_ap_settings" settings:hasMetaData="true">
+        <intent android:targetPackage="com.android.nfc" android:targetClass="com.sonymobile.nfc.wifitethering.NfcWifiTethering" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

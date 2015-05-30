@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="l_dialog_message_hint">"Режим STAMINA включает:
+
+• Расширенный режим ожидания
+Экономит энергию при выключенном экране, временно выключая WLAN и мобильные данные. Большинство приложений будет неактивно.
+Когда экран включен, телефон работает в обычном режиме.
+Если требуется, чтобы некоторые приложения оставались активными в расширенном режиме ожидания, добавьте их в список \"Приложения, активные в режиме ожидания\".
+
+• Расширенное использование
+Экономит энергию, ограничивая производительность устройства."</string>
+    <string name="powersaver_feature_wifi">Выкл. WLAN</string>
+    <string name="stamina_xssm_summary">Выключает мобильные данные и WLAN, если экран выключен</string>
+    <string name="usm_descr">"Режим Ultra STAMINA значительно продлевает время работы аккумулятора. Используйте этот режим, если долго не будет возможности зарядить устройство.
+
+Будут доступны только некоторые базовые функции, такие как смартфон и сообщения. Чтобы узнать больше, коснитесь \"Подробнее\".
+
+Учтите, что подключение к Интернету через WLAN или мобильную сеть не будет работать."</string>
+    <string name="wifi_tethering_warning_txt">Все текущие операции подключения WLAN, такие как передача мультимедиа, обновление ПО телефона, резервное копирование и восстановление, будут прерваны.</string>
+    <string name="install_wapi_certs">Установить сертиф. WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Автоматически подключаться к сетям Passpoint, если сеть WLAN включена</string>
+    <string name="radio_controls_summary">Управление WLAN, Bluetooth, режимом полета, мобильными сетями и VPN</string>
+    <string name="wifi_assistant_intro_setup">"Представляем
+Ассистент WLAN"</string>
+    <string name="wifi_assistant_card_message">Ассистент WLAN автоматически подключает устройство к доступным сетям.</string>
+    <string name="wifi_assistant_title">Ассистент WLAN</string>
+    <string name="wifi_assistant_title_message">%1$s автоматически выбирает лучшую из доступных сетей WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Включить WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Параметры WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Выбрать WLAN</string>
+    <string name="wifi_select_network">Выбор сети WLAN</string>
+    <string name="wifi_starting">Включение WLAN</string>
+    <string name="wifi_stopping">"Выключение WLAN "</string>
+    <string name="wifi_poor_network_detection_summary">Не использовать сети WLAN с неустойчивым подключением к Интернету</string>
+    <string name="wifi_scan_always_available_summary">Разрешить службе определения местоположения Google и другим приложениям искать сети, даже когда модуль WLAN выключен</string>
+    <string name="wifi_automatically_manage_title">Включить автоматическое управление WLAN</string>
+    <string name="wifi_automatically_manage_summary">Разрешить %1$s управлять подключениями WLAN</string>
+    <string name="wifi_scan_notify_text_location_on">Чтобы улучшить определение местоположения, а также для других целей Google и другие приложения могут выполнять поиск сетей поблизости, даже если модуль WLAN выключен. Чтобы изменить эти настройки, перейдите в меню \"Дополнительно > Всегда искать сети\".</string>
+    <string name="wifi_scan_notify_text_location_off">Приложения могут выполнять поиск сетей поблизости, даже если модуль WLAN выключен. Чтобы изменить эти настройки, перейдите в меню \"Дополнительно > Всегда искать сети\".</string>
+    <string name="wifi_setting_sleep_policy_title">"WLAN включен в режиме сна "</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN в спящем режиме</string>
+    <string name="wifi_suspend_optimizations">Оптимизация WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Экономить заряд аккумулятора при включенной WLAN</string>
+    <string name="wifi_limit_optimizations_summary">Лимит расхода батареи (WLAN)</string>
+    <string name="wifi_access_points">Сети WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Чтобы просмотреть доступные сети, включите WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Поиск сетей WLAN…</string>
+    <string name="wifi_empty_list_user_restricted">У вас недостаточно прав для изменения параметров сети WLAN</string>
+    <string name="wifi_required_info_text">Для завершения настройки необходимо подключить планшетный ПК к сети WLAN. После настройки можно переключаться между мобильной сетью и WLAN для передачи данных.</string>
+    <string name="wifi_wps_setup_title">Безопасная настройка WLAN (WPS)</string>
+    <string name="wifi_wps_onstart_pbc">Нажмите кнопку WPS на своем маршрутизаторе. Она может называться WPS или быть обозначена следующим символом:</string>
+    <string name="wifi_wps_onstart_pin">Введите PIN %1$s на маршрутизаторе WLAN. Для завершения настройки потребуется не более двух минут.</string>
+    <string name="wifi_wps_connected">Подключено к сети WLAN %s</string>
+    <string name="wifi_scan_always_turnon_message">"Чтобы улучшить определение местоположения, а также для других целей приложению %1$s необходимо выполнять поиск сетей, даже если модуль WLAN выключен.
+
+Разрешить поиск сетей всем приложениям?"</string>
+    <string name="wifi_skipped_message">"ВНИМАНИЕ! Поставщик услуг может взимать дополнительную плату.
+
+Настройка телефона может потребовать передачи большого объема данных по сети."</string>
+    <string name="wifi_and_mobile_skipped_message">ПРИМЕЧАНИЕ. Если пропустить настройку WLAN, телефон не сможет подключиться к Интернету для начальной загрузки данных и обновлений.</string>
+    <string name="wifi_connect_failed_message">Телефону не удалось подключиться к этой сети WLAN.</string>
+    <string name="wifi_advanced_titlebar">Расширенные параметры WLAN</string>
+    <string name="wifi_setting_frequency_band_title">Частота WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Точка доступа WLAN</string>
+    <string name="wifi_hotspot_checkbox_text">Точка доступа WLAN</string>
+    <string name="wifi_hotspot_checkbox_text_summary">Использовать мобильное подключение для доступа к сети WLAN</string>
+    <string name="wifi_tether_failed_subtext">Ошибка портативной точки доступа WLAN</string>
+    <string name="wifi_tether_configure_ap_text">Настройка точки доступа WLAN</string>
+    <string name="wifi_hotspot_configure_ap_text">Настройка точки доступа WLAN</string>
+    <string name="wifi_tether_configure_subtext">"Портативная точка доступа WLAN %1$s.
+Защита: %2$s"</string>
+    <string name="status_wifi_mac_address">МАС-адрес для сети WLAN</string>
+    <string name="tether_settings_title_wifi">Точка доступа WLAN</string>
+    <string name="network_scorer_change_active_dialog_title">Сменить ассистента WLAN?</string>
+    <string name="location_mode_high_accuracy_description">Использовать GPS, WLAN и мобильные сети для определения местоположения</string>
+    <string name="location_mode_battery_saving_description">Использовать WLAN и мобильные сети для определения местоположения</string>
+    <string name="location_neighborhood_level">Разрешить отправку анонимных данных о местоположении в компанию Google и позволить приложениям определять его с помощью WLAN и мобильных сетей.</string>
+    <string name="location_neighborhood_level_wifi">Местоположение определено по WLAN</string>
+    <string name="wifi_verbose_logging">Подробные сведения в журнале WLAN</string>
+    <string name="wifi_aggressive_handover">Переключать с WLAN на мобильную сеть</string>
+    <string name="wifi_allow_scan_with_traffic">Всегда включать поиск сетей WLAN</string>
+    <string name="wifi_verbose_logging_summary">При выборе WLAN указывать в журнале RSSI для каждого SSID</string>
+    <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть, если сигнал WLAN слабый</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Включать или отключать поиск сетей WLAN во время передачи данных в зависимости от объема трафика</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Время работы WLAN</string>
+    <string name="bluetooth_on_time">Время работы WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN работает:</string>
+    <string name="usage_type_data_wifi_send">Пакеты WLAN отправлены</string>
+    <string name="usage_type_data_wifi_recv">Пакеты WLAN получены</string>
+    <string name="battery_action_wifi">Параметры WLAN</string>
+    <string name="battery_desc_wifi">Использование аккумулятора модулем WLAN</string>
+    <string name="battery_sugg_wifi">Выключите модуль WLAN, если он не используется или сеть недоступна</string>
+    <string name="gadget_toggle_wifi">Обновление параметров WLAN</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Создать резервную копию данных приложений, паролей WLAN и других параметров на серверах Google</string>
+    <string name="backup_erase_dialog_message">Остановить резервное копирование паролей WLAN, закладок, других параметров и данных приложений, а также удалить все резервные копии с серверов Google?</string>
+    <string name="wifi_setup_title">Настройка WLAN</string>
+    <string name="wifi_setup_title_editing_network">Подключение к сети WLAN %s</string>
+    <string name="wifi_setup_title_connecting_network">Подключение к сети WLAN %s…</string>
+    <string name="wifi_setup_title_connected_network">Подключено к сети WLAN %s</string>
+    <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети WLAN с защитой EAP. Вы можете сделать это позже в меню \"Настройки\" > \"Беспроводные подключения и сети\".</string>
+    <string name="wifi_setup_description_connected">Чтобы продолжить установку, коснитесь <b>Далее</b>".
+
+Чтобы подключиться к другой сети WLAN, коснитесь "<b>Назад</b>.</string>
+    <string name="data_usage_menu_show_wifi">Показывать WLAN</string>
+    <string name="data_usage_menu_hide_wifi">Скрыть для WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Установить ограничение данных WLAN</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме по мобильной сети, некоторые приложения и службы не будут работать без подключения к сети WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Если ограничить передачу мобильных данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети WLAN.
+
+
+
+Изменение коснется всех пользователей телефона."</string>
+    <string name="data_usage_metered_body">Выберите сети WLAN, которые служат точками доступа к мобильной сети. Возможно, приложения не смогут использовать их для работы в фоновом режиме. Кроме того, перед загрузкой больших объемов данных может появляться предупреждение.</string>
+    <string name="data_usage_metered_wifi">Сохраненные сети WLAN</string>
+    <string name="data_usage_metered_wifi_disabled">Для выбора сохраненных сетей включите WLAN.</string>
+    <string name="user_add_user_message_long">"Чтобы вашим устройством мог пользоваться кто-то еще, создайте на нем дополнительные профили. Каждый пользователь может настроить личное пространство по своему вкусу, в том числе выбрать обои и установить нужные приложения. Кроме того, пользователи могут изменять общие для всех параметры устройства, например WLAN.
+
+Новому добавленному пользователю необходимо настроить свое личное пространство.
+
+Обновлять приложения для всех остальных пользователей может любой пользователь устройства."</string>
+    <string name="restriction_wifi_config_title">WLAN и мобильная сеть</string>
+    <string name="restriction_wifi_config_summary">Разрешить изменение параметров WLAN и мобильной сети</string>
+    <string name="setup_wifi_nfc_tag">NFC-метка для настройки WLAN</string>
+    <string name="ct_wifi_connected_text">"Подкл. к WLAN China Telecom "</string>
+    <string name="cw_network_priority">Приоритет WLAN China Telecom</string>
+    <string name="cw_network_priority_summary">При подключении сети WLAN China Telecom получат приоритет над другими сетями WLAN</string>
+    <string name="data_traffic_disabled_text">Не удалось подключиться к сетям WLAN China Telecom, поскольку передача данных выключена. Включить передачу данных?</string>
+    <string name="location_based_wifi">WLAN с геолокацией</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Автоматическое подключение к точке доступа WLAN AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Автоподкл. к WLAN AT&amp;T</string>
+    <string name="wifi_calling_mode_title">Вызовы WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Изменить сертификат WLAN</string>
+    <string name="wifi_p2p_settings">Параметры WLAN Direct™</string>
+    <string name="wifi_security_verbose_wapi_cert">Защищено с помощью WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Защищено с помощью WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Вы можете использовать свое устройство в качестве мобильной точки доступа. Это позволит другим устройствам (максимум 10) подключиться к нему через сеть WLAN. Подключенные устройства получат доступ в Интернет через ваше подключение к мобильной сети. Мобильная точка доступа использует передачу мобильных данных, за что может взиматься дополнительная плата.
+
+Мобильная точка доступа активно расходует заряд аккумулятора. Чтобы сохранить заряд аккумулятора, подключите устройство к розетке."</string>
+    <string name="wifi_tether_settings_subtext">Настройка и контроль портативной точки доступа WLAN</string>
+    <string name="wifi_tether_settings_text">Параметры точки доступа WLAN</string>
+    <string name="wifi_wps_category_title">Настройка сети WLAN</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"Режим STAMINA помогает уменьшить расход заряда аккумулятора путем настройки параметров устройства. Вы можете выбрать приложения, которые будут работать с ограниченной функциональностью во время режима сна. (Это помогает сэкономить заряд аккумулятора, так как большинство приложений продолжают потреблять энергию даже во время режима сна.)
+
+Функции, отключенные для выбранных приложений:
+- WLAN
+- Мобильные данные 
+- Таймер 
+
+Во время режима сна индикатор уведомления для всех приложений мигает одним и тем же цветом с одинаковой частотой.
+
+Когда вы управляете устройством, режим STAMINA отключен."</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Что такое режим STAMINA?</u>"
+Режим STAMINA – это технология экономии энергии, разработанная Sony. Она продлевает время работы аккумулятора, когда дисплей выключен.
+
+"<u>Обычное использование</u>"
+Чтобы включить режим STAMINA, коснитесь кнопки на экране.
+Если экран выключен, WLAN и передача мобильных данных будут временно выключены, а большинство приложений будет неактивно. Это позволяет сохранить заряд аккумулятора.
+Если экран включен, устройство будет работать как обычно.
+
+"<u>Расширенное использование</u>"
+Если некоторые приложения должны оставаться активными в режиме STAMINA, добавьте их в список “ПРИЛОЖЕНИЯ, АКТИВНЫЕ В РЕЖИМЕ ОЖИДАНИЯ”.
+Приложения могут работать ненадлежащим образом, если они не добавлены в список.
+
+"<u>Примечание</u>"
+Если приложение не работает как положено, добавьте его в список “ПРИЛОЖЕНИЯ, АКТИВНЫЕ В РЕЖИМЕ ОЖИДАНИЯ” или выключите режим STAMINA."</string>
+    <string name="airplane_mode_info">В режиме полета отключаются все сетевые соединения, в том числе вызовы, обмен сообщениями, доступ к Интернету, WLAN и Bluetooth.</string>
+    <string name="cw_network_notification">Уведомлять о WLAN CT</string>
+    <string name="dialog_message_hint">"Режим STAMINA:
+
+• Расширенный режим ожидания
+Экономит энергию аккумулятора при выключенном экране благодаря выключению WLAN и мобильных данных. Большинство приложений будет неактивно.
+Если экран включен, устройство будет работать как обычно.
+Если требуется, чтобы некоторые приложения оставались активными в расширенном режиме ожидания, добавьте их в список “ПРИЛОЖЕНИЯ, АКТИВНЫЕ В РЕЖИМЕ ОЖИДАНИЯ”.
+
+• Продлённое использование
+Экономит энергию аккумулятора при использовании устройства благодаря ограничению производительности.
+"</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Для совместного пользования вашей текущей сетью WLAN выберите параметр «Обмен данными о WLAN».</string>
+    <string name="nfc_wifi_share_checkbox">Обмен данными о WLAN</string>
+    <string name="nfc_wifi_share_title_txt">Обменяться сведениями о WLAN</string>
+    <string name="powersaver_feature_data_message">Без подключения к WLAN вы не сможете использовать Интернет, электронную почту и другие приложения, передающие данные. Выключить передачу мобильных данных?</string>
+    <string name="tethering_disabled_while_wifi_dialog_text_vzw">Использование модема невозможно одновремнно с WLAN. Модем будет отключен.</string>
+    <string name="tethering_no_sim_warning_txt">Вставьте SIM-карту, чтобы использовать режимы мобильной точки доступа WLAN или USB-модема для предоставления другим устройствам доступа в Интернет с помощью подключения вашего смартфона к сети передачи данных.</string>
+    <string name="wifi_disabled_while_tethering_dialog_text_vzw">Использование WLAN невозможно одновременно с модемом. Режим WLAN будет отключен.</string>
+    <string name="wifi_offload_checkbox_summary">Сообщать о доступности WLAN при открытии приложений</string>
+    <string name="wifi_offload_checkbox_title">Показ. всплыв. сообщ. WLAN</string>
+    <string name="wifi_offload_notify_available_networks">Уведомления WLAN</string>
+    <string name="wifi_offload_notify_available_networks_summary">Уведомлять о доступности сетей WLAN</string>
+    <string name="wifi_offload_option_title">Доступные сети WLAN</string>
+    <string name="wps_strings_wifi_disconnected_txt">Подключение WLAN прервано. Настройка отменена.</string>
+    <string name="vzw_wifi_setup_wizard_desc">Выберите сеть, если требуется подключиться к WLAN.</string>
+    <string name="vzw_wifi_setup_wizard_title">Настроить WLAN</string>
+</resources>

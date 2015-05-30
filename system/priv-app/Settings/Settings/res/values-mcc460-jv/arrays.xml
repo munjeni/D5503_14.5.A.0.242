@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>panggonan sawetara</item>
+        <item>panggonan sing cetha</item>
+        <item>GPS</item>
+        <item>kedher</item>
+        <item>maca kontak</item>
+        <item>tulis kontak</item>
+        <item>maca dhaptar telpon</item>
+        <item>tulis dhaptar telpon</item>
+        <item>maca tanggalan</item>
+        <item>owahi tanggalan</item>
+        <item>Pindai WLAN</item>
+        <item>kabar</item>
+        <item>pindai seluler</item>
+        <item>telpon</item>
+        <item>maca SMS</item>
+        <item>nulis SMS</item>
+        <item>tampa SMS</item>
+        <item>tampa SMS dharurat</item>
+        <item>tampa MMS</item>
+        <item>tampa WAP push</item>
+        <item>kirim SMS</item>
+        <item>maca ICC SMS</item>
+        <item>nulis ICC SMS</item>
+        <item>owahi setelan</item>
+        <item>gambar ing ndhuwur</item>
+        <item>kabar akses</item>
+        <item>kamera</item>
+        <item>rekam audio</item>
+        <item>puter audio</item>
+        <item>maca papan klip</item>
+        <item>owahi papan klip</item>
+        <item>tombol media</item>
+        <item>fokus audio</item>
+        <item>volume utama</item>
+        <item>volume swara</item>
+        <item>volume dering</item>
+        <item>volume media</item>
+        <item>volume alarm</item>
+        <item>volume notifikasi</item>
+        <item>volume Bluetooth</item>
+        <item>tetep siyaga</item>
+        <item>awasi panggonan</item>
+        <item>awasi panggonan berdaya dhuwur</item>
+        <item>jupuk stat panggunaan</item>
+        <item>bisu/unekake mikropon</item>
+        <item>jendhela toast</item>
+        <item>media proyek</item>
+        <item>aktifake VPN</item>
+        <item>Owahi WLAN</item>
+        <item>Owahi Bluetooth</item>
+        <item>kirim MMS</item>
+        <item>waca MMS</item>
+        <item>tulis MMS</item>
+        <item>wiwit oto.</item>
+        <item>Owahi NFC</item>
+        <item>busak SMS</item>
+        <item>busak MMS</item>
+        <item>busak kontak</item>
+        <item>busak cathetan telpon</item>
+        <item>pangowahan data</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Panggonan</item>
+        <item>Panggonan</item>
+        <item>Panggonan</item>
+        <item>Kedher</item>
+        <item>Maca kontak</item>
+        <item>Tulis kontak</item>
+        <item>Maca dhaptar telpon</item>
+        <item>Tulis dhaptar telpon</item>
+        <item>Maca tanggalan</item>
+        <item>Owahi tanggalan</item>
+        <item>Panggonan</item>
+        <item>Pos kabar</item>
+        <item>Panggonan</item>
+        <item>Telpon</item>
+        <item>Waca SMS</item>
+        <item>Tulis SMS</item>
+        <item>Nampa SMS</item>
+        <item>Nampa SMS</item>
+        <item>Nampa MMS</item>
+        <item>Nampa SMS</item>
+        <item>Ngirim SMS</item>
+        <item>Maca SMS</item>
+        <item>Tulis SMS</item>
+        <item>Owahi setelan</item>
+        <item>Gambar ing ndhuwur</item>
+        <item>Kabar akses</item>
+        <item>Kamera</item>
+        <item>Rekam audio</item>
+        <item>Puter audio</item>
+        <item>Maca papan klip</item>
+        <item>Owahi papan klip</item>
+        <item>Tombol media</item>
+        <item>Fokus audio</item>
+        <item>Volume utama</item>
+        <item>Volume swara</item>
+        <item>Volume dering</item>
+        <item>Volume media</item>
+        <item>Volume alarm</item>
+        <item>Volume notifikasi</item>
+        <item>Volume Bluetooth</item>
+        <item>Tetep siyaga</item>
+        <item>Panggonan</item>
+        <item>Panggonan</item>
+        <item>Jupuk stat panggunaan</item>
+        <item>bisu/unekake mikropon</item>
+        <item>Jendhela toast</item>
+        <item>Media proyek</item>
+        <item>Aktifake VPN</item>
+        <item>Owahi WLAN</item>
+        <item>Owahi Bluetooth</item>
+        <item>Kirim MMS</item>
+        <item>Waca MMS</item>
+        <item>Tulis MMS</item>
+        <item>Wiwit oto.</item>
+        <item>Owahi NFC</item>
+        <item>Busak SMS</item>
+        <item>Busak MMS</item>
+        <item>Busak kontak</item>
+        <item>Busak cathetan telpon</item>
+        <item>Pangowahan data</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dashboard-categories
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <dashboard-category>
+        <dashboard-tile android:icon="@drawable/ic_settings_connectivity" android:id="@id/xperia_connectivity_settings" android:title="@string/xperia_connectivity" android:fragment="com.sonymobile.settings.GenericSettingsFragment">
+            <extra android:name="extra_after_id" android:value="data_usage_settings" />
+            <extra android:name="extra_depend_on_is_owner_only" android:value="false" />
+            <extra android:name="extra_fragment_preference_xml" android:value="xperia_connectivity_settings" />
+            <extra android:name="extra_fragment_help_resource" android:value="help_url_xperia_connectivity" />
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/ic_settings_personalization" android:id="@id/personalization_settings" android:title="@string/display_category_personalisation_title" android:fragment="com.sonymobile.settings.GenericSettingsFragment">
+            <extra android:name="extra_after_title" android:value="header_category_device" />
+            <extra android:name="extra_depend_on_is_owner_only" android:value="false" />
+            <extra android:name="extra_fragment_preference_xml" android:value="personalization_settings" />
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/ic_settings_call" android:id="@id/call_settings" android:title="@string/call_settings_title">
+            <extra android:name="extra_depend_on_is_voice_capable" android:value="true" />
+            <extra android:name="extra_after_title" android:value="header_category_device" />
+            <intent android:targetPackage="com.android.phone" android:action="android.intent.action.MAIN" android:targetClass="com.android.phone.CallFeaturesSetting" />
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/ic_settings_setupguide" android:id="@id/setupguide_settings" android:title="@string/setupguide_settings_title">
+            <extra android:name="extra_depend_on_is_valid_intent" android:value="true" />
+            <extra android:name="extra_after_id" android:value="privacy_settings" />
+            <extra android:name="extra_depend_on_is_owner_only" android:value="true" />
+            <intent android:targetPackage="com.sonyericsson.setupwizard" android:action="android.intent.action.MAIN" android:targetClass="com.sonyericsson.setupwizard.customscreens.WelcomeScreen" />
+        </dashboard-tile>
+        <dashboard-tile android:icon="@drawable/ic_settings_anti_spamming" android:id="@id/anti_spamming" android:title="@string/anti_spam_app_name_settings_txt">
+            <extra android:name="extra_depend_on_is_valid_intent" android:value="true" />
+            <extra android:name="extra_after_id" android:value="security_settings" />
+            <extra android:name="extra_depend_on_is_owner_only" android:value="true" />
+            <intent android:targetPackage="com.sonymobile.numberassistant" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.numberassistant.AntiSpammingActivity" />
+        </dashboard-tile>
+    </dashboard-category>
+</dashboard-categories>

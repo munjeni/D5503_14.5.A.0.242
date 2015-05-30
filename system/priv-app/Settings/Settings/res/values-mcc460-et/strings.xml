@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="l_dialog_message_hint">"STAMINA-režiim hõlmab järgmist.
+
+• Pikendatud ooterežiimi
+Säästab akut, kui ekraan on väljas, keelates ajutiselt WLAN ja mobiilandmeside. Enamik rakendusi on siis passiivsed.
+Kui kuva on sees, töötab teie telefon tavapäraselt.
+Kui soovite hoida mõned rakendused aktiivsena ajal, mil Pikendatud ooterežiim on lubatud, lisage rakendused loendisse Ooterežiimis aktiivsed rakendused.
+
+• Pikendatud kasutus
+Säästab akut, kui seade on kasutusel, piirates riistvara jõudlust."</string>
+    <string name="powersaver_feature_wifi">WLAN välja</string>
+    <string name="stamina_xssm_summary">Mobiilandmeside ja WLAN lülitatakse välja, kui ekraan on väljas</string>
+    <string name="usm_descr">"Ultra STAMINA režiim pikendab oluliselt aku tööiga. Seda saab kasutada, kui pika aja jooksul ei saa seadet laadida.
+
+Saadaval on anult mõned põhilised funktsioonid, nagu Telefon ja Sõnumside. Üksikasjade jaoks koputage valikul „Lisateave”.
+
+Pange tähele, et Interneti-ühendus WLAN ja mobiili andmeside kaudu keelatakse."</string>
+    <string name="wifi_tethering_warning_txt">Katkestatakse kõik pooleliolevad WLAN-toimingud, nagu meediaedastus, telefoni tarkvara uuendamine, varundamine ja taastamine.</string>
+    <string name="install_wapi_certs">Installi WLAN-serdid</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Ühendu automaatselt saadaolevasse Passpointi võrku, kui WLAN on sees</string>
+    <string name="radio_controls_summary">Saate hallata WLAN-t, Bluetoothi, lennukirežiimi, mobiilsidevõrke ja VPN-e</string>
+    <string name="wifi_assistant_intro_setup">"Tutvustame
+WLAN Assistanti"</string>
+    <string name="wifi_assistant_card_message">Automaatne ühendamine saadaolevate võrkudega, kasutades WLAN Assistanti.</string>
+    <string name="wifi_assistant_title">WLAN Assistant</string>
+    <string name="wifi_assistant_title_message">%1$s ühendab teid automaatselt parima saadaoleva WLAN-võrguga</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN lülitatakse sisse</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN seaded</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN valimine</string>
+    <string name="wifi_select_network">WLAN valimine</string>
+    <string name="wifi_starting">WLAN sisselülitamine</string>
+    <string name="wifi_stopping">WLAN väljalülitamine</string>
+    <string name="wifi_poor_network_detection_summary">WLAN võrku kasutatakse ainult hea Interneti-ühenduse korral</string>
+    <string name="wifi_scan_always_available_summary">Lubab Google’i asukohateenusel ja muudel rakendustel võrke otsida ka juhul, kui WLAN on välja lülitatud</string>
+    <string name="wifi_automatically_manage_title">WLAN automaatne haldamine</string>
+    <string name="wifi_automatically_manage_summary">Luba rakendusel %1$s hallata oma WLAN-ühendust</string>
+    <string name="wifi_scan_notify_text_location_on">Asukoha täpsemaks määramiseks ja muudel eesmärkidel võivad Google ja muud rakendused otsida läheduses olevaid võrke ka siis, kui WLAN on väljas. Kui te seda ei soovi, siis valige Täpsem > Otsimine on alati saadaval.</string>
+    <string name="wifi_scan_notify_text_location_off">Rakendused võivad otsida läheduses olevaid võrke ka siis, kui WLAN on väljas. Kui te seda ei soovi, siis valige Täpsem > Otsimine on alati saadaval.</string>
+    <string name="wifi_setting_sleep_policy_title">WLAN on unerežiimi ajal sees</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN on unerež. sisselülitatud</string>
+    <string name="wifi_suspend_optimizations">WLAN optimeerimine</string>
+    <string name="wifi_suspend_optimizations_summary">Minimeeri aku kasutamine, kui WLAN on sees</string>
+    <string name="wifi_limit_optimizations_summary">Piira WLAN akukasutust</string>
+    <string name="wifi_access_points">WLAN-võrgud</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">Saadaolevate võrkude kuvamiseks lülitage WLAN sisse.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN-võrkude otsimine...</string>
+    <string name="wifi_empty_list_user_restricted">Teil pole WLAN-võrgu muutmiseks luba</string>
+    <string name="wifi_required_info_text">Seadistuse lõpule viimiseks vajab teie tahvelarvuti WLAN-ühendust. Pärast seadistust saate vahetada mobiilse andmeside ja WLAN vahel.</string>
+    <string name="wifi_wps_setup_title">WLAN Protected Setup</string>
+    <string name="wifi_wps_onstart_pbc">Vajutage ruuteri nuppu WLAN Protected Setup. Selle nimi võib olla ka „WPS” või sellel võib olla järgmine sümbol:</string>
+    <string name="wifi_wps_onstart_pin">Sisestage WLAN-ruuteris PIN-kood %1$s. Seadistuse lõpetamiseks võib kuluda kuni kaks minutit.</string>
+    <string name="wifi_wps_connected">Ühendatud WLAN-võrguga %s</string>
+    <string name="wifi_scan_always_turnon_message">"Täpsema asukoha ja muude toimingute jaoks tahab rakendus %1$s võrkude otsimise sisse lülitada, isegi kui WLAN on välja lülitatud.
+
+Kas lubada see kõigi rakenduste jaoks, mis tahavad otsida?"</string>
+    <string name="wifi_skipped_message">"HOIATUS. Teenusepakkujal võib andmeedastusele kehtida lisahind.
+
+Telefoni seadistamiseks võib olla vajalik suur võrguaktiivsus."</string>
+    <string name="wifi_and_mobile_skipped_message">MÄRKUS. Kui jätate WLAN vahele, ei ole telefonil Interneti-ühendust, mida kasutada algseteks allalaadimisteks või värskendamisteks.</string>
+    <string name="wifi_connect_failed_message">Telefonil ei õnnestunud luua ühendust selle WLAN-võrguga.</string>
+    <string name="wifi_advanced_titlebar">WLAN täpsemad seaded</string>
+    <string name="wifi_setting_frequency_band_title">WLAN sagedusriba</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Teisaldatav WLAN-pääsupunkt</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN-leviala</string>
+    <string name="wifi_hotspot_checkbox_text_summary">Kasuta WLAN-võrgu loomiseks mobiilseandmeside ühendust</string>
+    <string name="wifi_tether_failed_subtext">Teisaldatava WLAN-pääsupunkti tõrge</string>
+    <string name="wifi_tether_configure_ap_text">WLAN-pääsupunkti seadistamine</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN-leviala seadistamine</string>
+    <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK kaasask. WLAN-leviala</string>
+    <string name="wifi_tether_configure_subtext">"%1$s teisaldatav WLAN-pääsupunkt.
+Turve: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC-aadress</string>
+    <string name="network_scorer_change_active_dialog_title">Kas muuta WLAN Assistanti?</string>
+    <string name="location_mode_high_accuracy_description">Asukoha määratlemine GPS-i, WLAN- ja mobiilsidevõrkude abil</string>
+    <string name="location_mode_battery_saving_description">Asukoha määratlemine WLAN- ja mobiilsidevõrkude abil</string>
+    <string name="location_neighborhood_level">"Saate lub. Google'ile saata anon. andmeid. Samuti võivad loaga rak-d WLAN ja mobiilisidev-st pärit andmeid kasut. teie asuk. määr-ks."</string>
+    <string name="location_neighborhood_level_wifi">Asukoht määratakse WLAN-võrgu abil</string>
+    <string name="wifi_verbose_logging">Luba WLAN paljusõnaline logimine</string>
+    <string name="wifi_aggressive_handover">Agress. WLAN-lt mob. andmesid. ülemin.</string>
+    <string name="wifi_allow_scan_with_traffic">Luba alati WLAN-rändluse skannimine</string>
+    <string name="wifi_verbose_logging_summary">Suurenda WLAN logimistaset, kuva WLAN valijas SSID RSSI järgi</string>
+    <string name="wifi_aggressive_handover_summary">Kui see on lubatud, siis püüab WLAN nõrga WLAN-signaali korral agressiivsemalt anda andmeside ühenduse üle mobiilsele andmesidele</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Luba/keela WLAN-rändluse skannimine liidese andmeliikluse põhjal</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">Aeg, mil WLAN on sisse lülitatud</string>
+    <string name="bluetooth_on_time">Aeg, mil WLAN on sisse lülitatud</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN töötades</string>
+    <string name="usage_type_data_wifi_send">Saadetud WLAN-paketid</string>
+    <string name="usage_type_data_wifi_recv">Vastuvõetud WLAN-paketid</string>
+    <string name="battery_action_wifi">WLAN seaded</string>
+    <string name="battery_desc_wifi">WLAN akukulu</string>
+    <string name="battery_sugg_wifi">Lülitage WLAN välja, kui te seda ei kasuta või kui see pole saadaval</string>
+    <string name="gadget_toggle_wifi">WLAN seade uuendamine</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">"Saate varundada rakenduse andmeid, WLAN paroole ja seadeid Google'i serverites"</string>
+    <string name="backup_erase_dialog_message">"Kas soovite oma WLAN paroolide, järjehoidjate, muude seadete ja rakenduseandmete varundamise lõpetada ja kõik koopiad Google'i serveritest eemaldada?"</string>
+    <string name="wifi_setup_title">WLAN seadistamine</string>
+    <string name="wifi_setup_title_editing_network">Ühenduse loomine WLAN-võrguga %s</string>
+    <string name="wifi_setup_title_connecting_network">Ühenduse loomine WLAN-võrguga %s...</string>
+    <string name="wifi_setup_title_connected_network">Ühendatud WLAN-võrguga %s</string>
+    <string name="wifi_setup_eap_not_supported">Seadistamise ajal ei saa konfigureerida EAP WLAN-ühendust. Pärast seadistamist saate seda teha menüüde Seaded > Traadita side ja võrgud kaudu.</string>
+    <string name="wifi_setup_description_connected">Seadistamise jätkamiseks puudutage valikut <b>Edasi</b>".
+
+Mõne muu WLAN-võrguga ühenduse loomiseks puudutage valikut "<b>Tagasi</b>.</string>
+    <string name="data_usage_menu_show_wifi">Kuva WLAN</string>
+    <string name="data_usage_menu_hide_wifi">WLAN peitmine</string>
+    <string name="data_usage_disable_wifi_limit">Määra WLAN-andmeside piirang</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Kui piirate mobiilside taustandmeid, töötavad mõned rakendused ja teenused ainult siis, kui on ühendus WLAN-võrguga.</string>
+    <string name="data_usage_restrict_background_multiuser">"Kui piirate mobiilset taustandmevahetust, siis teatud rakendused ja teenused ei tööta, välja arvatud juhul, kui olete ühenduses WLAN-võrguga.
+
+
+
+Seade mõjutab kõiki telefoni kasutajaid."</string>
+    <string name="data_usage_metered_body">Valige WLAN-võrgud, mis töötavad mobiilsidelevialadena. Rakendusi saab takistada neid võrke kasutamast, kui rakendused töötavad taustal. Rakendused võivad enne nende võrkude kaudu mahukate failide allalaadimist hoiatada.</string>
+    <string name="data_usage_metered_wifi">Mõõdetud WLAN-võrgud</string>
+    <string name="data_usage_metered_wifi_disabled">Mõõdetud võrkude valimiseks lülitage WLAN sisse.</string>
+    <string name="user_add_user_message_long">"Võite jagada seadet teiste kasutajatega, luues uusi kasutajaid. Igal kasutajal on oma ruum, mida saab kohandada rakenduste, taustapildi ja muuga. Kasutajad saavad kohandada ka seadme seadeid, näiteks WLAN-valikuid, mis mõjutavad kõiki kasutajaid.
+
+Kui lisate uue kasutaja, siis peab ta seadistama oma ruumi.
+
+Iga kasutaja saab värskendada rakendusi kõigi kasutajate jaoks."</string>
+    <string name="restriction_wifi_config_title">WLAN ja mobiilandmeside</string>
+    <string name="restriction_wifi_config_summary">WLAN ja mobiilandmeside seadete muutmise lubamine</string>
+    <string name="setup_wifi_nfc_tag">WLAN NFC-kiibi seadistamine</string>
+    <string name="ct_wifi_connected_text">China Telecomi WLAN ühendatud</string>
+    <string name="cw_network_priority">Eelista China Telecomi WLAN-t</string>
+    <string name="cw_network_priority_summary">Ühenduse loomisel eelistatakse China Telecomi WLAN-võrke teistele WLAN-võrkudele</string>
+    <string name="data_traffic_disabled_text">China Telecomi WLAN-võrkudega ei saanud ühendust luua, kuna andmeliiklus on keelatud. Kas lubada andmeliiklus kohe?</string>
+    <string name="location_based_wifi">Asukohapõhine WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automaatne ühenduse loomine AT&amp;T WLAN-pääsupunktiga</string>
+    <string name="operator_auto_connect_hotspot_txt">Autom üh AT&amp;T WLAN-ga</string>
+    <string name="wifi_calling_mode_title">WLAN-kõne</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Muuda WLAN-serti</string>
+    <string name="wifi_p2p_settings">WLAN Direct™i seaded</string>
+    <string name="wifi_security_verbose_wapi_cert">Turvatud protokolliga WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Turvatud protokolliga WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Saate seadet kasutada mobiilse pääsupunktina. Sellega saavad muud seadmed (max 10) seadme WLAN-võrgu kaudu ühenduda. Ühendatud seadmed saavad kasutada Internetti telefoni mobiilsidevõrguühenduse kaudu. Mobiilne pääsupunkt kasutab mobiilandmesidet ja sellega võivad kaasneda lisatasud.
+
+Mobiilne pääsupunkt tarbib rohkem akut. Ühendage seade aku kasutusaja pikendamiseks vooluvõrku."</string>
+    <string name="wifi_tether_settings_subtext">Seadista ja halda teisaldatavat WLAN-pääsupunkti</string>
+    <string name="wifi_tether_settings_text">Teisaldat. WLAN-pääsupunkti seaded</string>
+    <string name="wifi_wps_category_title">WLAN-võrgu seadistamine</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA režiim säästab akut, reguleerides seadme seadeid. Saate valida rakenduste unerežiimis vähendatud funktsionaalsusega töötamise. (See aitab akut säästa, kuna enamik rakendusi kulutavad akut isegi unerežiimis.)
+
+Valitud rakendustele keelatud funktsioonid:
+- WLAN
+- mobiilsideandmed
+- taimer
+
+Kõikide rakenduste teavitustuli vilgub unerežiimis samal sagedusel ja samas värvitoonis.
+
+Režiim STAMINA desaktiveeritakse seadme juhtimise ajal."</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Mis on STAMINA-režiim?</u>"
+STAMINA-režiim on Sony energiasäästufunktsioon. See pikendab aku tööiga, kui ekraan on välja lülitatud.
+
+"<u>Põhikasutus</u>"
+STAMINA-režiimi aktiveerimiseks kasutage järgmisel kuval kuvatavat lülitit. 
+Kui ekraan on välja lülitatud, keelatakse ajutiselt WLAN ja mobiilsideandmed ning aku säästmiseks on enamik rakendusi passiivsed.
+Kui ekraan on sisse lülitatud, toimivad kõik telefoni funktsioonid.
+
+"<u>Täpsem kasutus</u>"
+Kui soovite, et mõned rakendused oleksid STAMINA-režiimis aktiivsed, lisage need loendisse RAKENDUSED ON OOTEREŽIIMIS AKTIIVSED.
+Rakendused ei pruugi töötada, kui neid pole loendis.
+
+"<u>Märkus.</u>"
+Kui rakendus ei tööta korralikult, lisage see loendisse RAKENDUSED ON OOTERŽIIMIS AKTIIVSED või inaktiveerige STAMINA-režiim."</string>
+    <string name="airplane_mode_info">Lennurežiim lülitab välja kõik võrguühendused, sealhulgas kõned, tekstsõnumid, Interneti-ühenduse, WLAN ja Bluetoothi.</string>
+    <string name="cw_network_notification">Luba CT WLAN teadaanne</string>
+    <string name="dialog_message_hint">"STAMINA-režiim sisaldab järgmist:
+
+• Laiendatud ooterežiim
+Säästab energiat, kui ekraan on väljas, lülitades ajutiselt välja WLAN ja mobiilandmeside. Enamik rakendusi on passiivsed.
+Kui ekraan on SEES, siis töötab telefon tavaliselt.
+Kui soovite, et mõni rakendus oleks aktiivne, kui laiendatud ooterežiim on SEES, lisage vastav rakendus loendisse OOTREŽIIMIS AKTIIVSED RAKENDUSED.
+
+• Laiendatud kasutus
+Säästab energiat seadme kasutamise ajal, piirates riistvara jõudlust.
+"</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Oma praeguse WLAN-võrgu jagamiseks valige seadetes suvand Jaga WLAN teavet</string>
+    <string name="nfc_wifi_share_checkbox">Jaga WLAN teavet</string>
+    <string name="nfc_wifi_share_title_txt">Jaga WLAN teavet</string>
+    <string name="powersaver_feature_data_message">V.a kui kasutate WLAN-t, ei saa te enam kasutada Internetti, e-posti ega muid andmesideühendust vajavaid rakendusi. Kas mobiilandmesideühendus välja lülitada?</string>
+    <string name="tethering_disabled_while_wifi_dialog_text_vzw">Lõõga ei saa kasutada, kui WLAN on sees. Lõõg keelatakse.</string>
+    <string name="tethering_no_sim_warning_txt">Selleks, et jagada telefoni andmesidet seadmetega, mis kasutavad Internetile juurdepääsuks mobiilset WLAN-võrgu pääsupunkti või USB edasijagamist, sisestage SIM-kaart.</string>
+    <string name="wifi_disabled_while_tethering_dialog_text_vzw">WLAN-t ei saa kasutada, kui lõõg toimib. WLAN keelatakse.</string>
+    <string name="wifi_offload_checkbox_summary">Rakenduste avamisel teata, kui WLAN on saadaval</string>
+    <string name="wifi_offload_checkbox_title">Kuva WLAN hüpikaknad</string>
+    <string name="wifi_offload_notify_available_networks">WLAN teadaanded</string>
+    <string name="wifi_offload_notify_available_networks_summary">Teavita, kui WLAN-võrgud on saadaval</string>
+    <string name="wifi_offload_option_title">Saadaolevad WLAN-võrgud</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN-ühendus on katkestatud. Häälestus tühistatud.</string>
+    <string name="vzw_wifi_setup_wizard_desc">Valige võrk, kui soovite WLAN-ga kohe ühendada.</string>
+    <string name="vzw_wifi_setup_wizard_title">WLAN häälestamine</string>
+</resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>приблизне місцезнаходження</item>
+        <item>точне місцезнаходження</item>
+        <item>GPS</item>
+        <item>вібросигнал</item>
+        <item>читати контакти</item>
+        <item>записування контактів</item>
+        <item>читати журнал викликів</item>
+        <item>записування в журнал дзвінків</item>
+        <item>переглядати календар</item>
+        <item>змінювати календар</item>
+        <item>сканування WLAN</item>
+        <item>сповіщення</item>
+        <item>пошук мобільних мереж</item>
+        <item>телефонувати</item>
+        <item>читати SMS</item>
+        <item>писати SMS</item>
+        <item>отримувати SMS</item>
+        <item>отримувати екстрені SMS</item>
+        <item>отримувати MMS</item>
+        <item>отримувати WAP Push</item>
+        <item>надсилати SMS</item>
+        <item>читати ICC SMS</item>
+        <item>писати ICC SMS</item>
+        <item>змінювати налаштування</item>
+        <item>відображати зверху</item>
+        <item>отримувати доступ до сповіщень</item>
+        <item>камера</item>
+        <item>записувати аудіо</item>
+        <item>відтворювати аудіо</item>
+        <item>читати буфер обміну</item>
+        <item>змінювати буфер обміну</item>
+        <item>кнопки медіа</item>
+        <item>активізація звуку</item>
+        <item>загальна гучність</item>
+        <item>гучність голосу</item>
+        <item>гучність дзвінка</item>
+        <item>гучність медіа</item>
+        <item>гучність сигналу</item>
+        <item>гучність сповіщення</item>
+        <item>гучність Bluetooth</item>
+        <item>залишати активним</item>
+        <item>відстежувати місцезнаходження</item>
+        <item>відстежувати енергозатратні місцезнаходження</item>
+        <item>отримати статистику використання</item>
+        <item>вимкнути або ввімкнути мікрофон</item>
+        <item>вікно сповіщень</item>
+        <item>транслювання мультимедіа</item>
+        <item>увімкнення VPN</item>
+        <item>змінення WLAN</item>
+        <item>змінення Bluetooth</item>
+        <item>надсилання MMS</item>
+        <item>читання MMS</item>
+        <item>написання MMS</item>
+        <item>автоматичний запуск</item>
+        <item>змінення NFC</item>
+        <item>видалення SMS</item>
+        <item>видалення MMS</item>
+        <item>видалення контактів</item>
+        <item>видалення журналу дзвінків</item>
+        <item>змінення дати</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Місцезнаходження</item>
+        <item>Місцезнаходження</item>
+        <item>Місцезнаходження</item>
+        <item>Вібросигнал</item>
+        <item>Читати контакти</item>
+        <item>Записування контактів</item>
+        <item>Читати журнал викликів</item>
+        <item>Записування в журнал дзвінків</item>
+        <item>Переглядати календар</item>
+        <item>Змінювати календар</item>
+        <item>Місцезнаходження</item>
+        <item>Публікувати сповіщення</item>
+        <item>Місцезнаходження</item>
+        <item>Телефонувати</item>
+        <item>Читання SMS</item>
+        <item>Написання SMS</item>
+        <item>Отримання SMS</item>
+        <item>Отримання SMS</item>
+        <item>Отримання MMS</item>
+        <item>Отримання SMS</item>
+        <item>Надсилання SMS</item>
+        <item>Читання SMS</item>
+        <item>Написання SMS</item>
+        <item>Змінювати налаштування</item>
+        <item>Відображати зверху</item>
+        <item>Отримувати доступ до сповіщень</item>
+        <item>Камера</item>
+        <item>Записувати аудіо</item>
+        <item>Відтворювати аудіо</item>
+        <item>Читати буфер обміну</item>
+        <item>Змінювати буфер обміну</item>
+        <item>Кнопки медіа</item>
+        <item>Активізація звуку</item>
+        <item>Загальна гучність</item>
+        <item>Гучність голосу</item>
+        <item>Гучність дзвінка</item>
+        <item>Гучність медіа</item>
+        <item>Гучність сигналу</item>
+        <item>Гучність сповіщення</item>
+        <item>Гучність Bluetooth</item>
+        <item>Залишати активним</item>
+        <item>Місцезнаходження</item>
+        <item>Місцезнаходження</item>
+        <item>Отримати статистику використання</item>
+        <item>Вимкнути або ввімкнути мікрофон</item>
+        <item>Вікно сповіщень</item>
+        <item>Транслювання мультимедіа</item>
+        <item>Увімкнення VPN</item>
+        <item>змінення WLAN</item>
+        <item>змінення Bluetooth</item>
+        <item>Надсилання MMS</item>
+        <item>Читання MMS</item>
+        <item>Написання MMS</item>
+        <item>Автоматичний запуск</item>
+        <item>змінення NFC</item>
+        <item>Видалення SMS</item>
+        <item>Видалення MMS</item>
+        <item>Видалення контактів</item>
+        <item>Видалення журналу дзвінків</item>
+        <item>Змінення даних</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

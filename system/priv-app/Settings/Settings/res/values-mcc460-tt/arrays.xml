@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>якынчы урын</item>
+        <item>төгәл урын</item>
+        <item>GPS</item>
+        <item>тибрәнү</item>
+        <item>контактларны уку</item>
+        <item>аралашулар ясау</item>
+        <item>шалтыратулар журналын уку</item>
+        <item>шалтырату язмасын ясау</item>
+        <item>календарьне уку</item>
+        <item>календарьне үзгәртү</item>
+        <item>WLAN тикшерү</item>
+        <item>белдерү</item>
+        <item>күзәнәкне сканерлау</item>
+        <item>телефонга шалтырату</item>
+        <item>SMS уку</item>
+        <item>SMS язу</item>
+        <item>SMS алу</item>
+        <item>каза SMS алу</item>
+        <item>MMS алу</item>
+        <item>WAP этүны алу</item>
+        <item>SMS җибәрү</item>
+        <item>ICC SMS уку</item>
+        <item>ICC SMS язу</item>
+        <item>параметрларны үзгәртү</item>
+        <item>өскә сөйрәү</item>
+        <item>керү искәрмәләре</item>
+        <item>камера</item>
+        <item>аудио яздыру</item>
+        <item>аудио уйнату</item>
+        <item>кэшны уку</item>
+        <item>кәшны үзгәртү</item>
+        <item>медиа төймәләре</item>
+        <item>аудио күзләү</item>
+        <item>төп тавыш көче</item>
+        <item>тавыш көче</item>
+        <item>шалтырату тавыш көче</item>
+        <item>медиа тавыш көче</item>
+        <item>кисәтү тавыш көче</item>
+        <item>белдерү тавыш көче</item>
+        <item>Bluetooth көче</item>
+        <item>йокламау</item>
+        <item>монитор урнашуы</item>
+        <item>югары энергия куллануны тикшерергә</item>
+        <item>куллану стат. алу</item>
+        <item>микрофонны тыю/җибәру</item>
+        <item>тәрәзә тосты</item>
+        <item>медиа нияте</item>
+        <item>VPN эшләтү</item>
+        <item>WLAN үзгәртү</item>
+        <item>Bluetooth үзгәртү</item>
+        <item>MMS җибәрү</item>
+        <item>MMS уку</item>
+        <item>MMS язу</item>
+        <item>үзе башлау</item>
+        <item>NFC үзгәртү</item>
+        <item>SMS бетерү</item>
+        <item>MMS бетерү</item>
+        <item>аралашуларны бетерү</item>
+        <item>шалтырату язмасын бетерү</item>
+        <item>мәгълүматны үзгәртү</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Урнашу</item>
+        <item>Урнашу</item>
+        <item>Урнашу</item>
+        <item>Тибрәнү</item>
+        <item>Контактларны уку</item>
+        <item>Аралашулар ясау</item>
+        <item>Шалтыратулар журналын уку</item>
+        <item>Шалтырату язмасын ясау</item>
+        <item>Календарьне уку</item>
+        <item>Календарьне үзгәртү</item>
+        <item>Урнашу</item>
+        <item>Искәрмә җибәрү</item>
+        <item>Урнашу</item>
+        <item>Телефонга шалтырату</item>
+        <item>SMS уку</item>
+        <item>SMS ясау</item>
+        <item>SMS алу</item>
+        <item>SMS алу</item>
+        <item>MMS алу</item>
+        <item>SMS алу</item>
+        <item>SMS җибәрү</item>
+        <item>SMS уку</item>
+        <item>SMS ясау</item>
+        <item>Параметрларны үзгәртү</item>
+        <item>Өскә сөйрәү</item>
+        <item>Керү искәрмәләре</item>
+        <item>Камера</item>
+        <item>Аудио яздыру</item>
+        <item>Аудио уйнату</item>
+        <item>Кэшны уку</item>
+        <item>Кәшны үзгәртү</item>
+        <item>Медиа төймәләре</item>
+        <item>Аудио күзләү</item>
+        <item>Төп тавыш көче</item>
+        <item>Тавыш көче</item>
+        <item>Шалтырату тавыш көче</item>
+        <item>Медиа тавыш көче</item>
+        <item>Кисәтү тавыш көче</item>
+        <item>Белдерү тавыш көче</item>
+        <item>Bluetooth тавыш көче</item>
+        <item>Йокламау</item>
+        <item>Урнашу</item>
+        <item>Урнашу</item>
+        <item>Куллану стат. алу</item>
+        <item>Микрофонны тыю/җибәру</item>
+        <item>Тәрәзә тосты</item>
+        <item>Медиа нияте</item>
+        <item>VPN эшләтү</item>
+        <item>WLAN үзгәртү</item>
+        <item>Bluetooth үзгәртү</item>
+        <item>MMS җибәрү</item>
+        <item>MMS уку</item>
+        <item>MMS язу</item>
+        <item>Үзе башлау</item>
+        <item>NFC үзгәртү</item>
+        <item>SMS бетерү</item>
+        <item>MMS бетерү</item>
+        <item>Аралашуларны бетерү</item>
+        <item>Шалтырату язмасын бетерү</item>
+        <item>Мәгълүматны үзгәртү</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN гексадецималь</item>
+    </string-array>
+</resources>

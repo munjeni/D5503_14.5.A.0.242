@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>gutxi gorabeherako kokapena</item>
+        <item>kokapen zehatza</item>
+        <item>GPS</item>
+        <item>dardara</item>
+        <item>irakurri kontaktuak</item>
+        <item>idatzi kontaktuak</item>
+        <item>irakurri deien erregistroa</item>
+        <item>idatzi deien erregistroa</item>
+        <item>irakurri egutegia</item>
+        <item>aldatu egutegia</item>
+        <item>WLAN sareak bilatzea</item>
+        <item>jakinarazpena</item>
+        <item>sare mugikorrak bilatzea</item>
+        <item>deitu telefonora</item>
+        <item>irakurri SMS mezuak</item>
+        <item>idatzi SMS mezuak</item>
+        <item>jaso SMS mezuak</item>
+        <item>jaso larrialdiko SMS mezuak</item>
+        <item>jaso MMS mezuak</item>
+        <item>jaso WAP push-jakinarazpenak</item>
+        <item>bidali SMS mezuak</item>
+        <item>irakurri ICC SMS mezuak</item>
+        <item>idatzi ICC SMS mezuak</item>
+        <item>aldatu ezarpenak</item>
+        <item>marraztu gainean</item>
+        <item>atzitu jakinarazpenak</item>
+        <item>kamera</item>
+        <item>grabatu audioa</item>
+        <item>erreproduzitu audioa</item>
+        <item>irakurri arbela</item>
+        <item>aldatu arbela</item>
+        <item>multimedia-botoiak</item>
+        <item>audio-fokatzea</item>
+        <item>bolumen nagusia</item>
+        <item>ahotsaren bolumena</item>
+        <item>tonuaren bolumena</item>
+        <item>multimedia-elementuen bolumena</item>
+        <item>alarmaren bolumena</item>
+        <item>jakinarazpenen bolumena</item>
+        <item>Bluetootharen bolumena</item>
+        <item>eduki aktibo</item>
+        <item>kontrolatu kokapena</item>
+        <item>egin potentzia handiko kokapen-kontrola</item>
+        <item>lortu erabilera-estatistikak</item>
+        <item>aktibatu edo desaktibatu mikrofonoa</item>
+        <item>erakutsi leihoa</item>
+        <item>proiektatu multimedia edukia</item>
+        <item>aktibatu VPN</item>
+        <item>WLAN aldaketa</item>
+        <item>Bluetooth aldaketa</item>
+        <item>bidali MMSa</item>
+        <item>irakurri MMSa</item>
+        <item>idatzi MMSa</item>
+        <item>abiarazte automatikoa</item>
+        <item>NFC aldaketa</item>
+        <item>ezabatu SMSa</item>
+        <item>ezabatu MMSa</item>
+        <item>ezabatu kontaktuak</item>
+        <item>ezabatu deien erregistroa</item>
+        <item>datu aldaketa</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Kokapena</item>
+        <item>Kokapena</item>
+        <item>Kokapena</item>
+        <item>Dardara</item>
+        <item>Irakurri kontaktuak</item>
+        <item>Idatzi kontaktuak</item>
+        <item>Irakurri deien erregistroa</item>
+        <item>Idatzi deien erregistroa</item>
+        <item>Irakurri egutegia</item>
+        <item>Aldatu egutegia</item>
+        <item>Kokapena</item>
+        <item>Bidali jakinarazpena</item>
+        <item>Kokapena</item>
+        <item>Deitu telefonora</item>
+        <item>Irakurri SMSak</item>
+        <item>Idatzi SMSak</item>
+        <item>Jaso SMSak</item>
+        <item>Jaso SMSak</item>
+        <item>Jaso MMSak</item>
+        <item>Jaso SMSak</item>
+        <item>Bidali SMSak</item>
+        <item>Irakurri SMSak</item>
+        <item>Idatzi SMSak</item>
+        <item>Aldatu ezarpenak</item>
+        <item>Marraztu gainean</item>
+        <item>Atzitu jakinarazpenak</item>
+        <item>Kamera</item>
+        <item>Grabatu audioa</item>
+        <item>Erreproduzitu audioa</item>
+        <item>Irakurri arbela</item>
+        <item>Aldatu arbela</item>
+        <item>Multimedia-botoiak</item>
+        <item>Audio-fokatzea</item>
+        <item>Bolumen nagusia</item>
+        <item>Ahotsaren bolumena</item>
+        <item>Tonuaren bolumena</item>
+        <item>Multimedia-elementuen bolumena</item>
+        <item>Alarmaren bolumena</item>
+        <item>Jakinarazpenen bolumena</item>
+        <item>Bluetootharen bolumena</item>
+        <item>Mantendu aktibo</item>
+        <item>Kokapena</item>
+        <item>Kokapena</item>
+        <item>Lortu erabilera-estatistikak</item>
+        <item>Aktibatu edo desaktibatu mikrofonoa</item>
+        <item>Erakutsi leihoa</item>
+        <item>proiektatu multimedia-edukia</item>
+        <item>Aktibatu VPN</item>
+        <item>WLAN aldaketa</item>
+        <item>Bluetooth aldaketa</item>
+        <item>Bidali MMSa</item>
+        <item>Irakurri MMSa</item>
+        <item>Idatzi MMSa</item>
+        <item>Abiarazte automatikoa</item>
+        <item>NFC aldaketa</item>
+        <item>Ezabatu SMSa</item>
+        <item>Ezabatu MMSa</item>
+        <item>Ezabatu kontaktuak</item>
+        <item>Ezabatu deien erregistroa</item>
+        <item>Datu aldaketa</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

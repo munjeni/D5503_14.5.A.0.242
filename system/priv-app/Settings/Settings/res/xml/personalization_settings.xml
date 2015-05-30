@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/display_category_personalisation_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:key="intelligent" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.intelligent.settings" android:targetClass="com.sonymobile.intelligent.settings.IntelligentSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/theme_label_xperia" android:key="theme" android:summary="@string/theme_label_summary" settings:dependOnIsValidIntent="true" settings:chooserTitle="@string/theme_dialog_title_select_theme_txt">
+        <intent android:action="com.sonyericsson.theme.intent.action.SET_RUNTIME_THEME" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/wallpaper_settings_title" android:key="wallpaper" settings:dependOnIsValidIntent="true">
+        <intent android:targetPackage="com.sonyericsson.lockscreen.uxpnxt" android:action="com.sonymobile.settings.intent.action.SET_HOME_OR_LOCKSCREEN_WALLPAPER" android:targetClass="com.sonymobile.lockscreen.wallpaper.SetHomeOrLockscreenWallpaperActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="preferred_application_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.docomo.settings" android:targetClass="com.sonyericsson.docomo.settings.PreferredAppSettingActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="lockscreen" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:action="com.sonyericsson.settings.intent.action.LOCKSCREEN" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="system_icons" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.settings" android:targetClass="com.sonymobile.settings.systemicon.SystemIconSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

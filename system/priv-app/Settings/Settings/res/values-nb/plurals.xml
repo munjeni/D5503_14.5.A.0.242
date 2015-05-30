@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d dager</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">%d time</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">Listen inneholder for tiden %d apper</item>
+        <item quantity="one">Listen inneholder for tiden %1$d app</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Du er nå %1$d trinn fra å bli en utvikler.</item>
+        <item quantity="one">Du er nå %1$d trinn fra å bli en utvikler.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Passord må inneholde minst %d bokstaver</item>
+        <item quantity="one">Passord må inneholde minst 1 bokstav</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Passord må inneholde minst %d små bokstaver</item>
+        <item quantity="one">Passord må inneholde minst 1 liten bokstav</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Passord må inneholde minst %d store bokstaver</item>
+        <item quantity="one">Passord må inneholde minst 1 stor bokstav</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Passord må inneholde minst %d tall</item>
+        <item quantity="one">Passord må inneholde minst 1 tall</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Passord må inneholde minst %d spesialtegn</item>
+        <item quantity="one">Passord må inneholde minst 1 spesialtegn</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Passord må inneholde minst %d tegn som ikke er bokstaver</item>
+        <item quantity="one">Passord må inneholde minst 1 tegn som ikke er bokstav</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Feil PIN-kode for SIM-kortet. Du har %d forsøk igjen.</item>
+        <item quantity="one">Feil PIN-kode for SIM-kortet. Du har %d forsøk igjen før du må kontakte operatøren din for å låse opp enheten.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d apper kan lese varsler</item>
+        <item quantity="one">%d app kan lese varsler</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d apper angir betingelser</item>
+        <item quantity="one">%d app angir betingelser</item>
+    </plurals>
+    <plurals name="not_time_left_format_hours">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">%d time</item>
+    </plurals>
+    <plurals name="not_time_left_format_minutes">
+        <item quantity="other">%d minutter</item>
+        <item quantity="one">%d minutt</item>
+    </plurals>
+    <plurals name="xssm_settings_blacklist_summary_txt">
+        <item quantity="other">%d apper valgt</item>
+        <item quantity="one">%d app valgt</item>
+    </plurals>
+    <plurals name="lock_after_timeout_minutes">
+        <item quantity="other">"%1$d minutter "</item>
+        <item quantity="one">"%1$d minutt "</item>
+    </plurals>
+</resources>

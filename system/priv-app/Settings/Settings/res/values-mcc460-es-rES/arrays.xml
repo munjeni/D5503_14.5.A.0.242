@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>ubicación común</item>
+        <item>ubicación precisa</item>
+        <item>GPS</item>
+        <item>vibrar</item>
+        <item>consultar contactos</item>
+        <item>escribir contactos</item>
+        <item>leer el registro de llamadas</item>
+        <item>escribir registro de llamadas</item>
+        <item>leer calendario</item>
+        <item>modificar el calendario</item>
+        <item>búsqueda de WLAN</item>
+        <item>notificación</item>
+        <item>búsqueda de red móvil</item>
+        <item>llamar a un teléfono</item>
+        <item>leer SMS</item>
+        <item>escribir SMS</item>
+        <item>recibir SMS</item>
+        <item>recibir SMS de emergencia</item>
+        <item>recibir MMS</item>
+        <item>recibir WAP Push</item>
+        <item>enviar SMS</item>
+        <item>leer SMS ICC</item>
+        <item>escribir SMS ICC</item>
+        <item>modificar la configuración</item>
+        <item>dibujar en parte superior</item>
+        <item>acceder a las notificaciones</item>
+        <item>cámara</item>
+        <item>grabar audio</item>
+        <item>reproducir audio</item>
+        <item>leer portapapeles</item>
+        <item>modificar portapapeles</item>
+        <item>botones multimedia</item>
+        <item>foco de audio</item>
+        <item>volumen principal</item>
+        <item>volumen de la voz</item>
+        <item>volumen del tono</item>
+        <item>volumen multimedia</item>
+        <item>volumen de la alarma</item>
+        <item>volumen de las notificaciones</item>
+        <item>volumen de Bluetooth</item>
+        <item>mantener activo</item>
+        <item>controlar ubicación</item>
+        <item>supervisar ubicación de alta potencia</item>
+        <item>obtener estadísticas de uso</item>
+        <item>silenciar/activar micrófono</item>
+        <item>duplicar ventana</item>
+        <item>proyectar multimedia</item>
+        <item>activar VPN</item>
+        <item>cambio de WLAN</item>
+        <item>cambio de Bluetooth</item>
+        <item>enviar MMS</item>
+        <item>leer MMS</item>
+        <item>escribir MMS</item>
+        <item>inicio automático</item>
+        <item>cambio de NFC</item>
+        <item>eliminar SMS</item>
+        <item>eliminar MMS</item>
+        <item>eliminar contactos</item>
+        <item>eliminar registro de llamadas</item>
+        <item>cambio de datos</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Ubicación</item>
+        <item>Ubicación</item>
+        <item>Ubicación</item>
+        <item>Vibrar</item>
+        <item>Consultar contactos</item>
+        <item>Escribir contactos</item>
+        <item>Leer el registro de llamadas</item>
+        <item>Escribir registro de llamadas</item>
+        <item>Leer calendario</item>
+        <item>Modificar el calendario</item>
+        <item>Ubicación</item>
+        <item>Publicar notificación</item>
+        <item>Ubicación</item>
+        <item>Llamar a un teléfono</item>
+        <item>Leer SMS</item>
+        <item>Escribir SMS</item>
+        <item>Recibir SMS</item>
+        <item>Recibir SMS</item>
+        <item>Recibir MMS</item>
+        <item>Recibir SMS</item>
+        <item>Enviar SMS</item>
+        <item>Leer SMS</item>
+        <item>Escribir SMS</item>
+        <item>Modificar la configuración</item>
+        <item>Dibujar en parte superior</item>
+        <item>Acceder a las notificaciones</item>
+        <item>Cámara</item>
+        <item>Grabar audio</item>
+        <item>Reproducir audio</item>
+        <item>Leer portapapeles</item>
+        <item>Modificar portapapeles</item>
+        <item>Botones multimedia</item>
+        <item>Foco de audio</item>
+        <item>Volumen principal</item>
+        <item>Volumen de la voz</item>
+        <item>Volumen del tono</item>
+        <item>Volumen multimedia</item>
+        <item>Volumen de alarma</item>
+        <item>Volumen de notificaciones</item>
+        <item>Volumen de Bluetooth</item>
+        <item>Mantener activo</item>
+        <item>Ubicación</item>
+        <item>Ubicación</item>
+        <item>Obtener estadísticas de uso</item>
+        <item>Silenciar/activar micrófono</item>
+        <item>Duplicar ventana</item>
+        <item>Proyectar multimedia</item>
+        <item>Activar VPN</item>
+        <item>Cambio de WLAN</item>
+        <item>Cambio de Bluetooth</item>
+        <item>Enviar MMS</item>
+        <item>Leer MMS</item>
+        <item>Escribir MMS</item>
+        <item>Inicio automático</item>
+        <item>Cambio de NFC</item>
+        <item>Eliminar SMS</item>
+        <item>Eliminar MMS</item>
+        <item>Eliminar contactos</item>
+        <item>Eliminar registro de llamadas</item>
+        <item>Cambio de datos</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

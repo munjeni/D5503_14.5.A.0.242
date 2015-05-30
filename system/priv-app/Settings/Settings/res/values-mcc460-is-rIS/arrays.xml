@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>gróflega áætluð staðsetning</item>
+        <item>nákvæm staðsetning</item>
+        <item>GPS</item>
+        <item>titringur</item>
+        <item>lesa tengiliði</item>
+        <item>breyta tengiliðum</item>
+        <item>lesa símtalaskrá</item>
+        <item>breyta símtalaskrá</item>
+        <item>lesa dagatal</item>
+        <item>breyta dagatali</item>
+        <item>wi-fi leit</item>
+        <item>tilkynning</item>
+        <item>leit að símasambandi</item>
+        <item>hringja í síma</item>
+        <item>lesa SMS</item>
+        <item>skrifa SMS</item>
+        <item>taka á móti SMS</item>
+        <item>fá neyðartextaskilaboð</item>
+        <item>taka á móti MMS</item>
+        <item>fá WAP-sendingar</item>
+        <item>senda SMS</item>
+        <item>lesa ICC SMS</item>
+        <item>skrifa ICC SMS</item>
+        <item>breyta stillingum</item>
+        <item>teikna yfir</item>
+        <item>aðgangstilkynningar</item>
+        <item>myndavél</item>
+        <item>taka upp hljóð</item>
+        <item>spila hljóð</item>
+        <item>lesa klippiborð</item>
+        <item>breyta klippiborði</item>
+        <item>margmiðlunarhnappar</item>
+        <item>fókus hljóðs</item>
+        <item>meginhljóðstyrkur</item>
+        <item>hljóðstyrkur raddar</item>
+        <item>hljóðstyrkur hringingar</item>
+        <item>hljóðstyrkur margmiðlunarefnis</item>
+        <item>hljóðstyrkur vekjara</item>
+        <item>hljóðstyrkur tilkynninga</item>
+        <item>hljóðstyrkur bluetooth</item>
+        <item>ekki fara í biðstöðu</item>
+        <item>fylgjast með staðsetningu</item>
+        <item>fylgjast með staðsetningum með miklum styrk</item>
+        <item>fá talnagögn um notkun</item>
+        <item>kveikja/slökkva á hljóðnema</item>
+        <item>margmiðlunarefni verkefnis</item>
+        <item>virkja VPN</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Staðsetning</item>
+        <item>Staðsetning</item>
+        <item>Staðsetning</item>
+        <item>Titringur</item>
+        <item>Lesa tengiliði</item>
+        <item>Breyta tengiliðum</item>
+        <item>Lesa símtalaskrá</item>
+        <item>Breyta símtalaskrá</item>
+        <item>Lesa dagatal</item>
+        <item>Breyta dagatali</item>
+        <item>Staðsetning</item>
+        <item>Færslutilkynning</item>
+        <item>Staðsetning</item>
+        <item>Hringja í síma</item>
+        <item>Lesa SMS/MMS</item>
+        <item>Skrifa SMS/MMS</item>
+        <item>Taka á móti SMS/MMS</item>
+        <item>Taka á móti SMS/MMS</item>
+        <item>Fá SMS/MMS</item>
+        <item>Taka á móti SMS/MMS</item>
+        <item>Senda SMS/MMS</item>
+        <item>Lesa SMS/MMS</item>
+        <item>Skrifa SMS/MMS</item>
+        <item>Breyta stillingum</item>
+        <item>Teikna yfir</item>
+        <item>Opna tilkynningar</item>
+        <item>Myndavél</item>
+        <item>Taka upp hljóð</item>
+        <item>Spila hljóð</item>
+        <item>Lesa klippiborð</item>
+        <item>Breyta klippiborði</item>
+        <item>Margmiðlunarhnappar</item>
+        <item>Fókus hljóðs</item>
+        <item>Meginhljóðstyrkur</item>
+        <item>Hljóðstyrkur raddar</item>
+        <item>Hljóðstyrkur hringingar</item>
+        <item>Hljóðstyrkur margmiðlunarefnis</item>
+        <item>Hljóðstyrkur vekjara</item>
+        <item>Hljóðstyrkur tilkynninga</item>
+        <item>Hljóðstyrkur Bluetooth</item>
+        <item>Ekki fara í biðstöðu</item>
+        <item>Staðsetning</item>
+        <item>Staðsetning</item>
+        <item>Fá talnagögn um notkun</item>
+        <item>Kveikja/slökkva á hljóðnema</item>
+        <item>Margmiðlunarefni verkefnis</item>
+        <item>Virkja VPN</item>
+    </string-array>
+</resources>

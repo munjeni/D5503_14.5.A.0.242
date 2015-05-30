@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d дзён</item>
+        <item quantity="one">%d дзень</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d гадзін</item>
+        <item quantity="one">%d гадзіна</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">Зараз у спісе %d прыкладанняў</item>
+        <item quantity="one">Зараз у спісе %1$d прыкладанне</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Зараз вы ў %1$d кроках, каб стаць распрацоўшчыкам</item>
+        <item quantity="one">Зараз вы ў %1$d кроку ад таго, каб стаць распрацоўшчыкам</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Пароль павінен утрымліваць хаця б %d літар(ы)</item>
+        <item quantity="one">Пароль павінен утрымліваць хаця б 1 літару</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Пароль павінен утрымліваць хаця б %d літар ніжняга рэгістра</item>
+        <item quantity="one">Пароль павінен утрымліваць хаця б 1 літару ніжняга рэгістра</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль павінен утрымліваць хаця б %d літар(ы) верхняга рэгістра</item>
+        <item quantity="one">Пароль павінен утрымліваць хаця б 1 літару верхняга рэгістра</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль павінен утрымліваць хаця б %d лічбы(аў)</item>
+        <item quantity="one">Пароль павінен утрымліваць хаця б 1 лічбу</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль павінен утрымліваць хаця б %d спецыяльныя сімвалы</item>
+        <item quantity="one">Пароль павінен утрымліваць хаця б 1 спецыяльны сімвал</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Пароль павінен утрымліваць хаця б %d нялітарныя знакі</item>
+        <item quantity="one">Пароль павінен утрымліваць хаця б 1 нялітарны знак</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Няправільны SIM PIN-код, засталося %d спроб.</item>
+        <item quantity="one">Няправільны PIN-код SIM, засталося %d спроб, перш чым вам будзе неабходна звязацца з пастаўшчыком паслуг, каб разблакаваць прыладу.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Дадаткі %d могуць чытаць паведамленні</item>
+        <item quantity="one">Дадатак %d можа чытаць паведамленні</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Прыкладанне %d забяспечвае ўмовы</item>
+        <item quantity="one">Прыкладанне %d забяспечвае ўмовы</item>
+    </plurals>
+    <plurals name="xssm_settings_blacklist_summary_txt">
+        <item quantity="other">%d прыкладанняў выбрана</item>
+        <item quantity="one">%d прыкладанне выбрана</item>
+    </plurals>
+    <plurals name="lock_after_timeout_minutes">
+        <item quantity="other">"%1$d хвілін(ы) "</item>
+        <item quantity="one">"%1$d хвіліна "</item>
+    </plurals>
+</resources>

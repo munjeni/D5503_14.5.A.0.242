@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>τοποθεσία κατά προσέγγιση</item>
+        <item>ακριβής τοποθεσία</item>
+        <item>GPS</item>
+        <item>δόνηση</item>
+        <item>ανάγνωση επαφών</item>
+        <item>σύνταξη επαφών</item>
+        <item>ανάγνωση αρχείου καταγραφής κλήσεων</item>
+        <item>σύνταξη αρχείου κλήσεων</item>
+        <item>ανάγνωση ημερολογίου</item>
+        <item>τροποποίηση ημερολογίου</item>
+        <item>Σάρωση WLAN</item>
+        <item>ειδοποίηση</item>
+        <item>σάρωση κυψέλης</item>
+        <item>κλήση τηλεφώνου</item>
+        <item>ανάγνωση SMS</item>
+        <item>σύνταξη SMS</item>
+        <item>λήψη SMS</item>
+        <item>λήψη SMS έκτακτης ανάγκης</item>
+        <item>λήψη MMS</item>
+        <item>λήψη μηνύματος push μέσω WAP</item>
+        <item>αποστολή SMS</item>
+        <item>ανάγνωση ICC SMS</item>
+        <item>σύνταξη ICC SMS</item>
+        <item>τροποποίηση ρυθμίσεων</item>
+        <item>μεταφορά στην κορυφή</item>
+        <item>πρόσβαση στις ειδοποιήσεις</item>
+        <item>κάμερα</item>
+        <item>εγγραφή ήχου</item>
+        <item>αναπαραγωγή ήχου</item>
+        <item>ανάγνωση περιεχόμενων προχείρου</item>
+        <item>τροποποίηση περιεχομένων προχείρου</item>
+        <item>κουμπιά μέσων</item>
+        <item>εστίαση ήχου</item>
+        <item>κύρια ένταση ήχου</item>
+        <item>έντασης ήχου φωνής</item>
+        <item>ένταση ήχου κλήσης</item>
+        <item>ένταση ήχου μέσων</item>
+        <item>ένταση ήχου ξυπνητηριού</item>
+        <item>ένταση ήχου ειδοποιήσεων</item>
+        <item>ένταση ήχου Bluetooth</item>
+        <item>διατήρηση λειτουργίας</item>
+        <item>παρακολούθηση τοποθεσίας</item>
+        <item>παρακολούθηση θέσης υψηλής ισχύος</item>
+        <item>λήψη στατιστικών στοιχείων χρήσης</item>
+        <item>σίγαση/κατάργηση σίγασης μικροφώνου</item>
+        <item>παράθυρο εισαγωγής</item>
+        <item>προβολή μέσου</item>
+        <item>ενεργοποίηση VPN</item>
+        <item>Αλλαγή WLAN</item>
+        <item>Αλλαγή Bluetooth</item>
+        <item>αποστολή MMS</item>
+        <item>ανάγνωση MMS</item>
+        <item>δημιουργία MMS</item>
+        <item>αυτόματη εκκίνηση</item>
+        <item>Αλλαγή NFC</item>
+        <item>διαγραφή SMS</item>
+        <item>διαγραφή MMS</item>
+        <item>διαγραφή επαφών</item>
+        <item>διαγραφή αρχείου κλήσεων</item>
+        <item>αλλαγή δεδομένων</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Τοποθεσία</item>
+        <item>Τοποθεσία</item>
+        <item>Τοποθεσία</item>
+        <item>Δόνηση</item>
+        <item>Ανάγνωση επαφών</item>
+        <item>Σύνταξη επαφών</item>
+        <item>Ανάγνωση αρχείου καταγραφής κλήσεων</item>
+        <item>Σύνταξη αρχείου κλήσεων</item>
+        <item>Ανάγνωση ημερολογίου</item>
+        <item>Τροποποίηση ημερολογίου</item>
+        <item>Τοποθεσία</item>
+        <item>Δημοσίευση ειδοποίησης</item>
+        <item>Τοποθεσία</item>
+        <item>Κλήση τηλεφώνου</item>
+        <item>Ανάγνωση SMS</item>
+        <item>Σύνταξη SMS</item>
+        <item>Λήψη SMS</item>
+        <item>Λήψη SMS</item>
+        <item>Λήψη MMS</item>
+        <item>Λήψη SMS</item>
+        <item>Αποστολή SMS</item>
+        <item>Ανάγνωση SMS</item>
+        <item>Σύνταξη SMS</item>
+        <item>Τροποποίηση ρυθμίσεων</item>
+        <item>Μεταφορά στην κορυφή</item>
+        <item>Πρόσβαση στις ειδοποιήσεις</item>
+        <item>Κάμερα</item>
+        <item>Ηχογράφηση</item>
+        <item>Αναπαραγωγή ήχου</item>
+        <item>Ανάγνωση περιεχομένων προχείρου</item>
+        <item>Τροποποίηση περιεχομένων προχείρου</item>
+        <item>Κουμπιά μέσων</item>
+        <item>Εστίαση ήχου</item>
+        <item>Κύρια ένταση ήχου</item>
+        <item>Έντασης ήχου φωνής</item>
+        <item>Ένταση ήχου κλήσης</item>
+        <item>Ένταση ήχου πολυμέσων</item>
+        <item>Ένταση ήχου ξυπνητηριού</item>
+        <item>Ένταση ήχου ειδοποιήσεων</item>
+        <item>Ένταση ήχου Bluetooth</item>
+        <item>Διατήρηση λειτουργίας</item>
+        <item>Τοποθεσία</item>
+        <item>Τοποθεσία</item>
+        <item>Λήψη στατιστικών στοιχείων χρήσης</item>
+        <item>Σίγαση/κατάργηση σίγασης μικροφώνου</item>
+        <item>Παράθυρο εισαγωγής</item>
+        <item>Προβολή μέσου</item>
+        <item>Ενεργοποίηση VPN</item>
+        <item>Αλλαγή WLAN</item>
+        <item>Αλλαγή Bluetooth</item>
+        <item>Αποστολή MMS</item>
+        <item>Ανάγνωση MMS</item>
+        <item>Δημιουργία MMS</item>
+        <item>Αυτόματη εκκίνηση</item>
+        <item>Αλλαγή NFC</item>
+        <item>Διαγραφή SMS</item>
+        <item>Διαγραφή MMS</item>
+        <item>Διαγραφή επαφών</item>
+        <item>Διαγραφή αρχείου κλήσεων</item>
+        <item>Αλλαγή δεδομένων</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

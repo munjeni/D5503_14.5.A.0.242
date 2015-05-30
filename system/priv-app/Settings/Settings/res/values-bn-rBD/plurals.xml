@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">একজন বিকাশকারী হওয়া থেকে আপনি এখন %1$d পদক্ষেপ দূরে রয়েছেন৷</item>
+        <item quantity="one">একজন বিকাশকারী হওয়া থেকে আপনি এখন %1$d পদক্ষেপ দূরে রয়েছেন৷</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">পাসওয়ার্ডে কমপক্ষে %d টি অক্ষর থাকা আবশ্যক৷</item>
+        <item quantity="one">পাসওয়ার্ডে কমপক্ষে ১টি অক্ষর থাকা আবশ্যক৷</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">পাসওয়ার্ডে কমপক্ষে %d টি অক্ষর থাকা আবশ্যক৷</item>
+        <item quantity="one">পাসওয়ার্ডে কমপক্ষে ১টি ছোটহাতের অক্ষর থাকা আবশ্যক৷</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">পাসওয়ার্ডে কমপক্ষে %dটি বড়হাতের অক্ষর থাকা আবশ্যক৷</item>
+        <item quantity="one">পাসওয়ার্ডে কমপক্ষে ১টি বড়হাতের অক্ষর থাকা আবশ্যক৷</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">পাসওয়ার্ডে %dটি নিউমেরিক সংখ্যা থাকা আবশ্যক৷</item>
+        <item quantity="one">পাসওয়ার্ডে কমপক্ষে ১টি নিউমেরিক সংখ্যা থাকা আবশ্যক৷</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">পাসওয়ার্ডে কমপক্ষে %dটি বিশেষ চিহ্ন থাকা আবশ্যক৷</item>
+        <item quantity="one">পাসওয়ার্ডে কমপক্ষে ১টি বিশেষ চিহ্ন থাকা আবশ্যক৷</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">পাসওয়ার্ডে কমপক্ষে %d টি বর্ণ নয় এমন অক্ষর থাকা আবশ্যক৷</item>
+        <item quantity="one">পাসওয়ার্ডে কমপক্ষে ১টি বর্ণ নয় এমন অক্ষর থাকা আবশ্যক৷</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM PIN কোডটি ভুল, আপনি আর %d বার চেষ্টা করতে পারবেন।</item>
+        <item quantity="one">SIM PIN কোডটি ভুল, আপনি আর %d বার চেষ্টা করতে পারবেন, কিন্তু তার আগে আপনাকে আপনার যন্ত্রটিকে তালামুক্ত করতে আপনার পরিষেবা প্রদানকারীর সাথে সম্পর্ক করতে হবে।</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d অ্যাপস ঘোষণা পড়তে পারে</item>
+        <item quantity="one">%d অ্যাপ ঘোষণা পড়তে পারে</item>
+    </plurals>
+</resources>

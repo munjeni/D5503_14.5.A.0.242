@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d күн</item>
+        <item quantity="one">%d күн</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d сағат</item>
+        <item quantity="one">%d сағат</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d ағымдағы тізімдегі бағдарламалар</item>
+        <item quantity="one">%1$d ағымдағы тізімдегі бағдарлама</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">"Сіз қазір дамытушы болудан  %1$dқадам қашықсыз."</item>
+        <item quantity="one">Сіз қазір дамытушы болудан %1$d қадам қашықсыз.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Кілтсөзде кем дегенде %d әріп болуы керек.</item>
+        <item quantity="one">Кілтсөзде кем дегенде 1 әріп болуы керек.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Кілтсөзде кем дегенде %d кішкене әріпті таңба болуы тиіс.</item>
+        <item quantity="one">Кілтсөзде кем дегенде кішкене әріпті 1 таңба болуы тиіс.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Кілтсөзде кем дегенде %d үлкен әріпті таңба болуы тиіс.</item>
+        <item quantity="one">Кілтсөзде кем дегенде 1 үлкен әріпті таңба болуы тиіс.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Кілтсөзде кем дегенде %d сандық таңба болуы тиіс.</item>
+        <item quantity="one">Кілтсөзде кем дегенде 1 сандық бірлік болуы керек.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Кілтсөзде кем дегенде %d ерекше таңба болуы тиіс.</item>
+        <item quantity="one">Кілтсөзде кем дегенде 1 ерекше таңба болуы тиіс.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Кілтсөзде кем дегенде %d әріп емес таңба болуы тиіс.</item>
+        <item quantity="one">Кілтсөзде кем дегенде 1 әріп емес таңба болуы тиіс.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Қате SIM PIN коды, сізде %d әрекет қалды.</item>
+        <item quantity="one">Қате SIM PIN коды, құрылғының құлпын ашу үшін қызмет көрсетушіге хабарласу алдында %d әрекет қалды.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d қолданбалары хабарландыруларды оқи алады</item>
+        <item quantity="one">%d қолданбасы хабарландыруларды оқи алады</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d қолданба шарттарды қамтамасыз етеді</item>
+        <item quantity="one">%d қолданбасы шарттарды қамтамасыз етеді</item>
+    </plurals>
+    <plurals name="not_time_left_format_hours">
+        <item quantity="other">%d сағат</item>
+        <item quantity="one">%d сағат</item>
+    </plurals>
+    <plurals name="not_time_left_format_minutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d минут</item>
+    </plurals>
+    <plurals name="xssm_settings_blacklist_summary_txt">
+        <item quantity="other">%d қолданба таңдалған</item>
+        <item quantity="one">%d қолданба таңдалған</item>
+    </plurals>
+    <plurals name="lock_after_timeout_minutes">
+        <item quantity="other">"%1$d минут "</item>
+        <item quantity="one">"%1$d минут "</item>
+    </plurals>
+</resources>

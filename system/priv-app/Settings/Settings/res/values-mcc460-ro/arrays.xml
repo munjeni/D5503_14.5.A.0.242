@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>locație imprecisă</item>
+        <item>locație exactă</item>
+        <item>GPS</item>
+        <item>vibrează</item>
+        <item>citește agenda</item>
+        <item>scriere persoane de contact</item>
+        <item>citește jurnalul de apeluri</item>
+        <item>scriere jurnalul de apeluri</item>
+        <item>citește calendarul</item>
+        <item>modifică calendarul</item>
+        <item>căutare WLAN</item>
+        <item>notificare</item>
+        <item>scanează semnal mobil</item>
+        <item>apelează un telefon</item>
+        <item>citește mesaje SMS</item>
+        <item>scrie mesaje SMS</item>
+        <item>primește mesaje SMS</item>
+        <item>primește mesaje SMS de urgență</item>
+        <item>primește mesaje MMS</item>
+        <item>primește mesaje WAP push</item>
+        <item>trimite mesaje SMS</item>
+        <item>citește mesaje ICC SMS</item>
+        <item>scrie mesaje ICC SMS</item>
+        <item>modifică setările</item>
+        <item>desenează deasupra</item>
+        <item>accesează notificări</item>
+        <item>cameră foto</item>
+        <item>înregistrează conținut audio</item>
+        <item>redă conținut audio</item>
+        <item>citește clipboardul</item>
+        <item>modifică clipboardul</item>
+        <item>butoane media</item>
+        <item>focalizare audio</item>
+        <item>volum principal</item>
+        <item>volum voce</item>
+        <item>volum sonerie</item>
+        <item>volum media</item>
+        <item>volum alarmă</item>
+        <item>volum notificări</item>
+        <item>volumul Bluetooth</item>
+        <item>mențineți activ</item>
+        <item>monitorizarea locației</item>
+        <item>monitorizarea localizării cu consum ridicat de energie</item>
+        <item>obțineți statistici de utilizare</item>
+        <item>activați/dezactivați microfonul</item>
+        <item>fereastră informativă</item>
+        <item>proiecţie conţinut media</item>
+        <item>activare VPN</item>
+        <item>schimbare WLAN</item>
+        <item>schimbare Bluetooth</item>
+        <item>trimitere MMS</item>
+        <item>citire MMS</item>
+        <item>scriere MMS</item>
+        <item>pornire automată</item>
+        <item>schimbare NFC</item>
+        <item>ştergere SMS</item>
+        <item>ştergere MMS</item>
+        <item>ştergere persoane de contact</item>
+        <item>ştergere jurnal de apeluri</item>
+        <item>schimbare date</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Locație</item>
+        <item>Locație</item>
+        <item>Locație</item>
+        <item>Vibrează</item>
+        <item>Citește agenda</item>
+        <item>Scriere persoane de contact</item>
+        <item>Citește jurnalul de apeluri</item>
+        <item>Scriere jurnalul de apeluri</item>
+        <item>Citește calendarul</item>
+        <item>Modifică calendarul</item>
+        <item>Locație</item>
+        <item>Postează o notificare</item>
+        <item>Locație</item>
+        <item>Apelează un telefon</item>
+        <item>Citire SMS</item>
+        <item>Scriere SMS</item>
+        <item>Primire SMS</item>
+        <item>Primire SMS</item>
+        <item>Primire MMS</item>
+        <item>Primire SMS</item>
+        <item>Trimitere SMS</item>
+        <item>Citire SMS</item>
+        <item>Scriere SMS</item>
+        <item>Modifică setările</item>
+        <item>Desenează deasupra</item>
+        <item>Accesează notificări</item>
+        <item>Cameră foto</item>
+        <item>Înregistrează conținut audio</item>
+        <item>Redă conținut audio</item>
+        <item>Citește clipboardul</item>
+        <item>Modifică clipboardul</item>
+        <item>Butoane media</item>
+        <item>Focalizare audio</item>
+        <item>Volum principal</item>
+        <item>Volum voce</item>
+        <item>Volum sonerie</item>
+        <item>Volum media</item>
+        <item>Volum alarmă</item>
+        <item>Volum notificări</item>
+        <item>Volum Bluetooth</item>
+        <item>Păstrare în activitate</item>
+        <item>Locație</item>
+        <item>Locație</item>
+        <item>Obțineți statistici de utilizare</item>
+        <item>Activați/dezactivați microfonul</item>
+        <item>fereastră informativă</item>
+        <item>Proiecţie conţinut media</item>
+        <item>Activare VPN</item>
+        <item>schimbare WLAN</item>
+        <item>schimbare Bluetooth</item>
+        <item>Trimitere MMS</item>
+        <item>Citire MMS</item>
+        <item>Scriere MMS</item>
+        <item>Pornire automată</item>
+        <item>schimbare NFC</item>
+        <item>Ştergere SMS</item>
+        <item>Ştergere MMS</item>
+        <item>Ştergere persoane de contact</item>
+        <item>Ştergere jurnal de apeluri</item>
+        <item>Schimbare date</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

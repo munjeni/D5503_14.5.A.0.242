@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>anslått posisjon</item>
+        <item>nøyaktig posisjon</item>
+        <item>GPS</item>
+        <item>vibrer</item>
+        <item>lesing av kontakter</item>
+        <item>skriv kontakter</item>
+        <item>Lese anropsloggen</item>
+        <item>skriv anropsliste</item>
+        <item>lesing av kalender</item>
+        <item>Endre kalenderen</item>
+        <item>WLAN-skann</item>
+        <item>varsel</item>
+        <item>mobiltelefonskann</item>
+        <item>ring til telefon</item>
+        <item>Les SMS</item>
+        <item>Skriv SMS</item>
+        <item>Motta SMS</item>
+        <item>Motta nød-SMS</item>
+        <item>Motta MMS</item>
+        <item>Motta WAP-push</item>
+        <item>Send SMS</item>
+        <item>Les ICC SMS</item>
+        <item>Skriv ICC SMS</item>
+        <item>Endre innstillingene</item>
+        <item>tegn øverst</item>
+        <item>varseltilgang</item>
+        <item>kamera</item>
+        <item>spill inn lyd</item>
+        <item>spill av lyd</item>
+        <item>lesing av utklippstavlen</item>
+        <item>endring av utklippstavlen</item>
+        <item>medieknapper</item>
+        <item>audiofokus</item>
+        <item>hovedvolum</item>
+        <item>stemmevolum</item>
+        <item>ringevolum</item>
+        <item>medievolum</item>
+        <item>alarmvolum</item>
+        <item>varselvolum</item>
+        <item>bluetooth-volum</item>
+        <item>hold aktiv</item>
+        <item>overvåk posisjon</item>
+        <item>overvåk plassering med høyt strømforbruk</item>
+        <item>få bruksstatistikk</item>
+        <item>slå mikrofonen av eller på</item>
+        <item>toast-vindu</item>
+        <item>projiser medier</item>
+        <item>aktiver VPN</item>
+        <item>endre WLAN</item>
+        <item>endre Bluetooth</item>
+        <item>send MMS</item>
+        <item>les MMS</item>
+        <item>skriv MMS</item>
+        <item>autostart</item>
+        <item>endre NFC</item>
+        <item>slett SMS</item>
+        <item>slett MMS</item>
+        <item>slett kontakter</item>
+        <item>slett anropsliste</item>
+        <item>endre data</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Sted</item>
+        <item>Sted</item>
+        <item>Sted</item>
+        <item>Vibrer</item>
+        <item>Lesing av kontakter</item>
+        <item>Skriv kontakter</item>
+        <item>Les anropsloggen</item>
+        <item>Skriv anropsliste</item>
+        <item>Lesing av kalender</item>
+        <item>Endre kalenderen</item>
+        <item>Sted</item>
+        <item>Send varsel</item>
+        <item>Sted</item>
+        <item>Ring til telefon</item>
+        <item>Skriv SMS</item>
+        <item>Skriv SMS</item>
+        <item>Motta SMS</item>
+        <item>Motta SMS</item>
+        <item>Motta SMS</item>
+        <item>Motta SMS</item>
+        <item>Send SMS</item>
+        <item>Les SMS</item>
+        <item>Skriv SMS</item>
+        <item>Endre innstillingene</item>
+        <item>Tegn øverst</item>
+        <item>Varseltilgang</item>
+        <item>Kamera</item>
+        <item>Spill inn lyd</item>
+        <item>Spill av lyd</item>
+        <item>Lesing av utklippstavlen</item>
+        <item>Endring av utklippstavlen</item>
+        <item>Medieknapper</item>
+        <item>Audiofokus</item>
+        <item>Hovedvolum</item>
+        <item>Stemmevolum</item>
+        <item>Ringevolum</item>
+        <item>Medievolum</item>
+        <item>Alarmvolum</item>
+        <item>Varselvolum</item>
+        <item>Bluetooth-volum</item>
+        <item>Hold aktiv</item>
+        <item>Posisjon</item>
+        <item>Sted</item>
+        <item>Få bruksstatistikk</item>
+        <item>Slå mikrofonen av eller på</item>
+        <item>Toast-vindu</item>
+        <item>Projiser medier</item>
+        <item>Aktiver VPN</item>
+        <item>endre WLAN</item>
+        <item>endre Bluetooth</item>
+        <item>Send MMS</item>
+        <item>Les MMS</item>
+        <item>Skriv MMS</item>
+        <item>Autostart</item>
+        <item>Endre NFC</item>
+        <item>Slett SMS</item>
+        <item>Slett MMS</item>
+        <item>Slett kontakter</item>
+        <item>Slett anropsliste</item>
+        <item>Endre data</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>lokasi kasar</item>
+        <item>lokasi lemes</item>
+        <item>GPS</item>
+        <item>geter</item>
+        <item>baca kontak</item>
+        <item>tulis kontak</item>
+        <item>baca log telepon</item>
+        <item>tulis log telepon</item>
+        <item>baca almenak</item>
+        <item>robah almenak</item>
+        <item>Seken WLAN</item>
+        <item>bewara</item>
+        <item>seken seluler</item>
+        <item>nelepon</item>
+        <item>tulis SMS</item>
+        <item>tulis SMS</item>
+        <item>nampa SMS</item>
+        <item>nampa SMS darurat</item>
+        <item>nampa MMS</item>
+        <item>nampa push WAP</item>
+        <item>kirim SMS</item>
+        <item>baca SMS ICC</item>
+        <item>tulis SMS ICC</item>
+        <item>robah setelan</item>
+        <item>gambar di luhur</item>
+        <item>bewara akses</item>
+        <item>kamera</item>
+        <item>rekam audio</item>
+        <item>puter audio</item>
+        <item>baca papan klip</item>
+        <item>robah papan klip</item>
+        <item>kenop media</item>
+        <item>Pokus audio</item>
+        <item>polumeu master</item>
+        <item>polumeu sora</item>
+        <item>polumeu ngirining</item>
+        <item>polumeu media</item>
+        <item>polumeu alarm</item>
+        <item>polumeu bewara</item>
+        <item>Polumeu Bluetooth</item>
+        <item>tetep ngalilir</item>
+        <item>lokasi mantau</item>
+        <item>mantau lokasi daya luhur</item>
+        <item>meunangkeun statistik pamakean</item>
+        <item>jempe/sadakeun mikropon</item>
+        <item>balikkeun jandela</item>
+        <item>media proyek</item>
+        <item>aktipkeun VPN</item>
+        <item>Robah WLAN</item>
+        <item>Robah Bluetooth</item>
+        <item>kirim MMS</item>
+        <item>baca MMS</item>
+        <item>Tulis MMS</item>
+        <item>mimitian otomatis</item>
+        <item>Robah NFC</item>
+        <item>pupus SMS</item>
+        <item>pupus MMS</item>
+        <item>pupus kontak</item>
+        <item>pupus log telepon</item>
+        <item>robah data</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Geter</item>
+        <item>Baca kontak</item>
+        <item>Tulis kontak</item>
+        <item>Baca log telepon</item>
+        <item>Tulis log telepon</item>
+        <item>Baca almenak</item>
+        <item>Robah almenak</item>
+        <item>Lokasi</item>
+        <item>Kirim bewara</item>
+        <item>Lokasi</item>
+        <item>Nelepon</item>
+        <item>Baca SMS</item>
+        <item>Tulis SMS</item>
+        <item>Tampa SMS</item>
+        <item>Tampa SMS</item>
+        <item>Tampa MMS</item>
+        <item>Tampa SMS</item>
+        <item>Kirim SMS</item>
+        <item>Baca SMS</item>
+        <item>Tulis SMS</item>
+        <item>Robah setelan</item>
+        <item>Gambar di luhur</item>
+        <item>Bewara akses</item>
+        <item>Kamera</item>
+        <item>Rekam audio</item>
+        <item>Puter audio</item>
+        <item>Baca papan klip</item>
+        <item>Robah papan klip</item>
+        <item>Kenop media</item>
+        <item>Pokus audio</item>
+        <item>Polumeu master</item>
+        <item>Polumeu Sora</item>
+        <item>Polumeu ngirining</item>
+        <item>Polumeu media</item>
+        <item>Polumeu alarm</item>
+        <item>Polumeu bewara</item>
+        <item>Polumeu Bluetooth</item>
+        <item>Tetep ngalilir</item>
+        <item>Lokasi</item>
+        <item>Lokasi</item>
+        <item>Meunangkeun statistik pamakean</item>
+        <item>Jempe/sadakeun mikropon</item>
+        <item>Puter jandela</item>
+        <item>Media proyek</item>
+        <item>Aktipkeun VPN</item>
+        <item>Robah WLAN</item>
+        <item>Robah Bluetooth</item>
+        <item>Kirim MMS</item>
+        <item>Baca MMS</item>
+        <item>Tulis MMS</item>
+        <item>Mimitian otomatis</item>
+        <item>Robah NFC</item>
+        <item>Pupus SMS</item>
+        <item>Pupus MMS</item>
+        <item>Pupus kontak</item>
+        <item>Pupus log telepon</item>
+        <item>Robah data</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

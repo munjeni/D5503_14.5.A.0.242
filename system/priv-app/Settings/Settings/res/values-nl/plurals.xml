@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="remaining_time_format_days">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="remaining_time_format_hours">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="stamina_xssm_add_applications_descr">
+        <item quantity="other">%d apps momenteel in lijst</item>
+        <item quantity="one">%1$d app momenteel in lijst</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">U moet nog %1$d stappen uitvoeren om ontwikkelaar te worden.</item>
+        <item quantity="one">U moet nog %1$d stap uitvoeren om ontwikkelaar te worden.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Wachtwoord moet ten minste %d letters bevatten</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 letter bevatten</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Wachtwoord moet ten minste %d kleine letters bevatten</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 kleine letter bevatten</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Wachtwoord moet ten minste %d hoofdletters bevatten</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 hoofdletter bevatten</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Wachtwoord moet ten minste %d cijfers bevatten</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 cijfer bevatten</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Wachtwoord moet ten minste %d speciale symbolen bevatten</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 speciaal symbool bevatten</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Wachtwoord moet ten minste %d niet-lettertekens bevatten</item>
+        <item quantity="one">Wachtwoord moet ten minste 1 niet-letterteken bevatten</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Onjuiste pincode voor simkaart. U heeft nog %d pogingen over.</item>
+        <item quantity="one">Onjuiste pincode voor SIM-kaart. U hebt nog %d poging over voordat u contact met uw provider moet opnemen om uw apparaat te ontgrendelen.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d apps kunnen meldingen lezen</item>
+        <item quantity="one">%d app kan meldingen lezen</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d apps leveren voorwaarden</item>
+        <item quantity="one">%d app levert voorwaarden</item>
+    </plurals>
+    <plurals name="not_time_left_format_hours">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="not_time_left_format_minutes">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+    <plurals name="xssm_settings_blacklist_summary_txt">
+        <item quantity="other">%d apps geselecteerd</item>
+        <item quantity="one">%d app geselecteerd</item>
+    </plurals>
+    <plurals name="lock_after_timeout_minutes">
+        <item quantity="other">"%1$d minuten "</item>
+        <item quantity="one">"%1$d minuut "</item>
+    </plurals>
+</resources>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="l_dialog_message_hint">"STAMINA рәвешенә керә:
+
+• Киңәйтелгән көтү рәвеше
+Экран сүнгәндә, вакытлыча WLAN һәм мобиль мәгълүматны сүндереп корылманы саклый. Күпчелек кушымталар эшләмәячәк.
+Экран сүнгәндә, телефон дөрес эшләячәк.
+Киңәйтелгән көтү рәвешендә кайбер кушымталар эшләп торганын теләсәгез, кушымталарны көтү рәвешендә эшләүче кушымталар исемлегенә өстәгез.
+
+• Киңәйтелгән куллану
+Җайланманы кулланганда, җиһаз җитештерүчәнлеге чикләнелеп, корылма саклана."</string>
+    <string name="powersaver_feature_wifi">WLAN сүнгән</string>
+    <string name="stamina_xssm_summary">мобиль мәгълүмат һәм WLAN четәре өзелә әгәр экран сүнгән</string>
+    <string name="usm_descr">"Ultra STAMINA рәвеше батарея хезмәтен шактый озынайтачак. Бу җайланманы озак вакыт кора алмасагыз кулланыла ала.
+
+Кайбер төп функцияләр — Телефон һәм Хәбәрләшү генә мөмкин булачак. Күбрәк белү өчен \"Күбрәк мәгълүмат\" ка басыгыз.
+
+Игътибар итегез, WLAN аша интернетка тоташма яки кәрәзле мәгълүматны тапшыру сүндереләчәк."</string>
+    <string name="wifi_tethering_warning_txt">Бөтен хәзерге WLAN гамәлләре, шулардан медиа күчереп җибәрү, телефонның программа тәэминатын яңарту, резервлау һәм торгызу өзеләчәк.</string>
+    <string name="install_wapi_certs">WLAN серт. урнаштыру</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN СЕРТИФИКАТЫ</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Мөмкин Passpoint челтәрләренә WLAN каб булганда үзе тоташу</string>
+    <string name="radio_controls_summary">"WLAN, Bluetooth, самолет режимын, мобиль челтәрләрне &amp; VPN'нарны идарә итү"</string>
+    <string name="wifi_assistant_intro_setup">"WLAN Assistant 
+күрсетү"</string>
+    <string name="wifi_assistant_card_message">WLAN Assistant белән мөмкин челтәрка автоматик тоташырга.</string>
+    <string name="wifi_assistant_title">WLAN булышчы</string>
+    <string name="wifi_assistant_title_message">%1$s сезне үзе иң кулай булган WLAN белән тоташтыра</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN кабызу</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN параметрлары</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN сайлау</string>
+    <string name="wifi_select_network">WLAN сайлагыз</string>
+    <string name="wifi_starting">WLAN кабына…</string>
+    <string name="wifi_stopping">WLAN сүнә…</string>
+    <string name="wifi_poor_network_detection_summary">Internet тоташмасы яхшы булмаса WLAN челтәрен кулланмаска</string>
+    <string name="wifi_scan_always_available_summary">Google урын хезмәтенә һәм башка кушымталарга WLAN сүнгән булса да челтәрне сканерларга рөхсәт итү</string>
+    <string name="wifi_automatically_manage_title">WLAN автоматик рәвештә идарә итәргә</string>
+    <string name="wifi_automatically_manage_summary">%1$s WLAN тоташу белән идарә итсен</string>
+    <string name="wifi_scan_notify_text_location_on">Урнашу төгәллеген яхшырту һәм башка максатлар өчен, Google һәм башка кушымталар, WLAN сүнгән булса да, тирә-як челтәрләрне сканерларга мөмкин. Моны тыю өчен: Өстәмә > Сканерлау һәрвакыт мөмкин.</string>
+    <string name="wifi_scan_notify_text_location_off">Кушымталар, WLAN сүнгән булса да, тирә-як челтәрләрне сканерларга мөмкин. Моны тыю өчен: Өстәмә > Сканерлау һәрвакыт мөмкин.</string>
+    <string name="wifi_setting_sleep_policy_title">"Йоклаганда WLAN 'ны кабызу"</string>
+    <string name="wifi_setting_on_during_sleep_title">Йокы вакытта WLAN</string>
+    <string name="wifi_suspend_optimizations">WLAN оптимизацияләү</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN кабынган булганда аккумулятор корылышын саклау</string>
+    <string name="wifi_limit_optimizations_summary">WLAN белән батареяны куллануны лимитлау</string>
+    <string name="wifi_access_points">WLAN челтәрләре</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">"Мөмкин челтәрләрне карау өчен WLAN 'ны кабызыгыз."</string>
+    <string name="wifi_empty_list_wifi_on">WLAN челтәрләр эзләнә…</string>
+    <string name="wifi_empty_list_user_restricted">WLAN челтәрен үзгәртергә рөхсәтегез юк</string>
+    <string name="wifi_required_info_text">Урнаштыруны тәмамлау өчен, планшет WLAN челтәренә тоташырга тиеш. Урнаштыру тәмамлагач, мобиль мәгълүмат һәм WLAN арасында күчә аласыз.</string>
+    <string name="wifi_wps_setup_title">WLAN Protected Setup</string>
+    <string name="wifi_wps_onstart_pbc">Роутерда WLAN Protected Setup төймәсенә басыгыз. Ул \"WPS\" дип аталана яки символ асрый:</string>
+    <string name="wifi_wps_onstart_pin">WLAN роутерда %1$s PIN кертегез. Урнаштыру якынча ике минут вакыт алачак.</string>
+    <string name="wifi_wps_connected">%s WLAN челтәренә тоташты</string>
+    <string name="wifi_scan_always_turnon_message">"Урнашу төгәллеген яхшырту һәм башка максатлар өчен, %1$s, WLAN сүнгән булса да, тирә-як челтәрләрне сканерларга тели. 
+
+Сканерларга теләгән кушымталарга рөхсәт бирергәме?"</string>
+    <string name="wifi_skipped_message">"КИСӘТҮ: Өстәмә хезмәт өчен тәэмин итүчедән акча алынырга мөмкин.
+
+Телефонны урнаштыру челтәр гамәлен арттырырга мөмкин."</string>
+    <string name="wifi_and_mobile_skipped_message">"ЯЗМА: WLAN'ны җибәрсегез, башлангы йөкләуләрны яки янартуларны куллану өчен телефоныгызның интернет булмаска мөмкин."</string>
+    <string name="wifi_connect_failed_message">Телефон WLAN челтәренә тоташа алмады.</string>
+    <string name="wifi_advanced_titlebar">Киңәйтелгән WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN ешлык диапазоны</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Портат. WLAN керү н</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN рөхсәт нокталар</string>
+    <string name="wifi_hotspot_checkbox_text_summary">WLAN челтәр тәэмин итүнәр өчен кузенекле тоташуны кулланыгыз</string>
+    <string name="wifi_tether_failed_subtext">Күчермәле WLAN керү ноктасы ялгыш</string>
+    <string name="wifi_tether_configure_ap_text">WLAN керү ноктасын урнаштыру</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN рөхсәт нокталар параметр</string>
+    <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK портатив WLAN hotspot</string>
+    <string name="wifi_tether_configure_subtext">"%1$s күчермәле WLAN керү ноктасы.
+Иминлеге: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC адрес</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN ярдәмчесен үзгәртергәме?</string>
+    <string name="location_mode_high_accuracy_description">Урнашуыгызыны билгеләү өчен GPS, WLAN һәм мобиль челтәрләрен кулланыгыз</string>
+    <string name="location_mode_battery_saving_description">Урнашуыгызыны билгеләү өчен WLAN һәм мобиль челтәрләрен кулланыгыз</string>
+    <string name="location_neighborhood_level">"Аноним урнашу мәгълүматын Google'га җибәрергә рөхсәт итү. Шулай ук ышанычлы кушымталарга, WLAN һәм мобиль челтәрләр мәгълүматын кулланып, сезнең якынча урнашуыгызны билгеләргә рөхсәт итү."</string>
+    <string name="location_neighborhood_level_wifi">Урнашуыгызны WLAN билгеләде</string>
+    <string name="wifi_verbose_logging">WLAN карамагында булунар тулы журнал кертергә</string>
+    <string name="wifi_aggressive_handover">Aggressive WLAN мобиль мәгълүматка агрессив күчерү</string>
+    <string name="wifi_allow_scan_with_traffic">WLAN Roam Scans хәр вакыт мөмкин булсын</string>
+    <string name="wifi_verbose_logging_summary">"WLAN керү дәрәжәсен зурайтарга, WLAN Picker'да SSID RSSI өчен күрсетрге"</string>
+    <string name="wifi_aggressive_handover_summary">Мөмкин булганда, мобильга мәгълүмат тоташтыру өчен WLAN күбрәк агрессив булачак, WLAN сигнал түдән булганда</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Интерфейста булган мәгълүмат трафикта торган WLAN Roam Scans мемкләу/тыю</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN кабынып торган вакыты</string>
+    <string name="bluetooth_on_time">WLAN кабынып торган вакыты</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN кабызылган</string>
+    <string name="usage_type_data_wifi_send">WLAN пакетлар җибәрелде</string>
+    <string name="usage_type_data_wifi_recv">WLAN пакетлар алынды</string>
+    <string name="battery_action_wifi">WLAN параметрлары</string>
+    <string name="battery_desc_wifi">WLAN кулланган электр энергия</string>
+    <string name="battery_sugg_wifi">WLAN мөмкин булмаса яки кулланылмаса, аны сүндерү</string>
+    <string name="gadget_toggle_wifi">WLAN параметры яңартыла</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Кушымта мәгълүматын, WLAN серсүзләрен һәм башка параметрларны Google серверларында резервлау</string>
+    <string name="backup_erase_dialog_message">WLAN серсүзләрен,бит билгеләрен, башка параметрларны, кушымта мәгълүматын һәм аларның күчермәләрен Google серверларына резервлаудан баш тартыргамы?</string>
+    <string name="wifi_setup_title">WLAN урнаштыру</string>
+    <string name="wifi_setup_title_editing_network">%s WLAN челтәренә тоташу</string>
+    <string name="wifi_setup_title_connecting_network">%s WLAN челтәренә тоташа...</string>
+    <string name="wifi_setup_title_connected_network">%s WLAN челтәренә тоташты</string>
+    <string name="wifi_setup_eap_not_supported">Урнаштыру вакытында EAP WLAN тоташманы конфигурацияләп булмый. Урнаштыру тәмамлагач, аны моннан эшләп була: Параметрлар > Чыбыксыз һәм челтәрләр.</string>
+    <string name="wifi_setup_description_connected">Урнаштыруны дәвам итү өчен <b>Киләсе</b>" төймәсенә кагылыгыз.
+
+Башка WLAN челтәренә тоташу өчен "<b>Артка</b> кагылыгыз.</string>
+    <string name="data_usage_menu_show_wifi">WLAN күрсәтү</string>
+    <string name="data_usage_menu_hide_wifi">WLAN яшерергә</string>
+    <string name="data_usage_disable_wifi_limit">WLAN мәгълүматның лимитын көйләү</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Фон мобиль мәгълүматын чикләсәгез, WLAN челтәренә тоташканчы, кайбер кушымталар һәм хезмәтләр эшләмәячәк.</string>
+    <string name="data_usage_restrict_background_multiuser">"Фон мобиль мәгълүматын чикләсәгез, WLAN челтәренә тоташканчы, кайбер кушымталар һәм хезмәтләр эшләмәячәк.
+
+Бу параметр телефонның барлык кулланучыларына да тәэсир итәчәк."</string>
+    <string name="data_usage_metered_body">Мобиль керү ноктасы буларак WLAN челтәрләр тамгалагыз. Фон кушымталары аны кулланудан тыеларга мөмкин. Бу челтәрләрне зур йөкләмәләр өчен куллану алдыннан, кушымталар искәртергә мөмкин.</string>
+    <string name="data_usage_metered_wifi">Улченгән WLAN челтәрләре</string>
+    <string name="data_usage_metered_wifi_disabled">Улченгәнчелтәрны сайлау өчен WLAN кабызыгыз.</string>
+    <string name="user_add_user_message_long">"Өстәмә кулланучылар ясап бу җайланманы башка кешеләр белән уртаклаша аласыз. Һәрбер кулланучының үз өлкәсе бар, аны кушымталарга, тышлыкка һәм башкаларга яраштырып була. Кулланучылар шулай ук барысына да тәэсир иткән планшетның WLAN көйләүләрен төзәтә ала.
+
+Яңа кулланучыны ясаганнан соң, һәр кеше үз урынын көйләргә тиеш.
+
+Һәр кулланучы башка кулланучылар өчен кушымталарны яңарта ала."</string>
+    <string name="restriction_wifi_config_title">WLAN һәм Мобиль</string>
+    <string name="restriction_wifi_config_summary">WLAN һәм Мобиль параметрларны үзгәртергә рөхсәт бирү</string>
+    <string name="setup_wifi_nfc_tag">WLAN NFC тәг урнаштыру</string>
+    <string name="ct_wifi_connected_text">Кытай Telecom WLAN тоташт-н</string>
+    <string name="cw_network_priority">Кытай Telecom WLAN кулай</string>
+    <string name="cw_network_priority_summary">Кытай Telecom WLAN челтәр лер тоташтырганда, башка WLAN челтәрләргә караганда кулай</string>
+    <string name="location_based_wifi">җирле WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN чыбыксыз элемтә тәмин ителгән урынга автоматик тоташтыру</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN авто тоташт.</string>
+    <string name="wifi_calling_mode_title">WLAN Шалтырату</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN Сертификатын үзгәртү</string>
+    <string name="wifi_p2p_settings">WLAN Direct™ параметрлар</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN СЕРТИФИКАТЫ белән сакланган</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK белән сакланган</string>
+    <string name="wifi_tether_explanation_dialog_text">"Җайланмагызны Мобиль Керү ноктасы итеп куллана аласыз. Башка җайланмалар (максимум 10) WLAN челтәре аша аңа тоташа алалар. Тоташкан җайланмалар Интернетка сезнең мобиль челтәре аша чыга алалар. Мобиль Керү ноктасы мобиль мәгълүматын куллана, шунлыктан өстәмә бәя салынырга мөмкин.
+
+Мобиль Керү ноктасы аккумуляторны тизрәк корыта. Җайланмана электр тәэминатына тоташтырыгыз."</string>
+    <string name="wifi_tether_settings_subtext">Чыбыксыз элемтә тәэмин ителгән күчмә WLAN ны урнаштыру һәм идарә итү</string>
+    <string name="wifi_tether_settings_text">Портлы WLAN элемтә парам</string>
+    <string name="wifi_wps_category_title">WLAN челтәрне урнаштыру</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA режимы җайланма параметрларын көйләп, энергияны саклый. Кыскартылган функционал белән эшлегән кушымталарны сайлый аласыз йокы режим булган вакытта. (Бу, күбесә кушымталар батареяны бетергән булганга, сезге батареяның энергияны сакларга булыша, йокы режимында да.)
+
+Сайланган кушымталар өчен функциялар өзелгән:
+- WLAN
+- Мобиль мәгълүмат
+- Таймер
+
+Барлык кушымталар өчен искертү уты бер төстә hәм бер ешлыкта янып сүнә.
+
+Җайланмагызны идарә иту вакытында STAMINA режимы өзелгән."</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINA режимы нәрсә ул?</u>"
+STAMINA режимы ул Sony`ның энергия саклау фуңкциясы. Экран сүнгәнде ул батареяның гомерен саклый.
+
+"<u>Мөһим куллану</u>"
+STAMINA режимы өзү өчен, экранда төймены кагыгыз.
+Экран сүнгәнде, батареяның гомерен саклау өчен, WLAN hәм мобиль мәгълүмат вакытка сүнә, hәм күп программалар актив булмас.
+Экран актив булганда, телефон нормаль эшли.
+
+"<u>Киңейтелгән куллану</u>"
+STAMINA эшләгәндә, кайбер кушымталар актив булырга телесәгез, бу кушымталарны КЕТҮ РЕЖИМДА АКТИВ исемлеккә кертегез.
+Кушымталар исемлеккә кермәсә, эшлемескә мөмкин.
+
+"<u>Искәртмә</u>"
+Программа дөрес эшлемесә, кушымтаны КЕТҮ РЕЖИМДА АКТИВ исемлеккә кертегез яки STAMINA режимны сүндәрегез."</string>
+    <string name="airplane_mode_info">Очу рәвешендә барлык челтәр тоташулары сүндерелә, шул исәптән шалтыратулар, SMS алышулар, Интернетка керү, WLAN һәм Bluetooth.</string>
+    <string name="cw_network_notification">CT WLAN искертуны эшл.</string>
+    <string name="dialog_message_hint">"STAMINA режимы үз эченә ала :
+
+• Киңәйтелгән standby
+Экран сүнгән вакытта, туендыруны WLAN эшлемесә саклый. Кушымталарның күбесе актив түгел .
+Экран кабазалган вакытта, телефоныгыз эйбәт эәләчәк.
+Киңәйтелгән standby кабызылган вакытта кайбер кушымталарны актив рәвештә калдырырга теләсәгез, APPS ACTIVE IN STANDBY исемлегенә өстәгез.
+
+• Киңәйтелгән куллану 
+Туендыруны саклый, җайланмагыз кабазылган вакытта.
+"</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Хәзергә WLAN челтәрны уртаклау өчен, \"WLAN мәгълүматны уртаклау\" опцияны параметрларда сайлагыз.</string>
+    <string name="nfc_wifi_share_checkbox">WLAN мәгълүматны уртаклау</string>
+    <string name="nfc_wifi_share_title_txt">WLAN мәгълүматын уртаклашу</string>
+    <string name="powersaver_feature_data_message">"WLAN'ны кабызганчы, Интернетны, электрон почтаны һәм башка, мәгълүматлы тоташма таләп иткән, кушымталарны кулланалмаячаксыз. Мобиль мәгълүматлы тоташуны сүндерегәме?"</string>
+    <string name="tethering_disabled_while_wifi_dialog_text_vzw">Модем рәвеше WLAN кабызылган булганда кулланыла алмый. Модем рәвеше сүндереләчәк.</string>
+    <string name="tethering_no_sim_warning_txt">Сезнең телефонның башка җайланмалар белән Мобиль WLAN КайнарНокта яки Интернет өчен USB бәйләнү телефонның дата тоташтыру уртаклашу өчен, SIM картаны урнаштырынгыз.</string>
+    <string name="wifi_disabled_while_tethering_dialog_text_vzw">WLAN модем рәвеше кабызылган булганда кулланыла алмый. WLAN сүндереләчәк.</string>
+    <string name="wifi_offload_checkbox_summary">Кушымталар ачканда, WLAN мөмкинлек турында эйтерге миңа</string>
+    <string name="wifi_offload_checkbox_title">WLAN pop-ups күрсетү</string>
+    <string name="wifi_offload_notify_available_networks">WLAN искертүләр</string>
+    <string name="wifi_offload_notify_available_networks_summary">WLAN челтәрлер мөмкин булганда искертмә ясарга миңа</string>
+    <string name="wifi_offload_option_title">Мөмкин WLAN челтәрләр</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN өзелде. Урнаштыру туктатылды.</string>
+    <string name="vzw_wifi_setup_wizard_desc">Сез WLAN`га тотыштырырга телегән челтәрны сайлагыз хәзер.</string>
+    <string name="vzw_wifi_setup_wizard_title">WLAN көйләү</string>
+</resources>

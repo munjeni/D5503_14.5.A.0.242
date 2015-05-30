@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.SwitchPreference android:title="@string/wifi_strings_autoip_txt" android:key="wifi_auto_ip" android:summary="@string/wifi_strings_autoip_description_txt" settings:after="suspend_optimizations" settings:valueOfSettingsSystem="wifi_autoip_support" />
+    <com.sonymobile.settings.preference.SwitchPreference android:title="@string/wifi_hs2_strings_hotspot2_title_txt" android:key="wifi_hs2_auto_connection" android:summary="@string/wifi_hs2_strings_hotspot2_summary_txt" settings:dependOnIsValidIntent="true" settings:after="suspend_optimizations">
+        <intent android:targetPackage="com.sonymobile.settings.wifi.hotspot2" android:targetClass="com.sonymobile.settings.wifi.hotspot2.RoamingInfoDialogActivity" />
+    </com.sonymobile.settings.preference.SwitchPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/wifi_hs2_strings_hotspot2_network_title_txt" android:key="wifi_hs2_account" android:summary="" settings:dependOnResource="@bool/config_showWifiHotspot2CredentialSetting" settings:dependOnIsValidIntent="true" settings:after="suspend_optimizations">
+        <intent android:targetPackage="com.sonymobile.settings.wifi.hotspot2" android:targetClass="com.sonymobile.settings.wifi.hotspot2.CredentialListActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="connectivity_engine" settings:dependOnIsValidIntent="true" settings:after="sleep_policy" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.connectivityengine" android:targetClass="com.sonymobile.connectivityengine.WqeSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

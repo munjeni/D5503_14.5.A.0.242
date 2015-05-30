@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.SwitchPreference android:title="@string/swiqi_strings_swiqi2_txt" android:key="swiqi2" android:summary="@string/swiqi_strings_swiqi_desc_txt" android:defaultValue="true" settings:dependOnSystemProperty="ro.service.swiqi2.supported" settings:dependOnIsOwnerOnly="true" settings:before="first" settings:valueOfSettingsSystem="com.sonymobile.swiqi2_mode" />
+    <com.sonymobile.settings.preference.SwitchPreference android:title="@string/swiqi_strings_swiqi3_txt" android:key="swiqi3" android:summary="@string/swiqi_strings_swiqi_desc_txt" android:defaultValue="true" settings:dependOnSystemProperty="ro.service.swiqi3.supported" settings:dependOnIsOwnerOnly="true" settings:before="first" settings:valueOfSystemProperty="persist.service.swiqi3.enable" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="image_enhancer" settings:dependOnIsValidIntent="true" settings:dependOnSystemProperty="ro.service.xrfm.supported" settings:before="first" settings:hasMetaData="true" settings:valueOfSystemProperty="persist.service.xrfm.mode">
+        <intent android:targetPackage="com.sonymobile.imageenhancer" android:targetClass="com.sonymobile.imageenhancer.ImageEnhancerSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnSystemProperty="ro.service.xrfm.supported" settings:targetKey="swiqi3" />
+    <com.sonymobile.settings.preference.SwitchPreference android:title="@string/glove_mode_checkbox_title" android:key="glove_mode" android:summary="@string/glove_mode_checkbox_summary" android:defaultValue="false" settings:dependOnResource="@android:bool/config_enable_glove_mode" settings:dependOnIsOwnerOnly="true" settings:before="brightness" settings:valueOfSystemProperty="persist.sys.touch.glove_mode" settings:valueOfSettingsSystem="com.sonymobile.touch.glove_mode" />
+    <com.sonymobile.settings.preference.SwitchPreference android:title="@string/easy_wakeup_mode_checkbox_title" android:key="easy_wakeup_mode" android:summary="@string/easy_wakeup_mode_checkbox_summary" android:defaultValue="false" settings:dependOnResource="@android:bool/config_enable_easy_wakeup_mode" settings:dependOnIsOwnerOnly="true" settings:after="font_size" settings:valueOfSystemProperty="persist.sys.touch.easywakeup" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="white_balance" settings:dependOnIsValidIntent="true" settings:dependOnIsOwnerOnly="true" settings:after="brightness" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.whitebalance" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.whitebalance.WhiteBalanceActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:targetKey="wallpaper" />
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="wifi_display">
+        <intent android:targetPackage="com.sonymobile.tvout.wifidisplay" android:targetClass="com.sonymobile.tvout.wifidisplay.WfdStarterActivity" />
+    </com.sonymobile.settings.preference.RemovePreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="intelligent_backlight" settings:dependOnIsValidIntent="true" settings:after="screen_timeout" settings:hasMetaData="true" settings:valueOfSettingsSystem="intelligent_backlight">
+        <intent android:targetPackage="com.sonymobile.intelligent.backlight" android:targetClass="com.sonymobile.intelligent.backlight.SmartBacklightGuidance" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="intelligent_rotation" settings:dependOnIsValidIntent="true" settings:before="screen_timeout" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.intelligent.rotation" android:targetClass="com.sonymobile.intelligent.rotation.RotationMainMenu" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="auto_rotate">
+        <intent android:targetPackage="com.sonymobile.intelligent.rotation" android:targetClass="com.sonymobile.intelligent.rotation.SmartScreenRotationMenu" />
+    </com.sonymobile.settings.preference.RemovePreference>
+</PreferenceScreen>

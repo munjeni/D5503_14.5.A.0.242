@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>aptuvena atrašanās vieta</item>
+        <item>precīza atrašanās vieta</item>
+        <item>GPS</item>
+        <item>vibrozvans</item>
+        <item>lasīt kontaktpersonas</item>
+        <item>rakstīt kontaktpersonu informāciju</item>
+        <item>nolasīt zvanu žurnālu</item>
+        <item>rakstīt zvanu žurnālā</item>
+        <item>lasīt kalendāru</item>
+        <item>modificēt kalendāru</item>
+        <item>WLAN meklēšana</item>
+        <item>paziņojums</item>
+        <item>mobilā tālruņa meklēšana</item>
+        <item>zvanīt uz tālruņa numuru</item>
+        <item>lasīt īsziņu</item>
+        <item>rakstīt īsziņu</item>
+        <item>saņemt īsziņu</item>
+        <item>saņemt ārkārtas īsziņu</item>
+        <item>saņemt multiziņu</item>
+        <item>saņemt WAP push ziņojumu</item>
+        <item>sūtīt īsziņu</item>
+        <item>lasīt ICC īsziņu</item>
+        <item>rakstīt ICC īsziņu</item>
+        <item>modificēt iestatījumus</item>
+        <item>zīmēt augšdaļā</item>
+        <item>piekļūt paziņojumiem</item>
+        <item>kamera</item>
+        <item>ierakstīt audio</item>
+        <item>atskaņot audio</item>
+        <item>lasīt starpliktuvi</item>
+        <item>modificēt starpliktuvi</item>
+        <item>multivides pogas</item>
+        <item>audio uzsvars</item>
+        <item>galvenais skaļums</item>
+        <item>balss skaļums</item>
+        <item>zvana skaļums</item>
+        <item>multivides skaļums</item>
+        <item>signāla skaļums</item>
+        <item>paziņojumu skaļums</item>
+        <item>Bluetooth apjoms</item>
+        <item>neļaut pāriet miega rež.</item>
+        <item>pārraudzīt atrašanās vietu</item>
+        <item>pārraudzīt lieljaudas atrašanās vietu</item>
+        <item>iegūt lietojuma statistiku</item>
+        <item>izslēgt/ieslēgt mikrofonu</item>
+        <item>paziņojuma logs</item>
+        <item>projicēt multivides saturu</item>
+        <item>aktivizēt VPN</item>
+        <item>WLAN maiņa</item>
+        <item>Bluetooth maiņa</item>
+        <item>sūtīt multiziņu</item>
+        <item>lasīt multiziņu</item>
+        <item>rakstīt multiziņu</item>
+        <item>automātiska startēšana</item>
+        <item>NFC maiņa</item>
+        <item>dzēst īsziņu</item>
+        <item>dzēst multiziņu</item>
+        <item>dzēst kontaktpersonas</item>
+        <item>dzēst zvanu žurnālu</item>
+        <item>datu maiņa</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Atrašanās vieta</item>
+        <item>Atrašanās vieta</item>
+        <item>Atrašanās vieta</item>
+        <item>Vibrozvans</item>
+        <item>Lasīt kontaktpersonas</item>
+        <item>Rakstīt kontaktpersonu informāciju</item>
+        <item>Nolasīt zvanu žurnālu</item>
+        <item>Rakstīt zvanu žurnālā</item>
+        <item>Lasīt kalendāru</item>
+        <item>Modificēt kalendāru</item>
+        <item>Atrašanās vieta</item>
+        <item>Publicēt paziņojumu</item>
+        <item>Atrašanās vieta</item>
+        <item>Zvanīt uz tālruņa numuru</item>
+        <item>Lasīt īsziņu</item>
+        <item>Rakstīt īsziņu</item>
+        <item>Saņemt īsziņu</item>
+        <item>Saņemt īsziņu</item>
+        <item>Saņemt multiziņu</item>
+        <item>Saņemt īsziņu</item>
+        <item>Sūtīt īsziņu</item>
+        <item>Lasīt īsziņu</item>
+        <item>Rakstīt īsziņu</item>
+        <item>Modificēt iestatījumus</item>
+        <item>Zīmēt augšdaļā</item>
+        <item>Piekļūt paziņojumiem</item>
+        <item>Kamera</item>
+        <item>Ierakstīt audio</item>
+        <item>Atskaņot audio</item>
+        <item>Lasīt starpliktuvi</item>
+        <item>Modificēt starpliktuvi</item>
+        <item>Multivides pogas</item>
+        <item>Audio uzsvars</item>
+        <item>Galvenais skaļums</item>
+        <item>Balss skaļums</item>
+        <item>Zvana skaļums</item>
+        <item>Multivides skaļums</item>
+        <item>Signāla skaļums</item>
+        <item>Paziņojumu skaļums</item>
+        <item>Bluetooth apjoms</item>
+        <item>Neļaut pāriet miega rež.</item>
+        <item>Atrašanās vieta</item>
+        <item>Atrašanās vieta</item>
+        <item>Iegūt lietojuma statistiku</item>
+        <item>Izslēgt/ieslēgt mikrofonu</item>
+        <item>Paziņojuma logs</item>
+        <item>Projicēt multivides saturu</item>
+        <item>Aktivizēt VPN</item>
+        <item>WLAN maiņa</item>
+        <item>Bluetooth maiņa</item>
+        <item>Sūtīt multiziņu</item>
+        <item>Lasīt multiziņu</item>
+        <item>Rakstīt multiziņu</item>
+        <item>Automātiskā startēšana</item>
+        <item>NFC maiņa</item>
+        <item>Dzēst īsziņu</item>
+        <item>Dzēst multiziņu</item>
+        <item>Dzēst kontaktpersonas</item>
+        <item>Dzēst zvanu žurnālu</item>
+        <item>Datu maiņa</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

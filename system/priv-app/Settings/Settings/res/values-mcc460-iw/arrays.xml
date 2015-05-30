@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>מיקום משוער</item>
+        <item>מיקום מדויק</item>
+        <item>GPS</item>
+        <item>רטט</item>
+        <item>קרא אנשי קשר</item>
+        <item>כתוב אנשי קשר</item>
+        <item>קרא יומן שיחות</item>
+        <item>כתוב יומן שיחות</item>
+        <item>קרא יומן</item>
+        <item>שנה יומן</item>
+        <item>‏סריקת WLAN</item>
+        <item>התראה</item>
+        <item>סריקה סלולרית</item>
+        <item>שיחת טלפון</item>
+        <item>‏קרא SMS</item>
+        <item>‏כתוב SMS</item>
+        <item>‏קבל SMS</item>
+        <item>‏קבל SMS חירום</item>
+        <item>‏קבל MMS</item>
+        <item>‏קבל WAP בדחיפה</item>
+        <item>‏שלח SMS</item>
+        <item>‏קרא ICC SMS</item>
+        <item>‏כתוב ICC SMS</item>
+        <item>שנה הגדרות</item>
+        <item>צייר מעל</item>
+        <item>גש אל ההתראות</item>
+        <item>מצלמה</item>
+        <item>הקלט אודיו</item>
+        <item>הפעל את האודיו</item>
+        <item>קרא לוח</item>
+        <item>שנה לוח</item>
+        <item>לחצני מדיה</item>
+        <item>מיקוד אודיו</item>
+        <item>שליטה ראשית בעוצמת קול</item>
+        <item>עוצמת קול של דיבור</item>
+        <item>עוצמת קול של צלצול</item>
+        <item>עוצמת קול של מדיה</item>
+        <item>עוצמת קול של התרעה</item>
+        <item>עוצמת קול של התראה</item>
+        <item>‏עוצמת קול של Bluetooth</item>
+        <item>שמור במצב פעיל</item>
+        <item>עקוב אחר מיקום</item>
+        <item>מעקב אחר מיקום עם צריכת סוללה גבוהה</item>
+        <item>קבל סטטיסטיקת שימוש</item>
+        <item>השתק/בטל השתקה של המיקרופון</item>
+        <item>חלון מוקפץ</item>
+        <item>הקרן מדיה</item>
+        <item>הפעל VPN</item>
+        <item>שינוי WLAN</item>
+        <item>שינוי Bluetooth</item>
+        <item>שלח MMS</item>
+        <item>קרא MMS</item>
+        <item>כתוב MMS</item>
+        <item>הפעלה אוטומטית</item>
+        <item>שינוי NFC</item>
+        <item>מחק SMS</item>
+        <item>מחק MMS</item>
+        <item>מחק אנשי קשר</item>
+        <item>מחק יומן שיחות</item>
+        <item>שינוי נתונים</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>מיקום</item>
+        <item>מיקום</item>
+        <item>מיקום</item>
+        <item>רטט</item>
+        <item>קרא אנשי קשר</item>
+        <item>כתוב אנשי קשר</item>
+        <item>קרא יומן שיחות</item>
+        <item>כתוב יומן שיחות</item>
+        <item>קרא יומן</item>
+        <item>שנה יומן</item>
+        <item>מיקום</item>
+        <item>פרסם התראה</item>
+        <item>מיקום</item>
+        <item>שיחת טלפון</item>
+        <item>‏קרא SMS</item>
+        <item>‏כתוב SMS</item>
+        <item>‏קבל SMS</item>
+        <item>‏קבל SMS</item>
+        <item>‏קבל SMS</item>
+        <item>‏קבל SMS</item>
+        <item>‏שלח SMS</item>
+        <item>‏קרא SMS</item>
+        <item>‏כתוב SMS</item>
+        <item>שנה הגדרות</item>
+        <item>צייר מעל</item>
+        <item>גש אל ההתראות</item>
+        <item>מצלמה</item>
+        <item>הקלט אודיו</item>
+        <item>הפעל את האודיו</item>
+        <item>קרא לוח</item>
+        <item>שנה לוח</item>
+        <item>לחצני מדיה</item>
+        <item>מיקוד אודיו</item>
+        <item>שליטה ראשית בעוצמת קול</item>
+        <item>עוצמת קול של דיבור</item>
+        <item>עוצמת קול של צלצול</item>
+        <item>עוצמת קול של מדיה</item>
+        <item>עוצמת קול של התראה</item>
+        <item>עוצמת קול של התראות</item>
+        <item>‏עוצמת קול של Bluetooth</item>
+        <item>שמור במצב פעיל</item>
+        <item>מיקום</item>
+        <item>מיקום</item>
+        <item>קבל סטטיסטיקת שימוש</item>
+        <item>השתק/בטל השתקה של המיקרופון</item>
+        <item>חלון מוקפץ</item>
+        <item>הקרן מדיה</item>
+        <item>הפעל VPN</item>
+        <item>שינוי WLAN</item>
+        <item>שינוי Bluetooth</item>
+        <item>שלח MMS</item>
+        <item>‏קרא MMS</item>
+        <item>כתוב MMS</item>
+        <item>הפעלה אוטומטית</item>
+        <item>שינוי NFC</item>
+        <item>מחק SMS</item>
+        <item>מחק MMS</item>
+        <item>מחק אנשי קשר</item>
+        <item>מחק יומן שיחות</item>
+        <item>שינוי נתונים</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>‏WLAN ASCII</item>
+        <item>‏WLAN hexadecimal</item>
+    </string-array>
+</resources>

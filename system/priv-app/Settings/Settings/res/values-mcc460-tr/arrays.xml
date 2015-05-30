@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>yaklaşık konum</item>
+        <item>hassas konum</item>
+        <item>GPS</item>
+        <item>titreşim</item>
+        <item>kişileri oku</item>
+        <item>kayıtları yaz</item>
+        <item>çağrı günlüğünü oku</item>
+        <item>çağrı günlüğünü yaz</item>
+        <item>takvimi oku</item>
+        <item>takvimi değiştir</item>
+        <item>WLAN tarama</item>
+        <item>bildirim</item>
+        <item>hücre tarama</item>
+        <item>telefon et</item>
+        <item>SMS oku</item>
+        <item>SMS yaz</item>
+        <item>SMS al</item>
+        <item>acil SMS al</item>
+        <item>MMS al</item>
+        <item>WAP push al</item>
+        <item>SMS gönder</item>
+        <item>ICC SMS oku</item>
+        <item>ICC SMS yaz</item>
+        <item>ayarları değiştir</item>
+        <item>üste çiz</item>
+        <item>bildirimlere eriş</item>
+        <item>kamera</item>
+        <item>ses kaydet</item>
+        <item>sesi çal</item>
+        <item>panoyu oku</item>
+        <item>panoyu değiştir</item>
+        <item>medya düğmeleri</item>
+        <item>ses odağı</item>
+        <item>ana ses düzeyi</item>
+        <item>konuşma sesi düzeyi</item>
+        <item>çalma sesi düzeyi</item>
+        <item>medya sesi düzeyi</item>
+        <item>alarm sesi düzeyi</item>
+        <item>bildirim sesi düzeyi</item>
+        <item>Bluetooth sesi düzeyi</item>
+        <item>uyanık tut</item>
+        <item>konumu izle</item>
+        <item>yüksek güç tüketen konum hizmetlerini izle</item>
+        <item>kullanım istatistiklerini al</item>
+        <item>mikrofonu kapat/aç</item>
+        <item>bildirim penceresi</item>
+        <item>medyayı yansıt</item>
+        <item>"VPN'yi etkinleştir"</item>
+        <item>WLAN değişimi</item>
+        <item>Bluetooth değişimi</item>
+        <item>MMS gönder</item>
+        <item>MMS oku</item>
+        <item>MMS yaz</item>
+        <item>otomatik başlatma</item>
+        <item>NFC değişimi</item>
+        <item>"SMS'i sil"</item>
+        <item>"MMS'i sil"</item>
+        <item>kayıtları sil</item>
+        <item>çağrı günlüğünü sil</item>
+        <item>veri değişimi</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Titreşim</item>
+        <item>Kişileri oku</item>
+        <item>Kayıtları yaz</item>
+        <item>Çağrı günlüğünü oku</item>
+        <item>Çağrı günlüğünü yaz</item>
+        <item>Takvimi oku</item>
+        <item>Takvimi değiştir</item>
+        <item>Konum</item>
+        <item>Bildirim yayınla</item>
+        <item>Konum</item>
+        <item>Telefon et</item>
+        <item>SMS oku</item>
+        <item>SMS yaz</item>
+        <item>SMS al</item>
+        <item>SMS al</item>
+        <item>MMS al</item>
+        <item>SMS al</item>
+        <item>SMS gönder</item>
+        <item>SMS oku</item>
+        <item>SMS yaz</item>
+        <item>Ayarları değiştir</item>
+        <item>Üste çiz</item>
+        <item>Bildirimlere eriş</item>
+        <item>Kamera</item>
+        <item>Ses kaydet</item>
+        <item>Sesi çal</item>
+        <item>Panoyu oku</item>
+        <item>Panoyu değiştir</item>
+        <item>Medya düğmeleri</item>
+        <item>Ses odağı</item>
+        <item>Ana ses düzeyi</item>
+        <item>Konuşma sesi düzeyi</item>
+        <item>Zil sesi düzeyi</item>
+        <item>Medya sesi düzeyi</item>
+        <item>Alarm sesi düzeyi</item>
+        <item>Bildirim sesi düzeyi</item>
+        <item>Bluetooth ses düzeyi</item>
+        <item>Uyanık tut</item>
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Kullanım istatistiklerini al</item>
+        <item>Mikrofonu kapat/aç</item>
+        <item>Bildirim penceresi</item>
+        <item>Medyayı yansıt</item>
+        <item>"VPN'yi etkinleştir"</item>
+        <item>WLAN değişimi</item>
+        <item>Bluetooth değişimi</item>
+        <item>MMS gönder</item>
+        <item>MMS oku</item>
+        <item>MMS yaz</item>
+        <item>Otomatik başlat</item>
+        <item>NFC değişimi</item>
+        <item>"SMS'i sil"</item>
+        <item>"MMS'i sil"</item>
+        <item>Kayıtları sil</item>
+        <item>Çağrı günlüğünü sil</item>
+        <item>Veri değişimi</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/extended_standby_mode_label"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <Preference android:persistent="false" android:title="@string/title_hint" android:key="hint" android:summary="@string/description_hint" />
+    <Preference android:persistent="false" android:title="@string/stamina_title_activation" android:key="activation" />
+    <SwitchPreference android:persistent="false" android:title="@string/stamina_xssm_title" android:key="xssm" android:summary="@string/stamina_xssm_summary" />
+    <Preference android:icon="@drawable/stamina_list_action_add_selector" android:persistent="false" android:title="@string/stamina_xssm_add_applications_title" android:key="xssm_applications" android:summary="@plurals/stamina_xssm_add_applications_descr" android:fragment="com.sonymobile.settings.stamina.xssm.WhitelistFragment" />
+    <SwitchPreference android:persistent="false" android:title="@string/restrict_hw_performance" android:key="runtime" android:summary="@string/restrict_hw_descr" />
+    <SwitchPreference android:persistent="false" android:title="@string/xssm_delay_suspend_title" android:key="xssm_delay_suspend" android:summary="@string/xssm_delay_suspend_summary" />
+</PreferenceScreen>

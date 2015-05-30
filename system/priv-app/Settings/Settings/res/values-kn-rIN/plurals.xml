@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">ಡೆವಲಪರ್ ಆಗುವುದರಿಂದ ನೀವು ಇದೀಗ %1$d ಹೆಜ್ಜೆಗಳು ದೂರದಲ್ಲಿರುವಿರಿ.</item>
+        <item quantity="one">ಡೆವಲಪರ್‌ ಆಗುವುದಕ್ಕಾಗಿ ಇದೀಗ ನೀವು ಕೇವಲ %1$d ಹೆಜ್ಜೆ ದೂರದಲ್ಲಿರುವಿರಿ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">ಪಾಸ್‌ವರ್ಡ್‌ ಕನಿಷ್ಠ %d ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರಬೇಕು.</item>
+        <item quantity="one">ಪಾಸ್‌ವರ್ಡ್‌ ಕನಿಷ್ಠ 1 ಅಕ್ಷರವನ್ನು ಹೊಂದಿರಬೇಕು.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">ಪಾಸ್‌ವರ್ಡ್‌ ಕನಿಷ್ಠ %d ಸಣ್ಣ ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರಬೇಕು.</item>
+        <item quantity="one">ಪಾಸ್‌ವರ್ಡ್‌ ಕನಿಷ್ಠ 1 ಸಣ್ಣ ಅಕ್ಷರವನ್ನು ಹೊಂದಿರಬೇಕು.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">ಪಾಸ್‌ವರ್ಡ್‌ ಕನಿಷ್ಠ %d ದೊಡ್ಡ ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರಬೇಕು.</item>
+        <item quantity="one">ಪಾಸ್‌ವರ್ಡ್‌ ಕನಿಷ್ಠ 1 ದೊಡ್ಡ ಅಕ್ಷರವನ್ನು ಹೊಂದಿರಬೇಕು.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">ಪಾಸ್‌ವರ್ಡ್‌ ಕನಿಷ್ಠ %d ಸಂಖ್ಯಾತ್ಮಕ ಅಂಕಿಗಳನ್ನು ಹೊಂದಿರಬೇಕು.</item>
+        <item quantity="one">ಪಾಸ್‌ವರ್ಡ್‌ ಕನಿಷ್ಠ 1 ಸಂಖ್ಯಾತ್ಮಕ ಅಂಕಿಯನ್ನು ಹೊಂದಿರಬೇಕು.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">ಪಾಸ್‌ವರ್ಡ್‌ ಕನಿಷ್ಠ %d ವಿಶೇಷ ಚಿಹ್ನೆಗಳನ್ನು ಹೊಂದಿರಬೇಕು.</item>
+        <item quantity="one">ಪಾಸ್‌ವರ್ಡ್‌ ಕನಿಷ್ಠ 1 ವಿಶೇಷ ಚಿಹ್ನೆಯನ್ನು ಹೊಂದಿರಬೇಕು.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">ಪಾಸ್‌ವರ್ಡ್‌ ಕನಿಷ್ಠ %d ಅಕ್ಷರವಲ್ಲದ ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರಬೇಕು.</item>
+        <item quantity="one">ಪಾಸ್‌ವರ್ಡ್‌ ಕನಿಷ್ಠ 1 ಅಕ್ಷರವಲ್ಲದ ಅಕ್ಷರವನ್ನು ಹೊಂದಿರಬೇಕು.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">ತಪ್ಪಾದ SIM PIN ಕೋಡ್, ನಿಮ್ಮಲ್ಲಿ %d ಬಾಕಿ ಉಳಿದಿರುವ ಪ್ರಯತ್ನಗಳಿವೆ.</item>
+        <item quantity="one">ತಪ್ಪಾದ SIM PIN ಕೋಡ್, ನಿಮ್ಮಲ್ಲಿ %d ಬಾಕಿ ಉಳಿದಿರುವ ಪ್ರಯತ್ನವಿದ್ದು ಈ ಮೊದಲು ನೀವು ನಿಮ್ಮ ಸಾಧನವನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ನಿಮ್ಮ ಸೇವೆ ಒದಗಿಸುವವರನ್ನು ಸಂಪರ್ಕಿಸಬೇಕು.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d ಆಪ್ ಗಳು ಸೂಚನೆಗಳನ್ನು ಓದಬಹುದು</item>
+        <item quantity="one">%d ಆಪ್ ಸೂಚನೆ ಓದಬಹುದು</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d ಅಪ್ಲಿಕೇಶನ್‌‌ಗಳ ಪೂರೈಕೆದಾರರ ಪರಿಸ್ಥಿತಿಗಳು</item>
+        <item quantity="one">%d ಅಪ್ಲಿಕೇಶನ್‌ ಪೂರೈಕೆದಾರರ ಪರಿಸ್ಥಿತಿಗಳು</item>
+    </plurals>
+</resources>

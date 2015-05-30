@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>оквирна локација</item>
+        <item>прецизна локација</item>
+        <item>GPS</item>
+        <item>вибрација</item>
+        <item>читање контаката</item>
+        <item>upisivanje kontakata</item>
+        <item>читање евиденције позива</item>
+        <item>upisivanje evidencija poziva</item>
+        <item>читање календара</item>
+        <item>мењање календара</item>
+        <item>WLAN skeniranje</item>
+        <item>обавештење</item>
+        <item>скенирање телефона</item>
+        <item>позивање телефона</item>
+        <item>читање SMS порука</item>
+        <item>писање SMS порука</item>
+        <item>prijem SMS poruka</item>
+        <item>пријем хитних SMS порука</item>
+        <item>пријем MMS порука</item>
+        <item>пријем push порука преко WAP-а</item>
+        <item>слање SMS порука</item>
+        <item>читање ICC SMS порука</item>
+        <item>писање ICC SMS порука</item>
+        <item>мењање подешавања</item>
+        <item>повлачење на врх</item>
+        <item>приступ обавештењима</item>
+        <item>камера</item>
+        <item>снимање аудио записа</item>
+        <item>пуштање аудио записа</item>
+        <item>читање меморије</item>
+        <item>мењање меморије</item>
+        <item>dugmad za medije</item>
+        <item>audio fokus</item>
+        <item>glavna jačina zvuka</item>
+        <item>jačina zvuka glasa</item>
+        <item>jačina zvuka zvona</item>
+        <item>jačina zvuka medija</item>
+        <item>jačina zvuka alarma</item>
+        <item>jačina zvuka obaveštenja</item>
+        <item>јачина звука Bluetooth-а</item>
+        <item>ostani budan</item>
+        <item>nadgledaj lokaciju</item>
+        <item>nadgledanje lokacije visoke snage</item>
+        <item>преузми статистику о коришћењу</item>
+        <item>искључи/укључи звук микрофона</item>
+        <item>tost-prozor</item>
+        <item>mediji projekta</item>
+        <item>aktiviranje VPN-a</item>
+        <item>WLAN promena</item>
+        <item>Bluetooth promena</item>
+        <item>slanje MMS</item>
+        <item>čitanje MMS</item>
+        <item>pisanje MMS</item>
+        <item>automatsko pokretanje</item>
+        <item>NFC promena</item>
+        <item>brisanje SMS</item>
+        <item>brisanje MMS</item>
+        <item>brisanje kontakata</item>
+        <item>brisanje evidencije poziva</item>
+        <item>promena podataka</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vibracija</item>
+        <item>Čitanje kontakata</item>
+        <item>Upisivanje kontakata</item>
+        <item>Čitanje evidencije poziva</item>
+        <item>Upisivanje evidencija poziva</item>
+        <item>"Čitanje kalendara "</item>
+        <item>"Menjanje kalendara "</item>
+        <item>Lokacija</item>
+        <item>Postavljanje obaveštenja</item>
+        <item>Lokacija</item>
+        <item>"Pozivanje telefona "</item>
+        <item>Čitaj SMS</item>
+        <item>Piši SMS</item>
+        <item>Primi SMS</item>
+        <item>Primi SMS</item>
+        <item>Primi MMS</item>
+        <item>Primi SMS</item>
+        <item>Pošalji SMS</item>
+        <item>Čitaj SMS</item>
+        <item>Piši SMS</item>
+        <item>Menjanje podešavanja</item>
+        <item>Povlačenje na vrh</item>
+        <item>Pristup obaveštenjima</item>
+        <item>"Kamera "</item>
+        <item>"Snimanje audio zapisa "</item>
+        <item>Puštanje audio zapisa</item>
+        <item>"Čitanje memorije "</item>
+        <item>"Menjanje memorije "</item>
+        <item>Dugmad medija</item>
+        <item>Audio fokus</item>
+        <item>Glavna jačina zvuka</item>
+        <item>Jačina zvuka glasa</item>
+        <item>Jačina zvuka zvona</item>
+        <item>Jačina zvuka medija</item>
+        <item>Jačina zvuka alarma</item>
+        <item>Jačina zvuka obaveštenja</item>
+        <item>Bluetooth – jačina zvuka</item>
+        <item>Ostani budan</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Преузми статистику о коришћењу</item>
+        <item>Искључи/укључи звук микрофона</item>
+        <item>Tost-prozor</item>
+        <item>Mediji projekta</item>
+        <item>Aktiviranje VPN-a</item>
+        <item>WLAN promena</item>
+        <item>Bluetooth promena</item>
+        <item>Slanje MMS</item>
+        <item>Čitanje MMS</item>
+        <item>Pisanje MMS</item>
+        <item>Automatsko pokretanje</item>
+        <item>NFC promena</item>
+        <item>Brisanje SMS</item>
+        <item>Brisanje MMS</item>
+        <item>Brisanje kontakata</item>
+        <item>Brisanje evidencije poziva</item>
+        <item>Promena podataka</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

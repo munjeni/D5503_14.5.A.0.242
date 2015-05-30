@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="l_dialog_message_hint">"STAMINA-режимот вклучува:
+
+• Продолжено мирување
+Ја штеди енергијата додека екранот е исклучен со привремено исклучување на WLAN и на мобилните податоци. Повеќето апликации ќе бидат неактивни.
+Телефонот ќе функционира нормално додека екранот е вклучен.
+Доколку сакате некои апликации да бидат активни додека продолженото мирување е вклучено, додајте ги во листата со апликации активни при мирување.
+
+• Продолжено користење
+Ја штеди енергијата додека екранот се користи со ограничена хардверска изведба."</string>
+    <string name="powersaver_feature_wifi">Исклучи WLAN</string>
+    <string name="stamina_xssm_summary">Ги исклучува мобилните податоци и WLAN кога екранот е исклучен</string>
+    <string name="usm_descr">"Ultra STAMINA-режимот значително ќе го продолжи рокот на траење на батеријата. Може да го користите кога не може да го наполните уредот подолго време.
+
+Достапни ќе бидат само неколку основни функции, како што се Телефон и Пораки. Допрете „повеќе информации “ за повеќе детали.
+
+Интернет-конекцијата преку WLAN и мобилните податоци ќе биде исклучена."</string>
+    <string name="wifi_tethering_warning_txt">Ќе се прекинат сите тековни WLAN операции како што се пренесување медиуми, ажурирање софтвер на телефонот, правење резервнa копија и обнова.</string>
+    <string name="install_wapi_certs">Инстал. сертификати WLAN</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Автоматски поврзи се на достапните мрежи на Passpoint кога WLAN е вклучен</string>
+    <string name="radio_controls_summary">Управување со WLAN, Bluetooth, авионски режим, мобилни мрежи и VPN</string>
+    <string name="wifi_assistant_intro_setup">"Зап. со
+WLAN Помош."</string>
+    <string name="wifi_assistant_card_message">Автоматски поврзете се со достапни мрежи со Помошник за WLAN.</string>
+    <string name="wifi_assistant_title">Помошник за WLAN</string>
+    <string name="wifi_assistant_title_message">%1$s автоматски ве поврзува со најдобрата достапна WLAN мрежа</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">Вклучи WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Поставки за WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">Одбери WLAN</string>
+    <string name="wifi_select_network">Избери WLAN</string>
+    <string name="wifi_starting">"Вклучување WLAN "</string>
+    <string name="wifi_stopping">"Исклучување WLAN "</string>
+    <string name="wifi_poor_network_detection_summary">Не користете WLAN мрежа освен ако има добра интернет конекција</string>
+    <string name="wifi_scan_always_available_summary">Дозволете услугата за локација на Google и други апликации да скенираат мрежи, дури и кога WLAN е исклучена</string>
+    <string name="wifi_automatically_manage_title">Автоматски управувајте со WLAN</string>
+    <string name="wifi_automatically_manage_summary">Дозволи му на %1$s да управува со WLAN конекцијата</string>
+    <string name="wifi_scan_notify_text_location_on">За да се подобри прецизноста на локацијата и за други намени, Google и другите апликации може да скенираат за мрежи во близина, дури и кога WLAN е исклучено. Доколку не сакате ова да се случи, одете на Напредно > Скенирањето е секогаш достапно.</string>
+    <string name="wifi_scan_notify_text_location_off">Апликациите може да скенираат за мрежи во близина, дури и кога WLAN е исклучено. Доколку не сакате ова да се случи, одете на Напредно > Скенирањето е секогаш достапно.</string>
+    <string name="wifi_setting_sleep_policy_title">Задржи го WLAN вклуч. при мирув.</string>
+    <string name="wifi_setting_on_during_sleep_title">Вклучена WLAN при мирување</string>
+    <string name="wifi_suspend_optimizations">Оптимизирање на WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Намали го користењето на батеријата кога е вклучен WLAN</string>
+    <string name="wifi_limit_optimizations_summary">Огр. бат. за корист. на WLAN</string>
+    <string name="wifi_access_points">WLAN мрежи</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_empty_list_wifi_off">За да ги видите достапните мрежи, вклучете WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Пребарување WLAN мрежи…</string>
+    <string name="wifi_empty_list_user_restricted">Немате дозвола да ја изменувате WLAN мрежата</string>
+    <string name="wifi_required_info_text">За да заврши поставувањето, таблетот треба да има пристап до WLAN. По поставувањето, може да се префрлате помеѓу мобилните податоци и WLAN.</string>
+    <string name="wifi_wps_setup_title">Поставување заштитено со WLAN</string>
+    <string name="wifi_wps_onstart_pbc">Притиснете го копчето Поставување заштитено со WLAN на рутерот. Може да е наречено WPS или да го содржи овој симбол:</string>
+    <string name="wifi_wps_onstart_pin">Внесете PIN %1$s на WLAN рутерот. Поставувањето може да потрае две минути за да се заврши.</string>
+    <string name="wifi_wps_connected">Поврзано со WLAN мрежа %s</string>
+    <string name="wifi_scan_always_turnon_message">"За да се подобри прецизноста на локацијата и за други намени, %1$s сака да го вклучи скенирањето за мрежи, дури и кога WLAN е исклучено.
+
+Дозволете го ова за сите апликации што сакаат да скенираат?"</string>
+    <string name="wifi_skipped_message">"ПРЕДУПРЕДУВАЊЕ: може да направите дополнителни трошоци за податоците на мрежниот оператор.
+
+Поставувањето на телефонот може да бара значителна мрежна активност."</string>
+    <string name="wifi_and_mobile_skipped_message">ЗАБЕЛЕШКА: доколку прескокнете WLAN, телефонот нема да биде поврзан на интернет за какви било првични преземања или ажурирања.</string>
+    <string name="wifi_connect_failed_message">Телефонот не може да се поврзе на WLAN мрежата.</string>
+    <string name="wifi_advanced_titlebar">Напредни WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN фреквенциски групи</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_tether_checkbox_text">Портабл WLAN „жешко“ место</string>
+    <string name="wifi_hotspot_checkbox_text">Жешко место за WLAN</string>
+    <string name="wifi_hotspot_checkbox_text_summary">Корист. моб. пов. за обез. мре. на WLAN</string>
+    <string name="wifi_tether_failed_subtext">Грешка на портабл WLAN „жешко“ место</string>
+    <string name="wifi_tether_configure_ap_text">Постави WLAN „жешко“ место</string>
+    <string name="wifi_hotspot_configure_ap_text">Постав. жешко место за WLAN</string>
+    <string name="wifi_hotspot_configure_ap_text_summary">Пре. ж.м. за WLAN на AndroidAP WPA2 PSK</string>
+    <string name="wifi_tether_configure_subtext">"%1$s портабл WLAN „жешко“ место.
+Безбедност: %2$s"</string>
+    <string name="status_wifi_mac_address">WLAN MAC адреса</string>
+    <string name="network_scorer_change_active_dialog_title">Да се промени помошникот за WLAN?</string>
+    <string name="location_mode_high_accuracy_description">Користете GPS, WLAN и мобилни мрежи за одредување на локацијата</string>
+    <string name="location_mode_battery_saving_description">Користете WLAN и мобилни мрежи за одредување на локацијата</string>
+    <string name="location_neighborhood_level">Овозможете анонимните податоци за локацијата да бидат испратени на Google. Исто така, овозможете дозволените апликации да користат податоци од извори како WLAN и мобилни мрежи за да се одреди вашата приближна локација.</string>
+    <string name="location_neighborhood_level_wifi">Локацијата е одредена од WLAN</string>
+    <string name="wifi_verbose_logging">Овозможи преопширно пријавување WLAN</string>
+    <string name="wifi_aggressive_handover">Агресивно предавање податоци од WLAN на мобилен</string>
+    <string name="wifi_allow_scan_with_traffic">Секогаш дозволувај WLAN скенирање во роаминг</string>
+    <string name="wifi_verbose_logging_summary">Зголеми WLAN ниво на пријавување, прикажи по SSID RSSI во WLAN бирач</string>
+    <string name="wifi_aggressive_handover_summary">Кога е вклучено, WLAN ќе биде поагресивно при предавање на поврзувањето со податоци на мобилната мрежа при слаб сигнал на WLAN.</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Дозволи/Забрани WLAN скенирање во роаминг според количината на постоечкиот податочен сообраќај на интерфејсот.</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN на време</string>
+    <string name="bluetooth_on_time">WLAN на време</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN работи</string>
+    <string name="usage_type_data_wifi_send">WLAN пакети се испратени</string>
+    <string name="usage_type_data_wifi_recv">WLAN пакети се примени</string>
+    <string name="battery_action_wifi">Поставки за WLAN</string>
+    <string name="battery_desc_wifi">Батерија користена од WLAN</string>
+    <string name="battery_sugg_wifi">Исклучете го WLAN кога не го користите или кога не е достапен</string>
+    <string name="gadget_toggle_wifi">Ажурирање на поставката на WLAN</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">Резервна копија на апликациските податоци, лозинките за WLAN и другите поставки на серверите на Google</string>
+    <string name="backup_erase_dialog_message">Да се прекине правењето резервни копии на лозинките за WLAN, обележувачите и другите поставки и апликациски податоци и да се избришат сите копии на серверите на Google?</string>
+    <string name="wifi_setup_title">Поставување на WLAN</string>
+    <string name="wifi_setup_title_editing_network">Поврзете се со WLAN мрежа %s</string>
+    <string name="wifi_setup_title_connecting_network">Поврзување со WLAN мрежа %s…</string>
+    <string name="wifi_setup_title_connected_network">Поврзано со WLAN мрежа %s</string>
+    <string name="wifi_setup_eap_not_supported">Не може да конфигурирате EAP WLAN конекција при поставувањето. По поставувањето, може да го направите тоа во Поставки > Безжично и мрежи.</string>
+    <string name="wifi_setup_description_connected">Допри <b>Следно</b>" за да продолжите со поставување.
+
+Допрете "<b>Назад</b> за да се поврзете со различна WLAN мрежа.</string>
+    <string name="data_usage_menu_show_wifi">Прикажи WLAN</string>
+    <string name="data_usage_menu_hide_wifi">Сокриј го WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Постави ограничување за WLAN податоци</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">Ако ограничите позадински мобилни податоци, некои апликации и услуги нема да работат освен ако сте поврзани со WLAN мрежа.</string>
+    <string name="data_usage_restrict_background_multiuser">"Доколку ги ограничите позадинските мобилни податоци, некои апликации и услуги нема да работат ако не сте поврзани на WLAN мрежа.
+
+
+
+Поставката се однесува на сите корисници на телефонот."</string>
+    <string name="data_usage_metered_body">Одберете ги WLAN мрежите кои се мобилни „жешки“ места. Апликациите може да бидат ограничени во користење на овие мрежи кога се во позадина. Апликациите може и да предупредат пред користење на овие мрежи за големи преземања.</string>
+    <string name="data_usage_metered_wifi">WLAN мрежи со ограничени податоци</string>
+    <string name="data_usage_metered_wifi_disabled">За да изберете мрежи со ограничен пренос на податоци, вклучете WLAN.</string>
+    <string name="user_add_user_message_long">"Може да го споделите уредот со другите луѓе со создавање дополнителни корисници. Секој корисник ќе има сопствен простор кој може да го прилагодува со сопствени апликации, заднини и така натаму. Корисниците може и да ги прилагодуваат поставките на уредот што се однесуваат на сите, како WLAN.
+
+Кога додавате нов корисник, тоа лице треба да го постави својот простор.
+
+Секој корисник може да ги ажурира апликациите за сите други корисници."</string>
+    <string name="restriction_wifi_config_title">WLAN и мобилна мрежа</string>
+    <string name="restriction_wifi_config_summary">Дозволи измени во поставките за WLAN и мобилна мрежа</string>
+    <string name="setup_wifi_nfc_tag">Поставете WLAN ознака за НФЦ</string>
+    <string name="ct_wifi_connected_text">WLAN од China Telecom е поврз.</string>
+    <string name="cw_network_priority">Приор. WLAN од China Telecom</string>
+    <string name="cw_network_priority_summary">WLAN мрежите од China Telecom ќе имаат приоритет над другите мрежи WLAN во поврзувањето</string>
+    <string name="data_traffic_disabled_text">Не може да се поврзе со WLAN мрежите од China Telecom бидејќи сообраќајот на податоци е исклучен. Да се вклучи сообраќајот на податоци веднаш?</string>
+    <string name="location_based_wifi">WLAN на локацијата</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Автоматско поврзување со „жешко“ место WLAN на AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Ав.повр. со WLAN - AT&amp;T</string>
+    <string name="wifi_calling_mode_title">Повикување преку WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Промени сертификат WLAN</string>
+    <string name="wifi_p2p_settings">Поставки за WLAN Direct™</string>
+    <string name="wifi_security_verbose_wapi_cert">Обезбедено со WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Обезбедено со WLAN PSK</string>
+    <string name="wifi_tether_explanation_dialog_text">"Својот уред може да го користите како мобилно „жешко“ место. Тоа им овозможува на другите уреди (најмногу 10) да се поврзат со него преку WLAN мрежа. Поврзаните уреди ќе имаат пристап до интернет преку вашата мобилна мрежна конекција. Мобилното „жешко“ место користи мобилни податоци и може да настанат дополнителни трошоци.
+
+Мобилното „жешко“ место троши повеќе енергија. Поврзете го уредот во штекер за да го продолжите траењето на батеријата."</string>
+    <string name="wifi_tether_settings_subtext">Постави и управувај со портабл WLAN „жешко“ место</string>
+    <string name="wifi_tether_settings_text">Пост. за прен. WLAN жешко место</string>
+    <string name="wifi_wps_category_title">Постави мрежа WLAN</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA-режимот ја штеди енергијата на батеријата со прилагодување на поставките на уредот. Може да одберете апликации што ќе работат со намалена функционалност за време на режимот на мирување. (Ова ќе ви помогне да заштедите енергија бидејќи повеќето апликации ја трошат батеријата и кога се во режим на мирување.)
+
+Исклучени функции за одбраните апликации:
+- WLAN
+- Мобилни податоци
+- Тајмер
+
+Светлото за известување свети во иста боја за сите апликации и со иста зачестеност за време на режимот на мирување.
+
+STAMINA-режимот се деактивира кога го контролирате уредот."</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Што е STAMINA-режим?</u>"
+STAMINA-режим е функција на Sony за штедење енергија. Го продолжува рокот на траење на батеријата додека екранот е исклучен.
+
+"<u>Основно користење</u>"
+За вклучување на STAMINA-режимот, допрете го копчето на екранот.
+Кога екранот ќе се исклучи, WLAN и мобилните податоци привремено ќе се исклучат, а повеќето апликации ќе бидат неактивни за да се заштеди батерија.
+Кога екранот ќе се вклучи, телефонот ќе работи нормално.
+
+"<u>Напредно користење</u>"
+Доколку сакате некои апликации да се активни додека STAMINA-режимот е вклучен, само додајте ги во листата АКТИВНИ АПЛИКАЦИИ ВО МИРУВАЊЕ.
+Некои апликации може да не работат правилно доколку не се додадени во листата.
+
+"<u>Забелешка</u>"
+Доколку некоја апликација не работи правилно, регистрирајте ја во листата АКТИВНИ АПЛИКАЦИИ ВО МИРУВАЊЕ или исклучете го STAMINA-режимот."</string>
+    <string name="airplane_mode_info">Авионскиот режим ги исклучува сите мрежни конекции вклучително и повикувањето, испраќањето текстуални пораки, интернет пристапот, WLAN и Bluetooth.</string>
+    <string name="cw_network_notification">Вклучи известув. за CT WLAN</string>
+    <string name="dialog_message_hint">"STAMINA-режимот вклучува:
+
+• Продолжено мирување
+Ја штеди енергијата кога екранот е исклучен со привремено исклучување на WLAN и на мобилните податоци. Повеќето апликации нема да се активни.
+Кога екранот е ВКЛУЧЕН, телефонот ќе функционира нормално.
+Доколку сакате некои апликации да се активни додека продолженото мирување е ВКЛУЧЕНО, додајте ги во листата АКТИВНИ АПЛИКАЦИИ ВО МИРУВАЊЕ.
+
+• Продолжено користење
+Ја штеди енергијата при користење на уредот со ограничување на изведбата на хардверот.
+"</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">За да ја споделите тековната WLAN мрежа, одберете ја опцијата „Сподели информации за WLAN“ во поставките.</string>
+    <string name="nfc_wifi_share_checkbox">Сподели информации за WLAN</string>
+    <string name="nfc_wifi_share_title_txt">Сподели информации за WLAN</string>
+    <string name="powersaver_feature_data_message">Доколку не користите WLAN, повеќе нема да може да користите интернет, е-пошта или други апликации што бараат конекција со податоци. Да се исклучи конекцијата со мобилни податоци?</string>
+    <string name="tethering_disabled_while_wifi_dialog_text_vzw">Поврзување на компјутер на интернет преку мобилен телефон не може да се користи додека е вклучено WLAN. Поврзување ќе биде исклучено.</string>
+    <string name="tethering_no_sim_warning_txt">Внесете SIM-картичка за споделување на податочната конекција на телефонот со другите уреди користејќи мобилни „жешки“ места WLAN или поврзување компјутер на интернет преку мобилен телефон со USB за пристап до интернет.</string>
+    <string name="wifi_disabled_while_tethering_dialog_text_vzw">Не може да се користи WLAN додека е вклучено поврзување на компјутер на интернет преку мобилен телефон. WLAN ќе биде исклучено.</string>
+    <string name="wifi_offload_checkbox_summary">Извести ме кога ќе има достапен WLAN при отворање на апликациите</string>
+    <string name="wifi_offload_checkbox_title">Со скокач. прозорци за WLAN</string>
+    <string name="wifi_offload_notify_available_networks">Известувања за WLAN</string>
+    <string name="wifi_offload_notify_available_networks_summary">Извести ме кога ќе има достапни WLAN мрежи</string>
+    <string name="wifi_offload_option_title">Достапни WLAN мрежи</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN се исклучи. Поставувањето е откажано.</string>
+    <string name="vzw_wifi_setup_wizard_desc">Одберете мрежа доколку сакате да се поврзете на WLAN сега.</string>
+    <string name="vzw_wifi_setup_wizard_title">Постави WLAN</string>
+</resources>

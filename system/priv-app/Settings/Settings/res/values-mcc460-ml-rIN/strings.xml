@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radio_controls_summary">വൈഫൈ, ബ്ലൂടൂത്ത്, ഫ്ലൈറ്റ് മോഡ്, സെല്ലുലാർ നെറ്റ്‌വർക്കുകൾ, VPN-കൾ എന്നിവ നിയന്ത്രിക്കുക</string>
+    <string name="wifi_assistant_intro_setup">"WLAN അസിസ്‌റ്റന്റ്
+അവതരിപ്പിക്കുന്നു"</string>
+    <string name="wifi_assistant_card_message">ഒരു WLAN അസിസ്‌റ്റന്റ് ഉപയോഗിച്ച് ലഭ്യമായ നെറ്റ്‌വർക്കുകളിൽ യാന്ത്രികമായി കണക്‌റ്റുചെയ്യുക.</string>
+    <string name="wifi_assistant_title">WLAN അസിസ്‌റ്റന്റ്</string>
+    <string name="wifi_assistant_title_message">ലഭ്യമായതിൽ മികച്ച WLAN ലേക്ക് നിങ്ങളെ %1$s യാന്ത്രികമായി കണക്‌റ്റുചെയ്യുന്നു</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">WLAN ഓണാക്കുക</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN ക്രമീകരണങ്ങൾ</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_setup_wizard_title">WLAN തിരഞ്ഞെടുക്കുക</string>
+    <string name="wifi_select_network">WLAN തിരഞ്ഞെടുക്കുക</string>
+    <string name="wifi_starting">WLAN ഓണാക്കുന്നു…</string>
+    <string name="wifi_stopping">WLAN ഓഫാക്കുന്നു…</string>
+    <string name="wifi_poor_network_detection_summary">മികച്ച ഇന്റർനെറ്റ് കണക്ഷൻ ഉണ്ടാകുന്നതുവരെ WLAN നെറ്റ്‌വർക്ക് ഉപയോഗിക്കരുത്</string>
+    <string name="wifi_scan_always_available_summary">WLAN ഓഫാണെങ്കിൽപ്പോലും, Google ലൊക്കേഷൻ സേവനത്തെയും മറ്റ് അപ്ലിക്കേഷനുകളെയും നെറ്റ്‌വർക്കുകൾ സ്‌കാൻ ചെയ്യാൻ അനുവദിക്കുക</string>
+    <string name="wifi_automatically_manage_title">WLAN യാന്ത്രികമായി നിയന്ത്രിക്കുക</string>
+    <string name="wifi_automatically_manage_summary">നിങ്ങളുടെ WLAN കണക്ഷൻ നിയന്ത്രിക്കാൻ %1$s എന്നതിനെ അനുവദിക്കുക</string>
+    <string name="wifi_scan_notify_text_location_on">ലൊക്കേഷൻ കൃത്യത മെച്ചപ്പെടുത്തുന്നതിനും മറ്റ് ആവശ്യകതകൾക്കായും, WLAN ഓഫായിരിക്കുമ്പോൾപ്പോലും Google-ഉം മറ്റ് അപ്ലിക്കേഷനുകളും സമീപത്തുള്ള നെറ്റ്‌വർക്കുകൾ സ്‌കാൻ ചെയ്യാനിടയുണ്ട്. ഇത് സംഭവിക്കാൻ താൽപ്പര്യപ്പെടുന്നില്ലെങ്കിൽ, വിപുലമായത് > സ്‌കാൻ ചെയ്യൽ എല്ലായ്‌പ്പോഴും ലഭ്യമാണ് എന്നതിലേക്ക് പോകുക.</string>
+    <string name="wifi_scan_notify_text_location_off">WLAN ഓഫായിരിക്കുമ്പോൾപ്പോലും സമീപമുള്ള നെറ്റ്‌വർക്കുകൾക്കായി അപ്ലിക്കേഷനുകൾ സ്‌കാൻ ചെയ്യാനിടയുണ്ട്. ഇത് സംഭവിക്കാൻ താൽപ്പര്യപ്പെടുന്നില്ലെങ്കിൽ, വിപുലമായത് > സ്‌കാൻ ചെയ്യൽ എല്ലായ്‌പ്പോഴും ലഭ്യമാണ് എന്നതിലേക്ക് പോകുക.</string>
+    <string name="wifi_setting_sleep_policy_title">സുഷുപ്‌തിയിലായിരിക്കുമ്പോഴും WLAN സജീവമായി നിർത്തുക</string>
+    <string name="wifi_setting_on_during_sleep_title">സുഷുപ്‌തിയിലാകുമ്പോഴും WLAN സജീവമാണ്</string>
+    <string name="wifi_suspend_optimizations">WLAN ഒപ്റ്റിമൈസുചെയ്യൽ</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN ഓണായിരിക്കുമ്പോൾ ബാറ്ററി ഉപഭോഗം കുറയ്‌ക്കുക</string>
+    <string name="wifi_limit_optimizations_summary">WLAN യുടെ ബാറ്ററി ഉപഭോഗം പരിമിതമാണ്</string>
+    <string name="wifi_access_points">WLAN നെറ്റ്‌വർക്കുകൾ</string>
+    <string name="wifi_menu_p2p">WLAN ഡയറക്‌ട്</string>
+    <string name="wifi_empty_list_wifi_off">ലഭ്യമായ നെറ്റ്‌വർക്കുകൾ കാണാൻ WLAN ഓണാക്കുക.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN നെറ്റ്‌വർക്കുകൾക്കായി തിരയുന്നു…</string>
+    <string name="wifi_empty_list_user_restricted">WLAN നെറ്റ്‌വർക്ക് മാറ്റുന്നതിന് നിങ്ങൾക്ക് അനുമതിയില്ല.</string>
+    <string name="wifi_required_info_text">സജ്ജീകരണം പൂർത്തിയാക്കാൻ, നിങ്ങളുടെ ടാബ്‌ലെറ്റിന് WLAN യിലേക്ക് ആക്‌സസ്സ് ആവശ്യമാണ്. സജ്ജീകരണത്തിനുശേഷം നിങ്ങൾക്ക് സെല്ലുലാർ ഡാറ്റയ്‌ക്കും WLAN യ്‌ക്കുമിടയിൽ മാറാനാകും.</string>
+    <string name="wifi_wps_setup_title">WLAN പരിരക്ഷിത സജ്ജീകരണം</string>
+    <string name="wifi_wps_onstart_pbc">നിങ്ങളുടെ റൂട്ടറിലെ WLAN പരിരക്ഷിത സജ്ജീകരണ ബട്ടൺ അമർത്തുക. ഇത് \"WPS\" കോൾ ചെയ്യാനോ ഈ ചിഹ്നം ഉൾപ്പെടാനോ ഇടയുണ്ട്:</string>
+    <string name="wifi_wps_onstart_pin">നിങ്ങളുടെ WLAN റൂട്ടറിൽ പിൻ %1$s നൽകുക. ഈ സജ്ജീകരണം പൂർത്തിയാക്കാൻ രണ്ട് മിനിറ്റ് വരെയെടുക്കാം.</string>
+    <string name="wifi_wps_connected">WLAN നെറ്റ്‌വർക്കിൽ %s കണക്റ്റുചെയ്യുന്നു</string>
+    <string name="wifi_scan_always_turnon_message">"ലൊക്കേഷൻ കൃത്യത മെച്ചപ്പെടുത്തുന്നതിനും മറ്റ് ആവശ്യകതകൾക്കായും, WLAN ഓഫായിരിക്കുമ്പോൾപ്പോലും നെറ്റ്‌വർക്ക് സ്‌കാൻ ചെയ്യാൻ %1$s താൽപ്പര്യപ്പെടുന്നു.
+
+സ്‌കാൻ ചെയ്യാൻ താൽപ്പര്യപ്പെടുന്ന എല്ലാ അപ്ലിക്കേഷനുകൾക്കായും ഇത് അനുവദിക്കണോ?"</string>
+    <string name="wifi_skipped_message">മുന്നറിയിപ്പ്: WLAN ഒഴിവാക്കുകയാണെങ്കിൽ, നിങ്ങളുടെ ഫോൺ പ്രാരംഭ ഡൗൺലോഡുകൾക്കും അപ്‌ഡേറ്റുകൾക്കും സെല്ലുലാർ ഡാറ്റ മാത്രം ഉപയോഗിക്കും. സാധ്യമായ ഡാറ്റ നിരക്കുകൾ ഒഴിവാക്കുന്നതിന് WLAN-മായി കണക്‌റ്റുചെയ്യുക.</string>
+    <string name="wifi_and_mobile_skipped_message">മുന്നറിയിപ്പ്: WLAN ഒഴിവാക്കിയാൽ, ഫോണിന്റെ ഏതെങ്കിലും പ്രാരംഭ ഡൗൺലോഡുകൾക്കോ അപ്‌ഡേറ്റുകൾക്കോ വേണ്ടി ഉപയോഗിക്കുന്നതിനായി ഇന്റർനെറ്റ്‌ കണക്ഷൻ ഉണ്ടായിരിക്കില്ല.</string>
+    <string name="wifi_connect_failed_message">ഫോൺ ഈ WLAN നെറ്റ്‌വർക്കിൽ കണക്റ്റുചെയ്യാനായില്ല.</string>
+    <string name="wifi_advanced_titlebar">വിപുലമായ WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN ആവൃത്തി ബാൻഡ്</string>
+    <string name="wifi_p2p_settings_title">WLAN ഡയറക്‌ട്</string>
+    <string name="wifi_tether_checkbox_text">പോർട്ടബിൾ WLAN ഹോട്ട്‌സ്പോട്ട്</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN ഹോട്ട്‌സ്‌പോട്ട്</string>
+    <string name="wifi_hotspot_checkbox_text_summary">WLAN നെറ്റ്‌വർക്ക് നൽകുന്നതിന് സെല്ലുലാർ കണക്ഷൻ ഉപയോഗിക്കുക</string>
+    <string name="wifi_tether_failed_subtext">പോർട്ടബിൾ WLAN ഹോട്ട്‌സ്പോട്ട് പിശക്</string>
+    <string name="wifi_tether_configure_ap_text">WLAN ഹോട്ട്‌സ്പോട്ട് സജ്ജീകരിക്കുക</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN ഹോട്ട്‌സ്‌പോട്ട് സജ്ജീകരണം</string>
+    <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK പോർട്ടബിൾ WLAN ഹോട്ട്‌സ്‌പോട്ട്</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s പോർട്ടബിൾ WLAN ഹോട്ട്‌സ്പോട്ട്</string>
+    <string name="status_wifi_mac_address">WLAN MAC വിലാസം</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN അസിസ്‌റ്റന്റ് മാറ്റണോ?</string>
+    <string name="location_mode_high_accuracy_description">ലൊക്കേഷൻ നിർണ്ണയിക്കാൻ GPS, WLAN, സെല്ലുലാർ നെറ്റ്‌വർക്കുകൾ ഉപയോഗിക്കുക</string>
+    <string name="location_mode_battery_saving_description">ലൊക്കേഷൻ നിർണ്ണയിക്കാൻ WLAN, സെല്ലുലാർ നെറ്റ്‌വർക്കുകൾ ഉപയോഗിക്കുക</string>
+    <string name="location_network_based">WLAN, സെല്ലുലാർ നെറ്റ്‌വർക്ക് ലൊക്കേഷൻ</string>
+    <string name="location_neighborhood_level">നിങ്ങളുടെ ലൊക്കേഷൻ വേഗത്തിൽ നിർണ്ണയിക്കാൻ Google-ന്റെ ലൊക്കേഷൻ സേവനം ഉപയോഗിക്കാൻ അപ്ലിക്കേഷനുകളെ അനുവദിക്കുക. അജ്ഞാത ലൊക്കേഷൻ ഡാറ്റ ശേഖരിച്ച് Google-ന് അയയ്‌ക്കും.</string>
+    <string name="location_neighborhood_level_wifi">WLAN നിർണ്ണയിച്ച ലൊക്കേഷൻ</string>
+    <string name="wifi_verbose_logging">WLAN വെർബോസ് ലോഗിംഗ് പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="wifi_aggressive_handover">സെല്ലുലാർ ഹാൻഡ്ഓവറിലേക്ക് വൈഫൈ അഗ്രസ്സീവാക്കുക</string>
+    <string name="wifi_verbose_logging_summary">WLAN പിക്കറിൽ ഓരോ SSID RSSI പ്രകാരം കാണിക്കാൻ WLAN ലോഗിംഗ് നില വർദ്ധിപ്പിക്കുക</string>
+    <string name="wifi_allow_scan_with_traffic_summary">ഇന്റർഫേസിലെ ഡാറ്റ ട്രാഫിക്ക് സാന്നിദ്ധ്യത്തിന്റെ കണക്ക് അടിസ്ഥാനമാക്കി WLAN റോം സ്‌കാനുകൾ അനുവദിക്കുക/അനുവദിക്കാതിരിക്കുക</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="wifi_on_time">WLAN ഓൺ ടൈം</string>
+    <string name="bluetooth_on_time">WLAN ഓൺ ടൈം</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="usage_type_wifi_running">WLAN പ്രവർത്തിക്കുന്നു</string>
+    <string name="usage_type_data_wifi_send">അയച്ച WLAN പാക്കറ്റുകൾ</string>
+    <string name="usage_type_data_wifi_recv">ലഭിച്ച WLAN പാക്കറ്റുകൾ</string>
+    <string name="battery_action_wifi">WLAN ക്രമീകരണങ്ങൾ</string>
+    <string name="battery_desc_wifi">WLAN-യുടെ ബാറ്ററി ഉപഭോഗം</string>
+    <string name="battery_sugg_wifi">WLAN ഉപയോഗിക്കാതിരിക്കുമ്പോഴോ ലഭ്യമല്ലെങ്കിലോ അത് ഓഫാക്കുക</string>
+    <string name="gadget_toggle_wifi">WLAN ക്രമീകരണം അപ്‌ഡേറ്റുചെയ്യുന്നു</string>
+    <string name="gadget_wifi">WLAN</string>
+    <string name="backup_data_summary">അപ്ലിക്കേഷൻ ഡാറ്റ, WLAN പാസ്‌വേഡുകൾ, മറ്റ് ക്രമീകരണങ്ങൾ എന്നിവ Google സെർവറുകളിൽ ബാക്കപ്പുചെയ്യുക</string>
+    <string name="backup_erase_dialog_message">Google സെർവറുകളിൽ നിങ്ങളുടെ WLAN പാസ്‌വേഡുകൾ, ബുക്ക്‌മാർക്കുകൾ, മറ്റ് ക്രമീകരണങ്ങൾ, അപ്ലിക്കേഷൻ ഡാറ്റ എന്നിവ ബാക്കപ്പുചെയ്യുന്നത് അവസാനിപ്പിക്കുകയും അതിലെ എല്ലാ പകർപ്പുകളും മായ്‌ക്കുകയും ചെയ്യണോ?</string>
+    <string name="wifi_setup_title">WLAN സജ്ജീകരണം</string>
+    <string name="wifi_setup_title_editing_network">WLAN നെറ്റ്‌വർക്കിൽ %s കണക്റ്റുചെയ്യുക</string>
+    <string name="wifi_setup_title_connecting_network">WLAN നെറ്റ്‌വർക്കിൽ %s കണക്റ്റുചെയ്യുന്നു…</string>
+    <string name="wifi_setup_title_connected_network">WLAN നെറ്റ്‌വർക്കിൽ %s കണക്റ്റുചെയ്‌തു</string>
+    <string name="wifi_setup_eap_not_supported">സജ്ജീകരണത്തിനിടെ നിങ്ങൾക്ക് ഒരു EAP WLAN കണക്ഷൻ കോൺഫിഗർ ചെയ്യാനാകില്ല. സജ്ജീകരണത്തിനുശേഷം, നിങ്ങൾക്ക് ഇത് ക്രമീകരണങ്ങൾ > വയർലെസ് &amp; നെറ്റ്‌വർക്കുകൾ എന്നതിൽ ചെയ്യാനാകും.</string>
+    <string name="wifi_setup_description_connected">സജ്ജീകരണം തുടരാൻ <b>അടുത്തത്</b>" സ്‌പർശിക്കുക.
+
+മറ്റൊരു WLAN നെറ്റ്‌വർക്കിൽ കണക്റ്റുചെയ്യാൻ "<b>മടങ്ങുക</b> സ്‌പർശിക്കുക.</string>
+    <string name="data_usage_menu_show_wifi">WLAN കാണിക്കുക</string>
+    <string name="data_usage_menu_hide_wifi">WLAN മറയ്‌ക്കുക</string>
+    <string name="data_usage_disable_wifi_limit">WLAN ഡാറ്റ പരിധി സജ്ജീകരിക്കുക</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_restrict_background">പശ്ചാത്തല സെല്ലുലാർ ഡാറ്റ പരിമിതപ്പെടുത്തുകയാണെങ്കിൽ, നിങ്ങൾ ഒരു WLAN യിൽ കണക്റ്റുചെയ്യുന്നതുവരെ ചില അപ്ലിക്കേഷനുകളും സേവനങ്ങളും പ്രവർത്തിക്കില്ല.</string>
+    <string name="data_usage_restrict_background_multiuser">"പശ്ചാത്തല സെല്ലുലാർ ഡാറ്റ പരിമിതപ്പെടുത്തുകയാണെങ്കിൽ, നിങ്ങൾ ഒരു WLAN യിൽ കണക്റ്റുചെയ്യുന്നതുവരെ ചില അപ്ലിക്കേഷനുകളും സേവനങ്ങളും പ്രവർത്തിക്കില്ല.
+
+ഈ ഫോണിലെ എല്ലാ ഉപയോക്താക്കളേയും ഈ ക്രമീകരണം ബാധിക്കും."</string>
+    <string name="data_usage_metered_body">പശ്ചാത്തല ഡാറ്റയെ നിയന്ത്രിക്കുമ്പോൾ, കണക്കാക്കിയ നെറ്റ്‌വർക്കുകൾ സെല്ലുലാർ പോലെ പരിഗണിക്കപ്പെടുന്നു. വലിയ ഡൗൺലോഡുകൾക്കായി ഈ നെറ്റ്‌വർക്കുകൾ ഉപയോഗിക്കുന്നതിന് മുമ്പ് അപ്ലിക്കേഷൻ മുന്നറിയിപ്പ് നൽകാനിടയുണ്ട്.</string>
+    <string name="data_usage_metered_wifi">കണക്കാക്കിയ WLAN നെറ്റ്‌വർക്കുകൾ</string>
+    <string name="data_usage_metered_wifi_disabled">കണക്കാക്കിയ നെറ്റ്‌വർക്കുകൾ തിരഞ്ഞെടുക്കുന്നതിന് WLAN ഓണാക്കുക.</string>
+    <string name="user_add_user_message_long">"കൂടുതൽ ഉപയോക്താക്കളെ സൃഷ്‌ടിച്ചുകൊണ്ട് ഈ ഉപകരണം മറ്റ് ആളുകളുമായി നിങ്ങൾക്ക് പങ്കിടാനാവും. സ്വന്തം അപ്ലിക്കേഷനുകളും വാൾപേപ്പറും അതിൽ കൂടുതൽ കാര്യങ്ങളും ഉപയോഗിച്ചുകൊണ്ട് ഇഷ്‌ടാനുസൃതമാക്കുന്നതിന് ഓരോ ഉപയോക്താക്കൾക്കും അവരുടേതായ ഒരു ഇടം ലഭിക്കുന്നു. WLAN പോലെ എല്ലാവരെയും ബാധിക്കുന്ന ഉപകരണ ക്രമീകരണങ്ങളും ഉപയോക്താക്കൾക്ക് ക്രമീകരിക്കാനാവും.
+
+നിങ്ങൾ ഒരു പുതിയ ഉപയോക്താവിനെ ചേർക്കുമ്പോൾ, ആ വ്യക്തിയ്‌ക്ക് അവരുടെ ഇടം സജ്ജീകരിക്കേണ്ടതുണ്ട്.
+
+മറ്റ് എല്ലാ ഉപയോക്താക്കൾക്കുമായി ഏതൊരു ഉപയോക്താവിനും അപ്ലിക്കേഷനുകൾ അപ്‌ഡേറ്റുചെയ്യാനാവും."</string>
+    <string name="restriction_wifi_config_title">WLAN-യും മൊബൈലും</string>
+    <string name="restriction_wifi_config_summary">WLAN-യുടെയും മൊബൈൽ ക്രമീകരണങ്ങളുടെയും പരിഷ്‌ക്കരണം അനുവദിക്കുക</string>
+    <string name="setup_wifi_nfc_tag">WLAN NFC ടാഗ് സജ്ജമാക്കുക</string>
+</resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>приближна локација</item>
+        <item>точна локација</item>
+        <item>ГПС</item>
+        <item>вибрирaj</item>
+        <item>прочитај контакти</item>
+        <item>напиши контакти</item>
+        <item>прочитај евиденција на повици</item>
+        <item>напиши дневник на повици</item>
+        <item>прочитај календар</item>
+        <item>измени календар</item>
+        <item>Скенирање WLAN</item>
+        <item>известување</item>
+        <item>Скенирање мобилен</item>
+        <item>повикај телефонски број</item>
+        <item>прочитај СМС порака</item>
+        <item>напиши СМС порака</item>
+        <item>прими СМС порака</item>
+        <item>прими СМС пораки за итни случаи</item>
+        <item>прими ММС порака</item>
+        <item>прими рекламни пораки на WAP</item>
+        <item>испрати СМС порака</item>
+        <item>прочитај СМС порака на ICC</item>
+        <item>напиши СМС порака на ICC</item>
+        <item>измени подесувања</item>
+        <item>цртај на врвот</item>
+        <item>пристапи кон известувања</item>
+        <item>фотоапарат</item>
+        <item>снимај аудио</item>
+        <item>репродуцирај аудио</item>
+        <item>прочитај табла со исечоци</item>
+        <item>измени табла со исечоци</item>
+        <item>копчиња на медиуми</item>
+        <item>аудио фокус</item>
+        <item>основна јачина на звук</item>
+        <item>јачина на звук на глас</item>
+        <item>јачина на звук на ѕвонење</item>
+        <item>јачина на звук на медиуми</item>
+        <item>јачина на звук на аларм</item>
+        <item>јачина на звук на известување</item>
+        <item>јачина на звук на Bluetooth</item>
+        <item>остани активен</item>
+        <item>следи локација</item>
+        <item>следи локација од големо значење</item>
+        <item>добиј статистики за користење</item>
+        <item>вклучи/исклучи звук на микрофон</item>
+        <item>прозорец за известување</item>
+        <item>проектирај медиуми</item>
+        <item>активирај VPN</item>
+        <item>Промена на WLAN</item>
+        <item>Промена на Bluetooth</item>
+        <item>испрати MMS</item>
+        <item>прочитај MMS</item>
+        <item>напиши MMS</item>
+        <item>автоматско вклучување</item>
+        <item>Промена на NFC</item>
+        <item>избриши SMS</item>
+        <item>избриши MMS</item>
+        <item>избриши контакти</item>
+        <item>избриши дневник на повици</item>
+        <item>промена на податоци</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Вибрирај</item>
+        <item>Прочитај контакти</item>
+        <item>Напиши контакти</item>
+        <item>Прочитај евиденција на повици</item>
+        <item>Напиши дневник на повици</item>
+        <item>Прочитај календар</item>
+        <item>Измени календар</item>
+        <item>Локација</item>
+        <item>Објави известување</item>
+        <item>Локација</item>
+        <item>Повикај телефонски број</item>
+        <item>Прочитај SMS</item>
+        <item>Напиши SMS</item>
+        <item>Прими SMS</item>
+        <item>Прими SMS</item>
+        <item>Прими MMS</item>
+        <item>Прими SMS</item>
+        <item>Испрати SMS</item>
+        <item>Прочитај SMS</item>
+        <item>Напиши SMS</item>
+        <item>Измени подесувања</item>
+        <item>Цртај на врвот</item>
+        <item>Пристапи кон известувања</item>
+        <item>Фотоапарат</item>
+        <item>Снимај аудио</item>
+        <item>Репродуцирај аудио</item>
+        <item>Прочитај табла со исечоци</item>
+        <item>Измени табла со исечоци</item>
+        <item>Копчиња за медиуми</item>
+        <item>Аудио фокус</item>
+        <item>Основна јачина на звук</item>
+        <item>Јачина на звук на глас</item>
+        <item>Јачина на звук на ѕвонење</item>
+        <item>Јачина на звук на медиуми</item>
+        <item>Јачина на звук на аларм</item>
+        <item>Јачина на звук на известување</item>
+        <item>Јачина на звук на Bluetooth</item>
+        <item>Остани активен</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Добиј статистики за користење</item>
+        <item>Вклучи/исклучи звук на микрофон</item>
+        <item>Прозорец за известување</item>
+        <item>Проектирај медиуми</item>
+        <item>Активирај VPN</item>
+        <item>Промена на WLAN</item>
+        <item>Промена на Bluetooth</item>
+        <item>Испрати MMS</item>
+        <item>Прочитај MMS</item>
+        <item>Напиши MMS</item>
+        <item>Автоматско вклучување</item>
+        <item>Промена на NFC</item>
+        <item>Избриши SMS</item>
+        <item>Избриши MMS</item>
+        <item>Избриши контакти</item>
+        <item>Избриши дневник на повици</item>
+        <item>Промена на податоци</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

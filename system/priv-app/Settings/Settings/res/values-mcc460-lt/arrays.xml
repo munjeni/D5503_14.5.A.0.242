@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>apytikslė vietovė</item>
+        <item>tiksli vietovė</item>
+        <item>GPS</item>
+        <item>vibruoti</item>
+        <item>skaityti kontaktus</item>
+        <item>rašyti kontaktus</item>
+        <item>skaityti skambučių žurnalą</item>
+        <item>rašyti skambučių žurnalą</item>
+        <item>skaityti kalendorių</item>
+        <item>keisti kalendorių</item>
+        <item>„WLAN“ žvalgymas</item>
+        <item>pranešimas</item>
+        <item>mobiliųjų telefonų žvalgymas</item>
+        <item>skambinti į telefoną</item>
+        <item>skaityti SMS</item>
+        <item>rašyti SMS</item>
+        <item>gauti SMS</item>
+        <item>gauti nepaprastosios padėties SMS</item>
+        <item>gauti MMS</item>
+        <item>gauti „WAP Push“ pranešimus</item>
+        <item>siųsti SMS</item>
+        <item>skaityti ICC SMS</item>
+        <item>rašyti ICC SMS</item>
+        <item>keisti nustatymus</item>
+        <item>piešti viršuje</item>
+        <item>pasiekti pranešimus</item>
+        <item>fotoaparatas</item>
+        <item>įrašyti garso įrašą</item>
+        <item>leisti garso įrašą</item>
+        <item>skaityti iškarpinę</item>
+        <item>keisti iškarpinę</item>
+        <item>medijos mygtukai</item>
+        <item>garso sutelktis</item>
+        <item>pagrindinis garsumas</item>
+        <item>balso garsumas</item>
+        <item>skambučio garsumas</item>
+        <item>medijos garsumas</item>
+        <item>signalo garsumas</item>
+        <item>pranešimų garsumas</item>
+        <item>„Bluetooth“ garsumas</item>
+        <item>neužmigdyti</item>
+        <item>stebėti vietovę</item>
+        <item>stebėti didelė galia vietovė</item>
+        <item>gauti naudojimo statistiką</item>
+        <item>nutildyti / įjungti mikrofono garsą</item>
+        <item>informacinis langas</item>
+        <item>projektuoti mediją</item>
+        <item>įjungti VPN</item>
+        <item>WLAN pakeitimas</item>
+        <item>„Bluetooth“ pakeitimas</item>
+        <item>siųsti MMS</item>
+        <item>skaityti MMS</item>
+        <item>rašyti MMS</item>
+        <item>automatiškai pradėti</item>
+        <item>NFC pakeitimas</item>
+        <item>trinti SMS</item>
+        <item>trinti MMS</item>
+        <item>trinti kontaktus</item>
+        <item>trinti skambučių žurnalą</item>
+        <item>duomenų pakeitimas</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Vietovė</item>
+        <item>Vietovė</item>
+        <item>Vietovė</item>
+        <item>Vibruoti</item>
+        <item>Skaityti kontaktus</item>
+        <item>Rašyti kontaktus</item>
+        <item>Skaityti skambučių žurnalą</item>
+        <item>Rašyti skambučių žurnalą</item>
+        <item>Skaityti kalendorių</item>
+        <item>Keisti kalendorių</item>
+        <item>Vietovė</item>
+        <item>Paskelbti pranešimą</item>
+        <item>Vietovė</item>
+        <item>Skambinti į telefoną</item>
+        <item>Skaityti SMS</item>
+        <item>Rašyti SMS</item>
+        <item>Gauti SMS</item>
+        <item>Gauti SMS</item>
+        <item>Gauti MMS</item>
+        <item>Gauti SMS</item>
+        <item>Siųsti SMS</item>
+        <item>Skaityti SMS</item>
+        <item>Rašyti SMS</item>
+        <item>Keisti nustatymus</item>
+        <item>Piešti viršuje</item>
+        <item>Pasiekti pranešimus</item>
+        <item>Fotoaparatas</item>
+        <item>Įrašyti garso įrašą</item>
+        <item>Leisti garso įrašą</item>
+        <item>Skaityti iškarpinę</item>
+        <item>Keisti iškarpinę</item>
+        <item>Medijos mygtukai</item>
+        <item>Garso sutelktis</item>
+        <item>Pagrindinis garsumas</item>
+        <item>Balso garsumas</item>
+        <item>Skambučio garsumas</item>
+        <item>Medijos garsumas</item>
+        <item>Signalo garsumas</item>
+        <item>Pranešimo garsumas</item>
+        <item>„Bluetooth“ garsumas</item>
+        <item>Neužmigdyti</item>
+        <item>Vietovė</item>
+        <item>Vietovė</item>
+        <item>Gauti naudojimo statistiką</item>
+        <item>Nutildyti / įjungti mikrofono garsą</item>
+        <item>Informacinis langas</item>
+        <item>Projektuoti mediją</item>
+        <item>Įjungti VPN</item>
+        <item>WLAN pakeitimas</item>
+        <item>„Bluetooth“ pakeitimas</item>
+        <item>Siųsti MMS</item>
+        <item>Skaityti MMS</item>
+        <item>Rašyti MMS</item>
+        <item>Automatiškai pradėti</item>
+        <item>NFC pakeitimas</item>
+        <item>Trinti SMS</item>
+        <item>Trinti MMS</item>
+        <item>Trinti kontaktus</item>
+        <item>Trinti skambučių žurnalą</item>
+        <item>Duomenų pakeitimas</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>

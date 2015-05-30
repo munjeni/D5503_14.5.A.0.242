@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_ops_summaries">
+        <item>localización aproximada</item>
+        <item>localización precisa</item>
+        <item>GPS</item>
+        <item>vibrar</item>
+        <item>ler contactos</item>
+        <item>escribir contactos</item>
+        <item>ler rexistro de chamadas</item>
+        <item>escribir rexistro de chamadas</item>
+        <item>ler calendario</item>
+        <item>modificar calendario</item>
+        <item>exploración de WLAN</item>
+        <item>notificación</item>
+        <item>exploración de cela</item>
+        <item>chamada telefónica</item>
+        <item>ler SMS</item>
+        <item>escribir SMS</item>
+        <item>recibir SMS</item>
+        <item>recibir SMS de emerxencia</item>
+        <item>recibir MMS</item>
+        <item>recibir WAP push</item>
+        <item>enviar SMS</item>
+        <item>ler SMS ICC</item>
+        <item>escribir SMS ICC</item>
+        <item>modificar configuración</item>
+        <item>debuxar na parte superior</item>
+        <item>acceso ás notificacións</item>
+        <item>cámara</item>
+        <item>gravar audio</item>
+        <item>reproducir audio</item>
+        <item>ler portapapeis</item>
+        <item>modificar portapapeis</item>
+        <item>botóns multimedia</item>
+        <item>enfoque de audio</item>
+        <item>volume principal</item>
+        <item>volume da voz</item>
+        <item>volume do timbre</item>
+        <item>volume multimedia</item>
+        <item>volume da alarma</item>
+        <item>volume das notificacións</item>
+        <item>volume do Bluetooth</item>
+        <item>manter activo</item>
+        <item>supervisar a localización</item>
+        <item>supervisar localización de alta potencia</item>
+        <item>obter estatísticas de uso</item>
+        <item>desactivar/activar o micrófono</item>
+        <item>Ventá do proxecto</item>
+        <item>Multimedia do proxecto</item>
+        <item>activar VPN</item>
+        <item>Cambio de WLAN</item>
+        <item>Cambio de Bluetooth</item>
+        <item>enviar MMS</item>
+        <item>ler MMS</item>
+        <item>escribir MMS</item>
+        <item>inicio automático</item>
+        <item>Cambio de NFC</item>
+        <item>eliminar SMS</item>
+        <item>eliminar MMS</item>
+        <item>eliminar contactos</item>
+        <item>eliminar rexistro de chamadas</item>
+        <item>cambio de datos</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Localización</item>
+        <item>Localización</item>
+        <item>Localización</item>
+        <item>Vibrar</item>
+        <item>Ler contactos</item>
+        <item>Escribir contactos</item>
+        <item>Ler rexistro de chamadas</item>
+        <item>Escribir rexistro de chamadas</item>
+        <item>Ler calendario</item>
+        <item>Modificar calendario</item>
+        <item>Localización</item>
+        <item>Notificación de publicación</item>
+        <item>Localización</item>
+        <item>Chamada telefónica</item>
+        <item>Ler SMS</item>
+        <item>Escribir SMS</item>
+        <item>Recibir SMS</item>
+        <item>Recibir SMS</item>
+        <item>Recibir MMS</item>
+        <item>Recibir SMS</item>
+        <item>Enviar SMS</item>
+        <item>Ler SMS</item>
+        <item>Escribir SMS</item>
+        <item>Modificar configuración</item>
+        <item>Debuxar na parte superior</item>
+        <item>Acceso ás notificacións</item>
+        <item>Cámara</item>
+        <item>Gravar audio</item>
+        <item>Reproducir audio</item>
+        <item>Ler portapapeis</item>
+        <item>Modificar portapapeis</item>
+        <item>Botóns multimedia</item>
+        <item>Enfoque de audio</item>
+        <item>Volume principal</item>
+        <item>Volume da voz</item>
+        <item>Volume do timbre</item>
+        <item>Volume multimedia</item>
+        <item>Volume da alarma</item>
+        <item>Volume das notificacións</item>
+        <item>Volume do Bluetooth</item>
+        <item>Manter activo</item>
+        <item>Localización</item>
+        <item>Localización</item>
+        <item>Obter estatísticas de uso</item>
+        <item>Desactivar/activar o micrófono</item>
+        <item>Ventá do proxecto</item>
+        <item>Multimedia do proxecto</item>
+        <item>Activar VPN</item>
+        <item>Cambio de WLAN</item>
+        <item>Cambio de Bluetooth</item>
+        <item>Enviar MMS</item>
+        <item>Ler MMS</item>
+        <item>Escribir MMS</item>
+        <item>Inicio automático</item>
+        <item>Cambio de NFC</item>
+        <item>Eliminar SMS</item>
+        <item>Eliminar MMS</item>
+        <item>Eliminar contactos</item>
+        <item>Eliminar rexistro de chamadas</item>
+        <item>Cambio de datos</item>
+    </string-array>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+</resources>
