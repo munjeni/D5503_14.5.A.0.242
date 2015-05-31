@@ -68,4 +68,8 @@
         <item quantity="other">"%1$d minutes "</item>
         <item quantity="one">"%1$d minute "</item>
     </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d times</item>
+        <item quantity="one">once</item>
+    </plurals>
 </resources>

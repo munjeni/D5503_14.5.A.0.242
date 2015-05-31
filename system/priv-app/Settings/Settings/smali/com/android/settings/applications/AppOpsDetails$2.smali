@@ -30,7 +30,7 @@
     .locals 0
 
     .prologue
-    .line 206
+    .line 221
     iput-object p1, p0, Lcom/android/settings/applications/AppOpsDetails$2;->this$0:Lcom/android/settings/applications/AppOpsDetails;
 
     iput p2, p0, Lcom/android/settings/applications/AppOpsDetails$2;->val$switchOp:I
@@ -50,7 +50,7 @@
     .param p2, "isChecked"    # Z
 
     .prologue
-    .line 209
+    .line 224
     iget-object v0, p0, Lcom/android/settings/applications/AppOpsDetails$2;->this$0:Lcom/android/settings/applications/AppOpsDetails;
 
     # getter for: Lcom/android/settings/applications/AppOpsDetails;->mAppOps:Landroid/app/AppOpsManager;
@@ -87,10 +87,10 @@
     :goto_0
     invoke-virtual {v1, v2, v3, v4, v0}, Landroid/app/AppOpsManager;->setMode(IILjava/lang/String;I)V
 
-    .line 214
+    .line 229
     return-void
 
-    .line 209
+    .line 224
     :cond_0
     const/4 v0, 0x1
 

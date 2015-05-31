@@ -65,4 +65,10 @@
     <color name="battery_history_chart_phone_signal_6">#ff679e37</color>
     <color name="battery_history_chart_phone_signal_7">#ff0a7f42</color>
     <color name="locale_selector_divider_color">#ffffffff</color>
+    <color name="background_color_darker_gray">@android:color/darker_gray</color>
+    <color name="background_color_gray">#ffdddddd</color>
+    <color name="background_color_holo_blue_light">@android:color/holo_blue_light</color>
+    <color name="background_color_transparent">@android:color/transparent</color>
+    <color name="background_color_white">@android:color/white</color>
+    <color name="text_color_white">@android:color/white</color>
 </resources>

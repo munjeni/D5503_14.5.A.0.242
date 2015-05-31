@@ -794,7 +794,7 @@
     invoke-direct {p0}, Landroid/app/Activity;-><init>()V
 
     .line 221
-    const/16 v0, 0x1c
+    const/16 v0, 0x1d
 
     new-array v0, v0, [I
 
@@ -877,6 +877,7 @@
         0x7f0e0298
         0x7f0e0291
         0x7f0e0060
+        0x7f0e02c9
     .end array-data
 .end method
 

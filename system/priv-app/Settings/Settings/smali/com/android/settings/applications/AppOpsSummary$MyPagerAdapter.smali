@@ -18,22 +18,28 @@
 
 
 # instance fields
+.field private mPageTemplates:[Lcom/android/settings/applications/AppOpsState$OpsTemplate;
+
 .field final synthetic this$0:Lcom/android/settings/applications/AppOpsSummary;
 
 
 # direct methods
-.method public constructor <init>(Lcom/android/settings/applications/AppOpsSummary;Landroid/app/FragmentManager;)V
+.method public constructor <init>(Lcom/android/settings/applications/AppOpsSummary;Landroid/app/FragmentManager;[Lcom/android/settings/applications/AppOpsState$OpsTemplate;)V
     .locals 0
     .param p2, "fm"    # Landroid/app/FragmentManager;
+    .param p3, "templates"    # [Lcom/android/settings/applications/AppOpsState$OpsTemplate;
 
     .prologue
-    .line 59
+    .line 65
     iput-object p1, p0, Lcom/android/settings/applications/AppOpsSummary$MyPagerAdapter;->this$0:Lcom/android/settings/applications/AppOpsSummary;
 
-    .line 60
+    .line 66
     invoke-direct {p0, p2}, Landroid/support/v13/app/FragmentPagerAdapter;-><init>(Landroid/app/FragmentManager;)V
 
-    .line 61
+    .line 67
+    iput-object p3, p0, Lcom/android/settings/applications/AppOpsSummary$MyPagerAdapter;->mPageTemplates:[Lcom/android/settings/applications/AppOpsState$OpsTemplate;
+
+    .line 68
     return-void
 .end method
 
@@ -43,10 +49,22 @@
     .locals 1
 
     .prologue
-    .line 70
-    sget-object v0, Lcom/android/settings/applications/AppOpsSummary;->sPageTemplates:[Lcom/android/settings/applications/AppOpsState$OpsTemplate;
+    .line 77
+    iget-object v0, p0, Lcom/android/settings/applications/AppOpsSummary$MyPagerAdapter;->mPageTemplates:[Lcom/android/settings/applications/AppOpsState$OpsTemplate;
 
     array-length v0, v0
+
+    return v0
+.end method
+
+.method public getCurrentPage()I
+    .locals 1
+
+    .prologue
+    .line 95
+    iget-object v0, p0, Lcom/android/settings/applications/AppOpsSummary$MyPagerAdapter;->this$0:Lcom/android/settings/applications/AppOpsSummary;
+
+    iget v0, v0, Lcom/android/settings/applications/AppOpsSummary;->mCurPos:I
 
     return v0
 .end method
@@ -56,10 +74,10 @@
     .param p1, "position"    # I
 
     .prologue
-    .line 65
+    .line 72
     new-instance v0, Lcom/android/settings/applications/AppOpsCategory;
 
-    sget-object v1, Lcom/android/settings/applications/AppOpsSummary;->sPageTemplates:[Lcom/android/settings/applications/AppOpsState$OpsTemplate;
+    iget-object v1, p0, Lcom/android/settings/applications/AppOpsSummary$MyPagerAdapter;->mPageTemplates:[Lcom/android/settings/applications/AppOpsState$OpsTemplate;
 
     aget-object v1, v1, p1
 
@@ -73,7 +91,7 @@
     .param p1, "position"    # I
 
     .prologue
-    .line 75
+    .line 82
     iget-object v0, p0, Lcom/android/settings/applications/AppOpsSummary$MyPagerAdapter;->this$0:Lcom/android/settings/applications/AppOpsSummary;
 
     iget-object v0, v0, Lcom/android/settings/applications/AppOpsSummary;->mPageNames:[Ljava/lang/CharSequence;
@@ -88,10 +106,10 @@
     .param p1, "state"    # I
 
     .prologue
-    .line 89
+    .line 100
     if-nez p1, :cond_0
 
-    .line 92
+    .line 103
     :cond_0
     return-void
 .end method
@@ -103,7 +121,7 @@
     .param p3, "positionOffsetPixels"    # I
 
     .prologue
-    .line 80
+    .line 87
     return-void
 .end method
 
@@ -112,11 +130,11 @@
     .param p1, "position"    # I
 
     .prologue
-    .line 84
+    .line 91
     iget-object v0, p0, Lcom/android/settings/applications/AppOpsSummary$MyPagerAdapter;->this$0:Lcom/android/settings/applications/AppOpsSummary;
 
     iput p1, v0, Lcom/android/settings/applications/AppOpsSummary;->mCurPos:I
 
-    .line 85
+    .line 92
     return-void
 .end method

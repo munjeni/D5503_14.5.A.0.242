@@ -32,7 +32,7 @@
     .locals 1
 
     .prologue
-    .line 185
+    .line 200
     iput-object p1, p0, Lcom/android/settings/applications/AppOpsDetails$1;->this$0:Lcom/android/settings/applications/AppOpsDetails;
 
     iput p2, p0, Lcom/android/settings/applications/AppOpsDetails$1;->val$switchOp:I
@@ -41,7 +41,7 @@
 
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
-    .line 186
+    .line 201
     const/4 v0, 0x1
 
     iput-boolean v0, p0, Lcom/android/settings/applications/AppOpsDetails$1;->firstMode:Z
@@ -67,22 +67,22 @@
     .end annotation
 
     .prologue
-    .line 190
+    .line 205
     .local p1, "parentView":Landroid/widget/AdapterView;, "Landroid/widget/AdapterView<*>;"
     iget-boolean v0, p0, Lcom/android/settings/applications/AppOpsDetails$1;->firstMode:Z
 
     if-eqz v0, :cond_0
 
-    .line 191
+    .line 206
     const/4 v0, 0x0
 
     iput-boolean v0, p0, Lcom/android/settings/applications/AppOpsDetails$1;->firstMode:Z
 
-    .line 196
+    .line 211
     :goto_0
     return-void
 
-    .line 194
+    .line 209
     :cond_0
     iget-object v0, p0, Lcom/android/settings/applications/AppOpsDetails$1;->this$0:Lcom/android/settings/applications/AppOpsDetails;
 
@@ -136,7 +136,7 @@
     .end annotation
 
     .prologue
-    .line 201
+    .line 216
     .local p1, "parentView":Landroid/widget/AdapterView;, "Landroid/widget/AdapterView<*>;"
     return-void
 .end method

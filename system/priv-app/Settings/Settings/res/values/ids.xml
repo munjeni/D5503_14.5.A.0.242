@@ -702,4 +702,15 @@
     <item type="id" name="vpn_create">false</item>
     <item type="id" name="vpn_lockdown">false</item>
     <item type="id" name="wifi_wps">false</item>
+    <item type="id" name="privacy_guard_prefs">false</item>
+    <item type="id" name="apps_list">false</item>
+    <item type="id" name="app_privacy_guard_icon">false</item>
+    <item type="id" name="reset">false</item>
+    <item type="id" name="advanced">false</item>
+    <item type="id" name="help">false</item>
+    <item type="id" name="privacy_settings_cyanogenmod">false</item>
+    <item type="id" name="show_user_apps">false</item>
+    <item type="id" name="show_system_apps">false</item>
+    <item type="id" name="reset_counters">false</item>
+    <item type="id" name="op_counts">false</item>
 </resources>
